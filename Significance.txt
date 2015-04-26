@@ -1,0 +1,6312 @@
+run:
+-----------------------------------------------------
+FILENAME      : p1.txt
+Sentence : 0 : ನನಗೆ ಚಾಕ್ಲೇಟ್ ಎಂದರೇ ಬಹಳಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ನನಗೆ ತುಂಬಾ ಇಷ್ಟವಾದ ಉತ್ತಮ ಚಾಕ್ಲೇಟ್ ಸೆಲೆಬ್ರೇಷನ್ಸ್ ಇದು ತುಂಬಾ ಮೃದುವಾಗಿರುತ್ತದೆ
+Poslist : [ಇಷ್ಟವಾದ, ಉತ್ತಮ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 2 : ಇದು ತುಂಬಾ ಚೆನ್ನಾಗಿರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಆದುದರಿಂದ ನನಗೆ ಸೆಲೆಬ್ರೇಷನ್ಸ್ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p10.txt
+Sentence : 0 : ರಘು ದೀಕ್ಷಿತ್ ಜಾನಪದ ಶೈಲಿಯ ಹಾಡುಗಳನ್ನು ರಾಕ್ ಶೈಲಿಯಲ್ಲಿ ಹಾಡುವ ಹಾಡುಗಾರ,ಇವರು ನನಗೆ ಬಹಳ ಇಷ್ಟ ಏಕೆಂದರೆ ಅವರು ಕರ್ನಾಟಕದ ಜಾನಪದ ಕಲೆಯನ್ನು ಪ್ರಸಿದ್ದಿಗೊಳಿಸಿದ್ದಾರೆ
+Poslist : [ಇಷ್ಟ, ಪ್ರಸಿದ್ದಿಗೊಳಿಸಿದ್ದಾರೆ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 1 : ರಘು ದೀಕ್ಷಿತ್ ಮೈಕ್ರೋಬಯೊಲಜಿಯಲ್ಲಿ ಚಿನ್ನದ ಪದಕ ಪಡೆದು ಉತ್ತಮ ಶಿಕ್ಷಣ ಹೊಂದಿದ್ದರೂ ಸಹ ಸಂಗೀತದ ಹಾದೀ ಹಿಡಿದು ಪ್ರಸಿದ್ದಿಯನ್ನು ಪಡೆದಿದ್ದಾರೆ
+Poslist : [ಉತ್ತಮ, ಪ್ರಸಿದ್ದಿಯನ್ನು]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p100.txt
+Sentence : 0 : ಕ್ರಿಕೆಟ್ ಮೊದಲು ಬ್ರಿಟೆನ್‌ನಲ್ಲಿ ಆರಂಭವಾಯಿತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಹಲವಾರು ತಂಡಗಳು ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ನಮ್ಮ ಭಾರತವು ಕೂಡ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ನಮ್ಮ ಭಾರತ ಒಂದು ತಂಡದ ನಾಯಕ ಎಮ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಎಸ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಧೋನಿ ನಮ್ಮ ಭಾರತ ತುಂಬಾನೆ ಮ್ಯಾಚಸ್ ಆಡಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಅದರಲ್ಲಿ ತುಂಬಾ ಪಂದ್ಯ ಗೆದ್ದಿದೆ
+Poslist : [ಗೆದ್ದಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p102.txt
+Sentence : 0 : ಇದು ಒಂದು ಒಳ್ಳೆಯ ವಿಧವಾದ ಚಾಕ್ಲೇಟ್ ಆಗಿದೆ
+Poslist : [ಒಳ್ಳೆಯ, ವಿಧವಾದ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 1 : ಈಗಿನ ಕಾಲದ ಮಕ್ಕಳಿಗೆ ಬಹಳ ಇಷ್ಟವಾದುದ್ದು
+Poslist : [ಇಷ್ಟವಾದುದ್ದು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದನ್ನು ಮಕ್ಕಳಿಗೆ ಬಹುಮಾನದ ರೂಪದಲ್ಲಿ ನೀಡಲಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ಕೇವಲ ರೂ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ೫೦ ರಿಂದ ಶುರು ಆಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಬಾಯಿ ಸಿಹಿ ಮಾಡಿಕೊಳ್ಳಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಇದು ಮೊದಲು ಚೆನ್ನಾಗಿರಲಿಲ್ಲಾ
+Poslist : []
+Neglist : [ಚೆನ್ನಾಗಿರಲಿಲ್ಲಾ]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+Sentence : 7 : ಅಮಿತಾ ಬಚ್ಚನ್ ಅವರು ವಿಜ್ಞಾಪನೆಯನ್ನು ನೀಡಿದ ಮೇಲೆ ಇದು ತುಂಬಾ ಎತ್ತರಕ್ಕೆ ಬೆಳಿಯಿತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p103.txt
+Sentence : 0 : ಈ ಮೊಬೈಲ್‌ಗಳು ಭಾರತದಲ್ಲಿ ಅತೀ ಹೆಚ್ಚು ಮಂದಿ ಉಪಯೋಗಿಸುವ ದೂರವಾಣಿಯಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಈ ಮೊಬೈಲ್‌ಗಳು ಹಣದಲ್ಲಿ ದುಬಾರಿಯಾಗಿದ್ದರೂ ಒಳ್ಳೆಯ ಗುಣಮಟ್ಟದ್ದಾಗಿದೆ
+Poslist : [ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ಕ್ಯಾಮೆರಾ,ಬ್ಲೂಟೂತ್,ವೈ-ಫೈ,ಗೇಮ್ಸ್‌ಗಳು ಇವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಈ ದೂರವಾಣಿ ನಮ್ಮ ಮನೆಯಲ್ಲಿ ಎಲ್ಲರೂ ಉಪಯೋಗಿಸುತ್ತೇವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದು ಸಾರ್ವಜನಿಕರಿಗೆ ಅನುಕೂಲದ ದೂರವಾಣಿಯಾಗಿದೆ
+Poslist : [ಅನುಕೂಲದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p104.txt
+Sentence : 0 : ಈ ಪತ್ರಕೆಯು ರಾಜ್ಯ,ರಾಷ್ಟ್ರೀಯ,ಅಂತರಾಷ್ಟ್ರೀಯ ವಿಚಾರವನ್ನು ಪ್ರಕಟ ಪಡಿಸುವುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಏಷ್ಯದ ನಂ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ೧ ಆಗಿದ್ದು ಪ್ರಪಂಚದ ನಂ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ೨ನೇ ಪತ್ರಿಕೆಯಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಈ ಪತ್ರಿಕೆಯನ್ನು ನಮ್ಮ ಮನೆಯಲ್ಲೂ ತರಿಸಿಕೊಳ್ಳುತ್ತೇವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಇದರಲ್ಲಿ ಮಕ್ಕಳಿಗೆ,ಕಾರ್ಮಿಕರಿಗೆ,ವೃದ್ಧರಿಗೆ ಬೇಕಾದ ವಿಷಯವು ತಿಳಿದುಬರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಈ ನ್ಯೂಸ್ ಪೇಪರ್‌ಅನ್ನು ಎಲ್ಲರೂ ತರಿಸಿಕೊಳ್ಳುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 0.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p105.txt
+Sentence : 0 : ಇದು ಒಳ್ಳೆಯ ಕುಡಿಯುವ ನೀರಾಗಿದೆ
+Poslist : [ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದನ್ನು ಬೇರೆಯ ದೇಶಕ್ಕೂ ರಫ್ತು ಮಾಡಲಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದು ದುಬಾರಿಯಾದರು ಒಳ್ಳೆಯ ತಂಪುಪಾನಿಯ ಇರುತ್ತದೆ
+Poslist : [ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ವಯಸ್ಸಾದವರಿಗೆ ಶುದ್ಧವಾದ ನೀರು ಅತ್ಯಗತ್ಯ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದು ಕೊಳಚೆ ನೀರನ್ನು ಶುದ್ಧ ಮಾಡಲು ಯಶಸ್ವಿಯಾಗಿದೆ
+Poslist : [ಯಶಸ್ವಿಯಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p106.txt
+Sentence : 0 : ಸ್ಯಾಮ್‌ಸಂಗ್ ಕೊರಿಯಾ ದೇಶದ್ದಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಈ ಐ ಪ್ಯಾಡ್‌ನಲ್ಲಿ ಯಾವುದಾದರೂ ವಿಷಯವನ್ನು ತಿಳಿದುಕೊಳ್ಳಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಕೊರೀಯಾ ಟಿಕ್ನಾಲಜಿಯಲ್ಲಿ ತುಂಬಾ ಮುಂದುವರೆದಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ೧೦ ಸಿನಿಮಾ ರೆಕರ್ಡ್ ಮಾಡುವ ಶಕ್ತಿ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದು ಅತ್ಯುತ್ತಮ ಪ್ರಾಡಕ್ಟ್ಸ್
+Poslist : [ಅತ್ಯುತ್ತಮ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p107.txt
+Sentence : 0 : ಇದೊಂದು ಅತ್ಯುತ್ತಮ ಚಿತ್ರ
+Poslist : [ಅತ್ಯುತ್ತಮ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಶಾರೂಖ್ ಖಾನ್ ಮತ್ತು ದೀಪಿಕಾ ಪಡುಕೋಣೆ ನಟಿಸಿದ್ದಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿರುವ ಗೀತೆಗಳು ಬಹಳ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಈ ಚಿತ್ರವನ್ನು ವರ್ಷದ ಅತ್ಯುತ್ತಮ ಚಿತ್ರ ಎಂದು ಆರಿಸಿದ್ದಾರೆ
+Poslist : [ಅತ್ಯುತ್ತಮ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಇದರಲ್ಲಿ ದೀಪಿಕಾ ಪಡುಕೋಣೆ (ಮೀನಮ್ಮ) ಎಂಬ ಪಾತ್ರದಲ್ಲಿ ಅತ್ಯುತ್ತಮವಾಗಿ ನಟಸಿದ್ದಾರೆ
+Poslist : [ಅತ್ಯುತ್ತಮವಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 5 : ಆದ್ದರಿಂದ ನಾನು ಈ ಚಿತ್ರವನ್ನು ಅತ್ಯುತ್ತಮ ಎಂದು ಹೇಳಲು ಬಯಸುತ್ತೇನೆ
+Poslist : [ಅತ್ಯುತ್ತಮ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p108.txt
+Sentence : 0 : ಇದೊಂದು ಗೀತೆಗಳ ಸ್ಪರ್ಧೆಯಾಗಿತ್ತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದನ್ನು ಈ-ಟಿವಿ ವಾಹಿನಿಯಲ್ಲಿ ಪಸಾರ ಮಾಡುತ್ತಿದ್ದರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ಹಲವಾರು ಗಾಯಕರು ತಮ್ಮ ಪ್ರತಿಭೆಯನ್ನು ತೋರಿಸಲು ಬಂದಿದ್ದರು
+Poslist : [ಪ್ರತಿಭೆಯನ್ನು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ಡಾ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಎಸ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಪಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯಂ ಅವರು ತೀರ್ಪುಗಾರರಾಗಿ ಕಾರ್ಯವನ್ನು ನಿರ್ವಹಿಸುತ್ತಿದ್ದರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 7 : ಆದ್ದರಿಂದ ನಾನು ಈ ಕಾರ್ಯಕ್ರಮವನ್ನು ತುಂಬ ಇಷ್ಟ ಪಡುತ್ತೇನೆ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p109.txt
+Sentence : 0 : ಇದೊಂದು ಅತ್ಯುತ್ತಮ ಆಭರಣದ ಮಳಿಗೆಯಾಗಿದೆ
+Poslist : [ಅತ್ಯುತ್ತಮ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದು ನಮ್ಮ ಕರ್ನಾಟಕದಲ್ಲಿ ಒಳ್ಳೆ ಆಭರಣದ ಮಳಿಗೆ ಎಂದು ಹೆಸರು ಪಡೆದಿದೆ
+Poslist : [ಒಳ್ಳೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇವರು ಅತ್ಯುತ್ತಮ ಒಳ್ಳೆಯ ಗುಣಮಟ್ಟದ ಆಭರಣವನ್ನು (ಚಿನ್ಬ,ಬೆಳ್ಳಿ,ಡೈಮಂಡ್,ಪ್ಲಾಟಿನಮ್) ಮಾರಾಟ ಮಾಡುತ್ತಾರೆ
+Poslist : [ಅತ್ಯುತ್ತಮ, ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 3 : ಆದ್ದರಿಂದ ಹಲವಾರು ಜನರು ಈ ಮಳಿಗೆಯಲ್ಲಿ ವ್ಯಾಪಾರ ಮಾಡುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p11.txt
+Sentence : 0 : ನನಗೆ ಈ ಚಾಕ್ಲೇಟ್ ಬಹಳ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದು ತುಂಬಾ ಸಿಹಿ ಹಾಗೂ ರುಚಿಕರವಾಗಿರುತ್ತದೆ
+Poslist : [ರುಚಿಕರವಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಅದರಲ್ಲೂ ಈ ಚಾಕ್ಲೇಟ್ ಕರಗಿದಾಗ ತುಂಬಾ ಇಷ್ಟವಾಗುತ್ತದೆ
+Poslist : [ಇಷ್ಟವಾಗುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದನ್ನು ತಿನ್ನುವಾಗ ಅದರಲ್ಲಿರುವ ಕೊಕೋ ಹಾಗೂ ಹಾಲಿನ ರುಚಿ ಸಿಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p110.txt
+Sentence : 0 : ಇದು ಒಂದು ಹಾಲಿನ ಉತ್ಪಾದಕರ ಸಂಘದ ಹೆಸರಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದನ್ನು ಕರ್ನಾಟಕ ಮಿಲ್ಕ್ ಫೇಡರೇಷನ್ ಎನ್ನುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇವರು ಹಾಲನ್ನು ಉಪಯೋಗಿಸಿ ಹಲವಾರು ವಸ್ತುಗಳನ್ನು ತಯಾರಿಸುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇವರು ಯಾವುದೇ ಕಲಬೆರಕೆ ಇಲ್ಲದೇ ಒಳ್ಳೆಯ ಪ್ರಾಡೆಕ್ಟ್ಸ್‌ಗಳನ್ನು ತಯಾರಿಸುತ್ತಾರೆ
+Poslist : [ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಇವರ ಪ್ರಾಡೆಕ್ಟ್ಸ್‌ಗಳೆಂದರೆ ಹಾಲು,ಮೊಸರು,ಬೆಣ್ಣೆ,ಬರ್ಫಿ,ತುಪ್ಪ,ಇತ್ಯಾದಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ನಾವೆಲ್ಲರು ನಂದಿನಿ ಪ್ರಾಡೆಕ್ಟ್ಸ್‌ಗಳನ್ನು ಉಪಯೋಗಿಸಿ ಒಳ್ಳೆಯ ಆರೋಗ್ಯವನ್ನು ಪಡೆಯಬಹುದು
+Poslist : [ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p111.txt
+Sentence : 0 : ಇದೊಂದು ಅತೀ ಉತ್ತಮವಾದ ಟೂತ್ ಪೇಸ್ಟ್ ಆಗಿದೆ
+Poslist : [ಉತ್ತಮವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ನಾವು ಹಲವಾರು ತಿಂಡಿಗಳನ್ನು ತಿಂದು ನಮ್ಮ ಹಲ್ಲುಗಳಲ್ಲಿ ಕ್ಯಾವಿಟಿ ಉಂಟಾಗಿರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಆದ್ದರಿಂದ ನಾವು ನಮ್ಮ ಹಲ್ಲುಗಳ ಸಂರಕ್ಷಣೆಗೆ ಮತ್ತು ಬಾಯಿಯ ಸ್ವಚ್ಛತೆಗೆ ಈ ಪೇಸ್ಟ್ ಉಪಯೋಗಿಸಬಹುದೆಂದು ನಾನು ಹೇಳುತ್ತೇನೆ
+Poslist : [ಸ್ವಚ್ಛತೆಗೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p112.txt
+Sentence : 0 : ಈ ವಾಹನವು ಇತ್ತೀಚೆಗೆ ಬಂದಂತಹ ವಾಹನವಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಈ ವಾಹನವನ್ನು ಮಾರುತಿ ಸುಜುಕೀ ಕಂಪನಿಯವರು ಮಾರುಕಟ್ಟೆಗೆ ನೀಡಿದ್ದಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಈ ವಾಹನವು ಚಿಕ್ಕದಾಗಿ-ಚೊಕ್ಕದಾಗಿ ನಾಲ್ಕು ಜನ ಕೂರುವಂತಹದ್ದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಹಾಗೂ ಈ ವಾಹನವನ್ನು ಹಲವಾರು ಬಣ್ಣಗಳಲ್ಲಿ ಚಿತ್ರೀಕರಿಸಲಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 0.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p114.txt
+Sentence : 0 : ಇದು ಒಂದು ರಿಯಾಲಿಟಿ ಶೋ ಆಗಿರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ಹಿಂದಿ,ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಬರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದು ಮೊದಲು ಆಮೇರಿಕಾದಲ್ಲಿ ಶುರುವಾಗಿತ್ತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಆಗ ಅದರ ಹೆಸರು ಬಿಗ್ ಬ್ರದರ್‍ ಎಂದು ಇತ್ತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದನ್ನು ಕನ್ನಡದಲ್ಲಿ ೨೦೧೩ರಲ್ಲಿ ಶುರುವಾಯಿತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಹಾಗೂ ಹಿಂದಿಯಲ್ಲಿ ೨೦೦೬ರಲ್ಲಿ ಶುರುವಾಯಿತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಇದ್ದರಿಂದ ವೀಕ್ಷಕರಿಗೆ ಬಹಳ ಮನರಂಜನೆ ಸಿಗುತ್ತದೆ
+Poslist : [ಮನರಂಜನೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 7 : ಇದು ಬಹಳ ಜನರಿಗೆ ಇಷ್ಟವಾದ ಕಾರ್ಯಕ್ರಮ
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p115.txt
+Sentence : 0 : ಇದು ಒಂದು ಕ್ರೀಡಾ ಚಾನಲ್ ಆಗಿರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ನನಗೆ ಎಲ್ಲರಿಗೂ ಇಷ್ಟವಾದ ಚಾನಲ್ ಆಗಿರುತ್ತದೆ
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ವಿವಿಧ ಕ್ರೀಡೆಗಳನ್ನು ನೋಡಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ಸ್ಟಾರ್ ಸ್ಪೋಟ್ಸ್ ೧,೨,೩,೪,ಎಚ್‌ಡಿ೧,ಎಚ್‌ಡಿ೨ ಎಂದು ವಿವಿಧ ಭಾಗಳಿವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದರಲ್ಲಿ ಮಾಸ್ಟರ್ ಕ್ಲಾಸ್ ಎಂಬ ಕಾರ್ಯಕ್ರಮ ಬರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p116.txt
+Sentence : 0 :  ಚೆನ್ನೈ ಎಕ್ಸ್‌ಪ್ರಸ್ ಒಂದು ಅತ್ಯುನ್ನತವಾದ ಸಿನಿಮಾ
+Poslist : [ಅತ್ಯುನ್ನತವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ನಾನು ಇದುವರೆಗೂ ನೋಡಿದ ಸಿನಿಮಾಗಳಲ್ಲಿ ನನಗೆ ಈ ಸಿನಿಮಾ ತುಂಬ ಇಷ್ಟವಾಯಿತು
+Poslist : [ಇಷ್ಟವಾಯಿತು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಈ ಟೈಟಲ್ ನನಗೆ ಇಷ್ಟವಾಯಿತು
+Poslist : [ಇಷ್ಟವಾಯಿತು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ನನಗೆ ದೀಪಿಕಾ ಎಂದರೆ ತುಂಬ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಅದಕ್ಕಾಗಿ ಅವಳು ಮಾಡಿದ ಸಿನಿಮಾಗಳು ನನಗೆ ಇಷ್ಟವಾಗುತ್ತದೆ
+Poslist : [ಇಷ್ಟವಾಗುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p117.txt
+Sentence : 0 : ಇದು ಒಂದು ಮಾವಿನಹಣ್ಣಿನ ಜ್ಯೂಸ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ನೀವು ಕೇಳಿರಬಹುದು ಇದು ಎಲ್ಲಾ ಸೀಸನ್‌ನ ಮಾವು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ನಮಗೆ ಮಾವಿನ ಹಣ್ಣು ಸಿಗದ ಸೀಸನ್‌ನಲ್ಲಿ ಅದನ್ನು ತಿನ್ನಬೇಕು ಏನಿಸಿದರೆ ನಾವು ಸ್ಲೈಸ್ ತೆಗೆದುಕೊಂಡು ಕುಡಿಯಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಜೊತೆಗೆ ಇದು ತುಂಬ ರುಚಿಕರವಾಗಿರುತ್ತದೆ
+Poslist : [ರುಚಿಕರವಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p118.txt
+Sentence : 0 : ಇದು ತುಟಿಗೆ ಹಾಕುವ ಒಂದು ಜೆಲ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಚಳಿಗಾಲದಲ್ಲಿ ತುಟಿ ಒಡೆದು ಚರ್ಮ ಒಡೆದುಕೊಳ್ಳುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಅಂತಃ ಸಮಯದಲ್ಲಿ ನಮಗೆ ಈ ಲಿಪ್ ಕೇರ್ ಹಚ್ಚಿದರೆ ಉರಿಯು ಕಡಿಮೆಯಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಜೊತೆಗೆ ನಮ್ಮ ತುಟಿ ತುಂಬ ಸಾಫ್ಟ್ ಆಗಿ ಇರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಜೊತೆಗೆ ಹಿಮಾಲಯ ಒಂದು ಇಂಟರ್‌ನ್ಯಾಷನಲ್ ಕಂಪನಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ತುಂಬ ಚೆನ್ನಾಗಿರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p119.txt
+Sentence : 0 : ಫೇಸ್‌ಬುಕ್ ಒಂದು ಸಾಮಾಜಿಕ ತಾಣ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ನನಗೆ ಫೇಸ್‌ಬುಕ್‌ನಲ್ಲಿ ಫೋಟೋ ಹಾಕಲು ತುಂಬ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಆದರಲ್ಲಿ ಆ ಫೋಟೋಗಳಿಗೆ ಲೈಕ್ಸ್‌ಗಳು ತುಂಬ ಬಂದರೆ ನನಗೆ ಇಷ್ಟವಾಗುತ್ತದೆ
+Poslist : [ಇಷ್ಟವಾಗುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ನನಗೆ ಇದರಲ್ಲಿ ಫ್ರೆಂಡ್ಸ್ ಜೊತೆ ಚಾಟ್ ಮಾಡಲು ನನಗೆ ತುಂಬ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಇದನ್ನು ನಾವು ಹೇಗೆ ಬಳದುತ್ತೀವೋ ಹಾಗೆ ಅದು ನಮನ್ನು ಉಪಯೋಗಿಸುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಫೇಸ್‌ಬುಕ್ ಬಳಸುವುದರಲ್ಲಿ ಅನುಕೂಲಗಳು ಇವೆ ಅನಾನುಕೂಲಗಳು ಇವೆ
+Poslist : []
+Neglist : [ಅನಾನುಕೂಲಗಳು]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+POLARITY= 0.5
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p12.txt
+Sentence : 0 : ಈ ಲೇಖನಿ ನನಗೆ ಬಹಳ ಪ್ರಿಯವಾದ ಲೇಖನಿ ಏಕೆಂದರೆ ಇದು ತುಂಬ ಸ್ಟೈಲಿಷ್ ಹಾಗೂ ಒಳ್ಳೆಯ ಗ್ರಿಪ್ ಇದೆ
+Poslist : [ಪ್ರಿಯವಾದ, ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಬರವಣಿಗೆ ಚೆನ್ನಾಗಿ ಬರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಈ ಲೇಖನಿ ಫ್ಲೂಯಿಡ್ ಹಾಗೂ ವಾಟರ್‌ಫ್ರೂಫ್ ಇಂಕ್‌ನ್ನು ಹೊಂದಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಈ ಲೇಖನಿ ವಿನೂತನವಾಗಿದೆ
+Poslist : [ವಿನೂತನವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p120.txt
+Sentence : 0 : ಇದು ಒಂದು ಶೋ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ನಮ್ಮ ಬುದ್ಧಿಯನ್ನು ಉಪಯೋಗಿಸಿ ದುಡ್ಡು ಮಾಡಿಕೊಳ್ಳಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ನಮ್ಮ ಚಾಣಕ್ಷತನ ತುಂಬ ಮುಖ್ಯ
+Poslist : [ಮುಖ್ಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದನ್ನು ಪುನೀತ್ ರಾಜ್‌ಕುಮಾರ್ ನಡೆಸಿಕೊಡುತ್ತಿದ್ದರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ತುಂಬ ಜನರಿಗೆ ಅವರು ಫೇವರೆಟ್ ಆಕ್ಟರ್ ಅವರನ್ನು ನೋಡಲಿಕ್ಕೆ ಎಷ್ಟೋ ಜನ ಬರುತ್ತಾರೆ
+Poslist : [ಫೇವರೆಟ್]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 5 : ಇದರಲ್ಲಿ ಜನರು ಒಂದು ಕೋಟಿ ತನಕ ಗೆಲ್ಲಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p121.txt
+Sentence : 0 : ಇದು ಫೋರ್ಡ್ ಕಂಪನಿ ಕಾರ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ತುಂಬ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ಎಲ್ಲ ಚೆನ್ನಾಗಿರುವ ಸೌಲಭ್ಯಗಳಿವೆ
+Poslist : [ಚೆನ್ನಾಗಿರುವ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ಇರುವ ಸೌಲಭ್ಯ ನೋಡಿ ತುಂಬ ಜನ ಬುಕ್ ಮಾಡಿದ್ದಾರೆ
+Poslist : [ಸೌಲಭ್ಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಆದರೆ ಫೋರ್ಡ್ ಕಂಪನಿಯವರು ಅದರ ಫ್ರೊಡಕ್ಷನ್ ತುಂಬ ಕಮ್ಮಿ ಮಾಡ್ಡಿದ್ದಾರೆ
+Poslist : []
+Neglist : [ಕಮ್ಮಿ]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+Sentence : 5 : ಇದರಿಂದ ಜನರಿಗೆ ತುಂಬ ಕಷ್ಟವಾಗುತ್ತದೆ
+Poslist : []
+Neglist : [ಕಷ್ಟವಾಗುತ್ತದೆ]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+POLARITY= 0.2
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p122.txt
+Sentence : 0 : ಇದು ಸ್ಯಾಮ್‌ಸಂಗ್ ಕಂಪನಿ ದೂರವಾಣಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ತುಂಬ ದುಬಾರಿಯಾಗಿದ್ದರು ತುಂಬ ಚೆನ್ನಾಗಿರುವ ಸೌಲಭ್ಯಗಳಿವೆ
+Poslist : [ಚೆನ್ನಾಗಿರುವ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದರಿಂದ ತುಂಬ ಜನ ಸೌಲಭ್ಯ ಹೊಂದುತ್ತಾರೆ
+Poslist : [ಸೌಲಭ್ಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದರಿಂದ ಜನಕ್ಕೆ ಫ್ರೆಂಟ್ ಕ್ಯಾಮಾರಾ ಸೌಲಭ್ಯ ದೊರೆಯುತ್ತಿದೆ
+Poslist : [ಸೌಲಭ್ಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಇದರಲ್ಲಿ ವಂಡರ್ ಮೆನು ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಇದು ಸ್ಯಾಮ್‌ಸಂಗ್ ಸ್ಮಾರ್ಟ್‌ಫೋನ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p123.txt
+Sentence : 0 : ಇದು ಲೇನೋವ ಕಂಪನಿಯ ಲ್ಯಾಪ್‌ಟಾಪ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ತುಂಬ ದುಬಾರಿಯಾಗಿದ್ದರೂ ಇದರಲ್ಲಿ ಟ್ಯಾಬ್‌ಲೆಟ್ ಮಾಡುವ ಸೌಲಭ್ಯವಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ಒಳ್ಳೆ ಟಚ್ ಸ್ಕ್ರೀನ್ ಇರುವ ಸೌಲಭ್ಯದಿಂದ ಇದರಲ್ಲಿ ಜನ ಬೇಕಾದ ಕೆಲಸ ಮಾಡಬಹುದು
+Poslist : [ಒಳ್ಳೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದು ಬೇರೆ ಲ್ಯಾಪ್‌ಟ್ಯಾಪ್‌ಗಿಂತ ಬಹು ಆಧುನಿಕವಾಗಿದೆ
+Poslist : [ಆಧುನಿಕವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p124.txt
+Sentence : 0 : ಇದು ತುಂಬ ಹೆಸರು ಮಾಡಿರುವ ಫೋನ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಇರುವ ಸೌಲಭ್ಯ ನೋಡಿ ಜನ ತುಂಬ ಕೊಂಡುಕೊಳ್ಳುತ್ತಾರೆ
+Poslist : [ಸೌಲಭ್ಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದು ಒಂದು ಬಹುಜನಪ್ರಿಯ ಫೋನ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ವಂಡರ್ ಮೆನು,ಈ ಫೋನ್‌ಗಳಿಗೆ ಫೇಸ್‌ಬುಕ್,ಯೂಟೂಬ್ ಮೆನುಗಳಿಂದ ಇದು ಬಹಳ ಒಳ್ಳೆ ಫೋನ್
+Poslist : [ಒಳ್ಳೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p125.txt
+Sentence : 0 : ಇದರಲ್ಲಿ ವೈ-ಫೈ ಸೌಲಭ್ಯವಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ೯
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ೮ ಎಂಬಿಪಿ‌ಎಸ್‌ವರೆಗೂ ಬರುವ ಸಂಪರ್ಕ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ತುಂಬ ಕಡಿಮೆ ಬೆಲೆಯಾಗಿರುವ ನೆಟ್‌ವರ್ಕ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದರ ಡಾಂಗಲ್ ನೋಡುವುದಕ್ಕೆ ತುಂಬ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 5 : ಇದರ ನೆಟ್‌ವರ್ಕ್ ಸ್ವಲ್ಪ ಕಮ್ಮಿ ಇದೆ
+Poslist : []
+Neglist : [ಕಮ್ಮಿ]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+Sentence : 6 : ಆದರು ತುಂಬ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 7 : ಇದರಲ್ಲಿ ೬೦೦ರೂಗಳ ಮೊಬೈಲ್ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 8 : ತುಂಬ ಕಮ್ಮಿ ದುಡ್ಡಿನಿಂದ ಇರುವುದರಿಂದ ಬಡವರಿಗೆ ಒಳ್ಳೆ ಫೋನ್ ಆಗಿದೆ
+Poslist : [ಒಳ್ಳೆ]
+Neglist : [ಕಮ್ಮಿ]
+Polarwords: 2
+Poswords: 1
+Negwords: 1
+POLARITY= 0.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p127.txt
+Sentence : 0 : ಫಾಸ್ಟ್‌ಟ್ರಾಕ್ ಇದು ಒಂದು ಕಂಪನಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇವರು ಕೈಗಡಿಯಾರ,ಬ್ಯಾಗ್ ಹಾಗೂ ಸನ್‌ಗ್ಲಾಸ್‌ಗಳನ್ನು ಮಾರುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದರ ವಸ್ತುಗಳಿಗೆ ರಿಯಾಯಿತಿ ಇರುತ್ತದೆ,ಹಾಗೂ ಗ್ಯಾರೆಂಟಿ ಕಾರ್ಟ್‌ನ್ನು ಕೊಡುತ್ತಾರೆ,ನನಗೆ ಫಾಸ್ಟ್‌ಟ್ರಾಕ್ ಕೈಗಡಿಯಾರ ಹಾಗೂ ಬ್ಯಾಗ್‌ಗಳು ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p128.txt
+Sentence : 0 : ಇಂಡಿಯನ್ ಈ-ಟೀವಿ ಕನ್ನಡ ಚಾನಲ್‌ನಲ್ಲಿ ಬರುತಿದ್ದ ರಿಯಾಲಿಟಿ ಶೋ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಅಕುಲ್ ಬಾಲಾಜೀ ಇದನ್ನು ನಡೆಸುತಿದ್ದರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಶೋನ ಪ್ರಾರಂಭದಲ್ಲಿ ೧೩ ಜನ ಸ್ಪರ್ಧಿಗಳಿದ್ದರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಸುನಾಮಿ ಕಿಟ್ಟಿ ಇದರಲ್ಲಿ ಗೆದ್ದರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದರ ಕೆಲವು ಸಂಗತಿಗಳು ಮನೋರಂಜನೀಯವಾಗಿತ್ತು
+Poslist : [ಮನೋರಂಜನೀಯವಾಗಿತ್ತು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 5 : ಹಾಗೆಯೇ ಅಲ್ಲಿಗೆ ಬಂದವರು ಎಲ್ಲಾ ತರಹದ ಕಷ್ಟಕರವಾದ ಮತ್ತು ಸುಲಭಕರವಾದ ಸಂಗತಿಗಳನ್ನು ಎದುರಿಸಿದ್ದಾರೆ
+Poslist : [ಸುಲಭಕರವಾದ]
+Neglist : [ಕಷ್ಟಕರವಾದ]
+Polarwords: 2
+Poswords: 1
+Negwords: 1
+POLARITY= 0.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p129.txt
+Sentence : 0 : ಇದು ರೆನೊಲ್ಡ್ಸ್‌ರವರ ಒಂದು ಜೆಲ್ ಪೆನ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಕೇವಲ ೨೦ರೂ ಆದರೂ ಇದು ೨೨ರೂ ಟ್ರೈಮಾಕ್ಸ್ ಪೆನ್‌ಗಿಂತ ಚೆನ್ನಾಗಿ ಬರೆಯುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದು ಎಲ್ಲರಿಗೂ ತುಂಬ ಇಷ್ಟವಾದುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಹೆಚ್ಚು ಮಾರಾಟವಾಗುವ ಪೆನ್ ಆಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p13.txt
+Sentence : 0 : ಈ ಸ್ಥಳ ಬಹಳ ಜನಪ್ರಿಯವಾಗಿದೆ ಮತ್ತು ನನಗೆ ಇಷ್ಟವಾದ ಸ್ಥಳಗಳಲ್ಲಿ ಒಂದು
+Poslist : [ಜನಪ್ರಿಯವಾಗಿದೆ, ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 1 : ಇಲ್ಲಿ ಆಂಗ್ಲ ದೇಶದ ಪಿಜ್ಹಾ ಮೊದಲಾದ ಆಹಾರವನ್ನು ಮಾಡಲಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇಲ್ಲಿ ದೊರೆಯುವ ಜ್ಹೆಟ್ಟಿ ಚಿಕನ್ ಪಿಜ್ಹಾ,ಕ್ಯಲ್‌ಜೋನ್ ಪಾಕೆಟ್ಸ್,ಜಿಂಜರ್ ಬ್ರೆಡ್,ಚಿಕನ್ ವಿಂಣ್ಸ್ ಎಂದರೆ ನನಗೆ ಪ್ರಾಣ
+Poslist : [ಪ್ರಾಣ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p130.txt
+Sentence : 0 : ಮಕ್ಕಳಿಗೆ ಅತೀ ಹೆಚ್ಚು ಪ್ರಿಯವಾದ ಬಿಸ್ಕೆಟ್ ಇದಾಗಿದೆ
+Poslist : [ಪ್ರಿಯವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಬೇರೆ ಎಲ್ಲಾ ಬಿಸ್ಕೆಟ್‌ಗಿಂತಲೂ ಇದರಲ್ಲಿರುವ ಕ್ರೀಮ್ ಹೆಚ್ಚು ಸಿಹಿಕರ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಮೃದು ಹಾಗೂ ರುಚಿಕರವಾಗಿದೆ
+Poslist : [ಮೃದು, ರುಚಿಕರವಾಗಿದೆ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 3 : ಆದ್ದರಿಂದ ಇದು ಹಿರಿಯರಿಗೆ,ಕಿರಿಯರಿಗೆ,ಹಾಗು ಮಕ್ಕಳಿಗೆ ಇಷ್ಟವಾಗಿದೆ
+Poslist : [ಇಷ್ಟವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಇದು ಕ್ಯಾಡ್‌ಬರೀಸ್ ಕಂಪನಿ ತಯಾರಿಸಿದ ಮೊದಲ ಬಿಸ್ಕೆಟ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಇದು ವೆನೀಲಾ,ಚಾಕಲೇಟ್ ಮೊದಲಾದ ಪ್ಲೇವರ್‌ಗಳಲ್ಲಿ ದೊರೆಯುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p131.txt
+Sentence : 0 : ಇದೊಂದು ಉತ್ತಮ ಗೇಮ್
+Poslist : [ಉತ್ತಮ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದು ಕಂಪ್ಯೂಟರ್‌ಗೆ ಕೂಡ ಬರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಈ ಗೇಮಲ್ಲಿ ನಾವೊಬ್ಬ ಸೈನಿಕನಾಗಿ ರಸ್ತೆಗಳಲ್ಲಿ,ಮನೆಗಳಲ್ಲಿ,ಅರಣ್ಯಗಳಲ್ಲಿ ಎಲ್ಲಾ ಕಡೆ ಆಡಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಈ ಗೇಮ್ ನನಗೆ ತುಂಬ ಇಷ್ಟ ಆಯ್ತು
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಬೇರೆ ಬೇರೆ ಗನ್ಸ್ ಕೂಡ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p132.txt
+Sentence : 0 : ಇದೊಂದು ಒಳ್ಳೆ ಚಾನಲ್
+Poslist : [ಒಳ್ಳೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಒಳ್ಳೆ ಇಂಗ್ಲಿಷ್ ಮೂವೀಸ್ ಬರುತ್ತದೆ
+Poslist : [ಒಳ್ಳೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಈ ಚಾನಲ್ ನನಗೆ ತುಂಬ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಐರನ್ ಮ್ಯಾನ್,ಅವೆಂಜರ್‍ಸ್,ಎಕ್ಸ್ ಮ್ಯಾನ್,ಟೇಕನ್,ಎಂಬ ಒಳ್ಳೆ ಮೂವಿಸ್ ಬರುತ್ತಾವೆ
+Poslist : [ಒಳ್ಳೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಆದ್ದರಿಂದ ಇದು ಒಳ್ಳೆ ಟೈಮ್ ಪಾಸ್ ಕೊಡುತ್ತದೆ
+Poslist : [ಒಳ್ಳೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p133.txt
+Sentence : 0 : ನಾನು ಈ ಚಾಕ್ಲೇಟ್‌ನ್ನು ತುಂಬ ಪ್ರೀತಿಸುತ್ತೇನೆ
+Poslist : [ಪ್ರೀತಿಸುತ್ತೇನೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಯಾಕೆಂದರೆ ಈ ಚಾಕ್ಲೇಟ್ ಅಲ್ಲಿ ಆಚೆ ನಟ್ಸ್ ಇಂದ ತುಂಬಿರುವ ಲೇಯರ್ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಮಧ್ಯದಲ್ಲಿ ಕ್ಯಾರಮೆಲ್ ಲೇಯರ್,ಒಳಗೆ ಒಂದು ಚಾಕ್ಲೇಟ್ ಇಂದ ಕವರ್ ಆಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ಸ್ವಿರ್ಜರ್‌ಲ್ಯಾಂಡ್‌ಲ್ಲಿ ತಯಾರಿಸಿದ್ದು ಆದ್ದರಿಂದ ಇದು ಚೆನ್ನಾಗಿರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p134.txt
+Sentence : 0 : ಆರ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಎಲ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಸೈನ್ ಇಂದ ಬರೆಯಲ್ಪಟ್ಟಿರುವ ಈ ಪುಸ್ತಕ ನನ್ನಲ್ಲಿರುವ ಎಲ್ಲಾ ವಸ್ತುಗಳಿಗಿಂತ ಅತೀ ಪ್ರಿಯಕರ
+Poslist : [ಪ್ರಿಯಕರ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ನಮ್ಮಲ್ಲಿ ಭಯವನ್ನು ಉಂಟುಮಾಡುವ ರೋಮಾಂಚನ ಕಥೆಗಳಿರುತ್ತದೆ
+Poslist : [ರೋಮಾಂಚನ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಇದಕ್ಕೆ ತುಂಬ ದುಡ್ಡು ಕೊಡಬೇಕು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಅದೊಂದೇ ಕಾರಣದಿಂದ ನಮ್ಮ ಮನೆಯಲ್ಲಿ ಇದನ್ನು ತರಲು ಬಿಡುವುದಿಲ್ಲ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಆದರೆ ಇದು ನನಗೆ ತುಂಬ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p135.txt
+Sentence : 0 : ಇದೊಂದು ಮನಸ್ಸಿನ ಇಮೇಜಿನೇಷನ್ ಇಂದ ಕೂಡಿದ ಮಕ್ಕಳಗೆ ಹಾಗೂ ದೊಡ್ಡವರಿಗೆ ಇಬ್ಬರಿಗೂ ಪ್ರಿಯಕರವಾದ ಚಿತ್ರ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರ ಪ್ರಮುಖ ಕ್ಯಾರೆಕ್ಟರ್ ಒಂದು ಹಳೇ ಕಾಲದ ಆನೆ
+Poslist : [ಪ್ರಮುಖ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ತುಂಬ ಚೆನ್ನಾಗಿರುವ ಸೀನ್ ಇವೆ
+Poslist : [ಚೆನ್ನಾಗಿರುವ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದು ತುಂಬ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p136.txt
+Sentence : 0 : ಪೂಮಾ ಒಂದು ಬ್ರಾಡ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ಶೂ,ಬ್ಯಾಗ್ ಮಾಡುವ ಕಂಪನಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಅದು ಒಂದು ಸೂಪರ್ ಶೂಅನ್ನು ಮಾರುಕಟ್ಟೆಗೆ ಬಿಟ್ಟಿದ್ದಾರೆ
+Poslist : [ಸೂಪರ್]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಅದು ನನಗೆ ತುಂಬ ಇಷ್ಟವಾಯಿತು
+Poslist : [ಇಷ್ಟವಾಯಿತು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಅದು ಓಡುವುದಕ್ಕೆ ತುಂಬ ಉಪಯೋಗವಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಆದ್ದರಿಂದ ಇದು ನನಗೆ ತುಂಬ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p137.txt
+Sentence : 0 : ಇದು ನನಗೆ ತುಂಬ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದು ತುಂಬ ಪ್ರಖ್ಯಾತಿ ಬ್ಯಾಂಡ್
+Poslist : [ಪ್ರಖ್ಯಾತಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಈ ಕಂಪನಿಯ ವಾಚ್ ತುಂಬ ಚೆನ್ನಾಗಿರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದು ನನಗೆ ಯಾವತ್ತು ಇಷ್ಟ ಇಲ್ಲ ಎನಿಸಿಲ್ಲ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಅದಕ್ಕಾಗಿ ಇದು ನನಗೆ ತುಂಬ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p138.txt
+Sentence : 0 : ಇದು ತುಂಬ ಚೆನ್ನಾಗಿರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದನ್ನು ಹಾಲಿಗೆ ಹಾಕಿ ಕುಡಿದರೆ ತುಂಬ ಚೆನ್ನಾಗಿರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಅದಕ್ಕೆ ನಾನು ಕಾಫಿ ಪುಡಿಯನ್ನು ಹಾಕಿ ಕುಡಿಯುತ್ತೇನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p139.txt
+Sentence : 0 : ಇದು ತುಂಬಾ ಚೆನ್ನಾಗಿ ಬಾಳಿಕೆ ಬರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದರ ಬಣ್ಣಗಳು ತುಂಬ ಚೆನ್ನಾಗಿರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಅದಕ್ಕೆ ಇದು ನನಗೆ ತುಂಬ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದರ ತರಹ ಕಂಪನಿ ಯಾವುದು ಇಲ್ಲ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p14.txt
+Sentence : 0 : ನನಗೆ ಈ ಚಾನಲ್ ಬಹಳ ಇಷ್ಟ ಏಕೆಂದರೆ ಅದರಲ್ಲಿ ತೋರಿಸುವ ಪ್ರಾಣಿಗಳು ಮತ್ತು ಅದರ ಚಾಲಾಕಿತನ,ಭೇಟೆಯಾಡುವ ವಿಧಾನ ಬಹಳ ಅಚ್ಚರಿಕರವಾಗಿರುತ್ತದೆ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ನಮಗೆ ಇದರಿಂದ ವಿವಿಧ ರೀತಿಯ ಪ್ರಾಣಿಗಳ ಪರಿಚಯವಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಹಾಗೆಯೇ ಅವುಗಳ ಹವ್ಯಾಸವನ್ನು ತಿಳಿದುಕೊಳ್ಳಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p140.txt
+Sentence : 0 : ರಿಬಾಕ್ ಒಂದು ಅತ್ಯುತ್ತಮ ಕಂಪನಿ
+Poslist : [ಅತ್ಯುತ್ತಮ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ರಿಬಾಕ್ ಕಂಪನಿಯಲ್ಲಿ ತಯಾರಾಗುವ ಶೂಗಳು ನನಗೆ ಬಹಳ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಈ ಕಂಪನಿಯಲ್ಲಿ ತಯಾರಾಗುವ ಶೂಗಳ ಬಹಳ ಕಮ್‌ಫರ್ಟಬಲ್ ಆಗಿದೆ ಎನಿಸಿದೆ
+Poslist : [ಕಮ್‌ಫರ್ಟಬಲ್]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಆದ್ದರಿಂದ ನನಗೆ ಈ ಕಂಪನಿ ಬಹಳ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p141.txt
+Sentence : 0 : ಚೆನ್ನೈ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ಒಂದು ಬಹಳ ಚೆನ್ನಾಗಿರುವ ಸಿನಿಮಾ
+Poslist : [ಚೆನ್ನಾಗಿರುವ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಈ ಸಿನಿಮಾ ಬಹಳ ಹಾಸ್ಯಾತ್ಮಕವಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಮತ್ತು ಜನರಿಗೆ ಸುಲಭವಾಗಿ ಅರ್ಥವಾಗಬಹುದಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಈ ಸಿನಿಮಾ ಎಲ್ಲರೂ ನೋಡಬಹುದಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದರಲ್ಲಿ ಶಾರುಖಾನ್ ಮತ್ತು ದೀಪಿಕ ಚೆನ್ನಾಗಿ ನಟಿಸಿದ್ದಾರೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p142.txt
+Sentence : 0 : ನನಗೆ ಬಹಳ ಇಷ್ಟವಾದ ಪೆನ್
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಈ ಪೆನ್ ಚೆನ್ನಾಗಿ ಬರೆಯುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಆದ್ದರಿಂದ ಈ ಪೆನ್ ನನಗೆ ಬಹಳ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ರೆನಾಲ್ಡ್ಸ್ ಕಂಪನಿ ಬಹಳ ಪೆನ್ನುಗಳನ್ನು ತಯಾರು ಮಾಡುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p143.txt
+Sentence : 0 : ಡೈರಿಮಿಲ್ಕ್ ನನಗೆ ಬಹಳ ಇಷ್ಟವಾದ ಚಾಕ್ಲೇಟ್
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಈ ಚಾಕ್ಲೇಟ್ ಬಹಳ ಸಿಹಿಯಾಗಿದ್ದು ನನಗೆ ಬಹಳ ಇಷ್ಟವಾಗಿದೆ
+Poslist : [ಇಷ್ಟವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಅದರಲ್ಲೂ ಪಿಸ್ತಾ,ಬಾದಾಮ್ ಇರುವ ಪ್ಲೇವರ್ ನನಗೆ ಬಹಳ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಡೈರಿಮಿಲ್ಕ್ ಕಂಪನಿಯಲ್ಲಿ ಬರುವ ಎಲ್ಲಾ ಚಾಕ್ಲೇಟ್‌ಗಳು ನನಗೆ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p144.txt
+Sentence : 0 : ಈ ಚಿತ್ರ ನನಗೆ ಬಹಳ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಅಮೀರ್ ಖಾನ್ ಮತ್ತು ಕತ್ರೀನ ಚೆನ್ನಾಗಿ ನಟಿಸಿದ್ದಾರೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಅದರಲ್ಲಿ ಬರುವ ಬೈಕ್‌ಗಳು ನನಗೆ ಬಹಳ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಈ ಚಿತ್ರದಲ್ಲಿ ಬರುವ ಎಲ್ಲಾ ಸಾಹಸಗಳು ನನಗೆ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಈ ಸಿನಿಮಾ ವಿದೇಶದಲ್ಲಿ ತೆಗೆದಿದ್ದೂ ಬಹಳ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p145.txt
+Sentence : 0 : ಇದು ಒಂದು ಒಳ್ಳೆಯ ಜಗತ್ ಪ್ರಖ್ಯಾತ ಮೊಬೈಲ್ ಕಂಪನಿ
+Poslist : [ಒಳ್ಳೆಯ, ಪ್ರಖ್ಯಾತ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಸಾಮ್‌ಸಂಗ್ ಗೆಲಾಕ್ಸಿ ನೋಟ್-೩ ಒಂದು ಒಳ್ಳೆಯ ಆಂಡ್ರೋಯ್ಡ್ ಮೊಬೈಲ್ ಫೋನ್
+Poslist : [ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ಕ್ಯಾಮೆರಾ,ಡುಯಲ್ ಸೀಮ್,ಆಟಗಳು,ವೈ-ಫೈ ಇತ್ಯಾದಿಗಳು ಇರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ನನಗೆ ತುಂಬಾ ಇಷ್ಟವಾದ ಮೊಬೈಲ್ ಕಂಪನಿ
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p146.txt
+Sentence : 0 : ಇದು ಒಂದು ರಿಯಾಲಿಟಿ ಶೋ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ಈ-ಟಿವಿಯಲ್ಲಿ ಬರುತ್ತಿತ್ತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಬಿಗ್‌ಬಾಸ್‌ನಲ್ಲಿ ೧೪ಜನ ಸ್ಪರ್ಧಿಗಳು,೪೨ಕ್ಯಾಮರಾ,೧೦೦ದಿನಗಳ ಒಂದೇ ಮನೆಯಲ್ಲಿ ಇರಬೇಕು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಕನ್ನಡದ ಮೊದಲನೇಯ ಸೀಸನ್ನಿನ ಬಿಗ್‌ಬಾಸ್ ವಿಜಯರಾಘವೇಂದ್ರ,ನಖಿತ,ಅರುಣ್‌ಸಾಗರ್,ನರೇಂದ್ರ ಬಾಬು,ಚಂದ್ರಿಕಾ,ರುಷಿ ಕುಮಾರಸ್ವಾಮಿ,ತಿಲಕ್,ಶ್ವೇತ,ರಿಷಿಕಾ,ಅಪರ್ಣಾ,ಅನುಶ್ರೀ,ವಿನಾಯಕ್ ಜೋಷಿ,ಜಯಲಕ್ಷ್ಮೀ,ರೋಹನ್ ಇವರೆಲ್ಲರು ಬಿಗ್‌ಬಾಸ್ ಸ್ಪರ್ಥಿಗಳು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದರಲ್ಲಿ ಸುದೀಪ್ ಆಂಕರ್ ಆಗಿದ್ದು ತುಂಬಾ ಚೆನ್ನಾಗಿ ನಡೆಸಿಕೊಟ್ಟರು
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p147.txt
+Sentence : 0 : ಇದು ಒಂದು ಪುಸ್ತಕದ ಕಂಪನಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ಜಗತ್ ಪ್ರಖ್ಯಾತವಾದ ಕಂಪನಿ
+Poslist : [ಪ್ರಖ್ಯಾತವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಈ ಪುಸ್ತಕದಲ್ಲಿ ಚಿಕ್ಕ ಮತ್ತು ದೊಡ್ಡ ಪುಸ್ತಕ,ರೂಲ್ಡ್,ಅನ್‌ರೂಲ್ಡ್,ಪುಸ್ತಕವಿರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ನಾನು ಈ ಪುಸ್ತಕವನ್ನು ಉಪಯೋಗಿಸುತ್ತೇನೆ
+Poslist : [ಉಪಯೋಗಿಸುತ್ತೇನೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p148.txt
+Sentence : 0 : ಇದು ಒಂದು ಪ್ರಸಿದ್ದ ಕಂಪನಿ
+Poslist : [ಪ್ರಸಿದ್ದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ವಾಚ್,ಬ್ಯಾಗ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಸೂಟ್‌ಕೇಸ್ ಬರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ೫೦೦ ರೂಪಾಯಿಗಳಿಂದ ೪೦೦೦ ಹಾಗೂ ೫೦೦೦ ರೂಪಾಯಿಗಳ ವಾಚ್,ಸ್ಕೂಲ್ ಬ್ಯಾಗ್ ಮತ್ತು ಸೂಟ್‌ಕೇಸ್ ೧೦೦೦ ರೂಪಾಯಿಯಿಂದ ಶುರುವಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p149.txt
+Sentence : 0 : ಈ ಕಂಪನಿಯು ಜಗತ್ತಿನಲ್ಲಿ ಅತ್ಯಂತ ಪ್ರಖ್ಯಾತವಾದದ್ದು
+Poslist : [ಪ್ರಖ್ಯಾತವಾದದ್ದು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದು ಅಡುಗೆ ಮನೆಯಲ್ಲಿ ಸಾಮಾನು ಇಡುವ ಡಬ್ಬಗಳು,ಲಂಚ್ ಬಾಕ್ಸ್,ಬೋಟಲ್ ಇತರೆ ಸಾಮಾನುಗಳ ಸಿಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದು ೮೦ ರೂಪಾಯಿಯಿಂದ ಶುರುವಾಗಿ ಸಾವಿರಾರು ರೂಪಾಯಿಗಳ ತನಕ ಸಿಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಈ ಕಂಪನಿಯ ವಸ್ತುಗಳು ನಮ್ಮ ಮನೆಯಲ್ಲಿ ಉಪಯೋಗಿಸುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p150.txt
+Sentence : 0 : ವಿಪ್ರೋ ಕಂಪನಿಯ ಎಲ್ಲ ಪ್ರೋಡಕ್ಟ್‌ಗಳು ಚೆನ್ನಾಗಿರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಅದರಲ್ಲೂ ಅವರು ತಯಾರಿಸುವ ಲೈಟ್‌ಗಳು ಅದು ತುಂಬ ಬೆಳಕನ್ನು ನೀಡುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಹಾಗೂ ತುಂಬ ಬಾಳಿಕೆ ಬರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ವಿಪ್ರೋ ಕಂಪನಿಯಲ್ಲಿ ಬೇರೆ ಬೇರೆ ರೀತಿಯಾದ ಬ್ರಾಂಚ್‌ಗಳಿವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p151.txt
+Sentence : 0 : ವರಲ್ ಪೂಲ್ ಫ್ರಿಡ್ಜ್ ಗಳು ತುಂಬಾ ಬಾಳಿಕೆಬರುತ್ತದೆ
+Poslist : [ಬಾಳಿಕೆಬರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಅದು ಈಗ ನಂ೧
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇನ್ ಇಂಡಿಯಾವಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಅದು ನೋಡುವುದಕ್ಕೂ ತುಂಬ ಚೆನ್ನಾಗಿ ಕಾಣುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಅದರಲ್ಲಿ ಓವೆನ್,ವಾಷಿಂಗ್ ಮೆಷಿನ್,ಇತ್ಯಾದಿ ಉಪಕರಣಗಳಿವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಓವನ್ ನಲ್ಲಿ ನಾವು ಕೇಕ್,ಫ್ರಿಡ್ಜ್,ಇತ್ಯಾದಿಗಳನ್ನು ತಯಾರಿಸಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : 
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 7 : ಅದು ಕೂಡ ನಂ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 8 : ೧
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p152.txt
+Sentence : 0 : ರೀಬಾಕ್ ಕಂಪನಿಯ ಕೂಲಿಂಗ್ ಗ್ಲಾಸ್ ಹಾಗೂ ಶೂಸ್‌ಗಳು ತುಂಬಾ ಬೆಲೆಯಾದರೂ ತುಂಬಾ ಚೆನ್ನಾಗಿ ಬಾಳಿಕೆ ಬರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಅದನ್ನು ನೋಡುವವರಿಗೆ,ಕೊಂಡುಕೊಳ್ಳುವವರಿಗೆ,ಬೇಕೆನಿಸುತ್ತದೆ
+Poslist : [ಬೇಕೆನಿಸುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಅದು ಅಷ್ಟು ಚೆನ್ನಾಗಿ ಕಾಣುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p154.txt
+Sentence : 0 : ಟಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ವಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಯಲ್ಲಿ ನನಗೆ ಕಾರ್‍ಟೂನ್ ನೆಟ್ ವರ್ಕ್ ಹಾಗೂ ಪೋಗೋ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಅದರಲ್ಲಿ ಟಾಮ್ ಅಂಡ್ ಜೆರ್ರಿ ಹಾಗೂ ಮಿಸ್ಟರ್ ಬೀನ್ ತುಂಬ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಟಾಮ್ ಜೆರ್ರಿಯನ್ನು ಅಟ್ಟಿಸಿಕೊಂಡು ಹೋಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಆದರೆ ಜೆರ್ರಿ ಅದರಿಂದ ಉಪಾಯದಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಹಾಗೂ ಮಿಸ್ಟರ್ ಬೀನ್ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 7 : ಅವರು ಮಾಡುವ ಜೋಕ್ಸ್ ಎಂತಹವರಾದರೂ ಕೂಡ ನಗಿಸಬಲ್ಲರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p155.txt
+Sentence : 0 : ನನಗೆ ಲೈಫ್ ಬಾಯ್ ಬಗ್ಗೆ ತುಂಬ ಚೆನ್ನಾಗಿ ಅಭಿಪ್ರಾಯವಿದ್ದು ಅದು ಮೆಡಿಕಲ್ ಕಡೆಯಿಂದ ಚೆನ್ನಾಗಿ ಬರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿ, ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 1 : ಅದು ನನಗೆ ತುಂಬ ಇಷ್ಟವಾದ ಸೋಪ್ ನಾನು ಅದನ್ನು ಪ್ರತಿದಿನ ಬಳಸುತ್ತೇನೆ
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಮೆಡಿಕಲ್ ಪ್ರಕಾರ ಅದನ್ನು ಗಿಡ ಮೂಲಿಕೆಗಳಿಂದ ಮಾಡಲಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಅದು ವೈರಸ್ ಮತ್ತು ಕೀಟಾಣುಗಳನ್ನು ತೊಲಗಿಸುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p156.txt
+Sentence : 0 : ಫೋಟೋಶಾಪ್ ಒಂದು ಕಂಪ್ಯೂಟರ್‌ನ ಸಾಪ್ಟ್‌ವೇರ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಚಿತ್ರವನ್ನು ಎಡಿಟಿಂಗ್ ಮಾಡಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಈ ಸಾಪ್ಟ್‌ವೇರ್‌ನ್ನು ಚಿತ್ರ ಪ್ರಿಂಟಿಂಗ್ ಮಾಡುವ ಅಂಗಡಿಯ ಕಂಪ್ಯೂಟರ್‌ನಲ್ಲಿ ಫೋಟೋಶಾಪ್ ಉಪಯೋಗಿಸುವುದು ಸಾಮಾನ್ಯವಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ನಮಗೆ ಬಹಳ ಉಪಕಾರಿಯಾದ ಒಂದು ಚಿತ್ರದ ಯಂತ್ರವಾಗಿದೆ
+Poslist : [ಉಪಕಾರಿಯಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಈ ಯಂತ್ರವನ್ನು ಉಪಯೋಗಿಸಲು ನಮಗೆ ಅದರ ಕೆಲವು ಯಂತ್ರಗಳನ್ನು ಹೇಗೆ ಉಪಯೋಗಿಸಬೇಕು ಎನ್ನುವುದು ಗೊತ್ತಿರಬೇಕು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p158.txt
+Sentence : 0 : ಇಂಟರ್‌ನೆಟ್‌ನ್ನು ಕನ್ನಡದಲ್ಲಿ ಅಂತರ್ಜಾಲ ಎಂದು ಕರೆಯುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದನ್ನು ನಾವು ಕಂಪ್ಯೂಟರ್,ಮೊಬೈಲ್,ಟಾಬ್ ಇತರೆ ವಸ್ತುಗಳಲ್ಲಿ ಉಪಯೋಗಿಸಲಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದರ ಮೂಲಕ ನಾವು ವೀಡಿಯೋ,ಚಿತ್ರ,ಸಂಗೀತ,ಮಾಹಿತಿ ಇತರೆಗಳನ್ನು ನಾವು ವೀಕ್ಷಿಸಬಹುದಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಬಹಳ ಉಪಯೋಗಕಾರಿಯಾಗಿದೆ
+Poslist : [ಉಪಯೋಗಕಾರಿಯಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಇದರ ಮೂಲಕ ನಾವು ಬ್ಯಾಂಕಿನಿಂದ ದುಡ್ಡು ಕಳಿಸಲು ಈ-ಮೇಲ್ ಕಳಿಸಲು,ವಸ್ತುಗಳನ್ನು ಕಂಡುಕೊಳ್ಳಲು ಉಪಯೋಗಕಾರಿ ಕೂಡ
+Poslist : [ಉಪಯೋಗಕಾರಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 5 : ಇದು ನಮಗೆ ಬಹಳ ಉಪಯೋಗಕರವಾಗಿದ್ದರೂ ವಿದ್ಯಾರ್ಥಿ ಜೀವನದಲ್ಲಿ ದುಷ್ಪರಿಣಾಮ ಬೀರುವ ಸಾಧ್ಯತೆ ಇದೆ
+Poslist : []
+Neglist : [ದುಷ್ಪರಿಣಾಮ]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+Sentence : 6 : ವಿದ್ಯಾರ್ಥಿಗಳು ಕೆಟ್ಟದರ ಬಗ್ಗೆ ಇಂಟರ್‌ನೆಟ್‌ನಲ್ಲಿ ಹುಡುಕಿ ಅವರು ಕೆಟ್ಟು ಹೋಗಬಹುದು
+Poslist : []
+Neglist : [ಕೆಟ್ಟು]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+POLARITY= 0.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p159.txt
+Sentence : 0 : ಈ-ಮೇಲ್ ಬಹಳ ಉಪಯೋಗಕಾರಿವಾಗಿದೆ
+Poslist : [ಉಪಯೋಗಕಾರಿವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದನ್ನು ಕಛೇರಿ,ಮನೆ,ಬ್ಯಾಂಕ್ ಹಾಗೂ ಇತರೆ ಸಂಸ್ಥೆಗಳಲ್ಲಿ ಉಪಯೋಗಿಸಲಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದರ ಮೂಲಕ ನಾವು ವಿಷಯ,ಮಾಹಿತಿ,ಚಿತ್ರ ಮತ್ತು ಕೆಲವು ಫೈಲ್ಸ್‌ನ್ನು ಬೇರೆಯರಿಗೆ ಕಳುಹಿಸಬಹುದಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದಕ್ಕೆ ನಮಗೆ ಈ-ಮೇಲ್ ಐಡಿಯನ್ನು ಅಕೌಂಟ್‌ನ್ನು ತೆಗೆಯಬೇಕಾದರೆ ನೀಡಲಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದನ್ನು ನಾವು ಯಾರಿಗೆ ಕಳಿಸುವರೋ ಅವರ ಈ-ಮೇಲ್ ಐಡಿ ಗೊತ್ತಿರಬೇಕು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಇದು ನಮಗೆ ಬಹಳ ಉಪಯೋಗಕಾರಿಯಾಗಿದ್ದರು ಇದರ ಮೂಲಕ ಕೆಲವರು ವೈರಸ್‌ನ್ನು ಕಳಿಸಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಈ ತರಹದ ಈ-ಮೇಲ್‌ಗಳನ್ನು ಸೇಫ್ ಫೋಲ್‌ಡರ್‌ನಲ್ಲಿ ಇಡಲಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 7 : ,ಮತ್ತು ಇದರ ಮೂಲಕ ಕೆಲವು ನಮ್ಮ ಬ್ಯಾಂಕ್ ನಂಬರ್ ಹಾಗೂ ಪಾಸ್‌ವರ್ಡ್‌ನ್ನು ಕೇಳಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 8 : ಇದನ್ನು ಕೂಡ ಸೇಫ್ ಫೋಲ್‌ಡರ್‌ನಲ್ಲಿ ಇಡಲಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p16.txt
+Sentence : 0 : ಇದು ಒಂದು ಆಂಗ್ಲ ಭಾಷೆಯ ಚಿತ್ರ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಒಬ್ಬ ವಿಜ್ಞಾನಿ ವಸ್ತುಗಳನ್ನು ಚಿಕ್ಕದಾಗಿ ಮಾಡುವ ಒಂದು ಯಂತ್ರ ಕಂಡು ಹಿಡಿಯುತ್ತಾನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಪಕ್ಕದ ಮನೆಯಲ್ಲಿ ಮಕ್ಕಳು ಆಡುತ್ತಿರುವಾ ಆ ಚೆಂಡು ಒಂದು ಆ ಯಂತ್ರಕ್ಕೆ ಹೊಡೆಯಿತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಆ ಚೆಂಡನ್ನು ಹುಡುಕುತ್ತಾ ಹೋದಾಗ ಆ ಮಕ್ಕಳು ಚಿಕ್ಕದಾಗಿ ಬಿಡುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಆ ಮಕ್ಕಳ ಪ್ರಯಾಣವನ್ನು ಒಂದು ಚಿತ್ರದ ಮೂಲಕ ತೋರಿಸಿರುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ನನಗೆ ಈ ಚಿತ್ರ ಬಹಳ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p160.txt
+Sentence : 0 : ಮೊಬೈಲ್ ಒಂದು ದೂರ ಸಂಚಾರದ ಯಂತ್ರವಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರ ಮೂಲಕ ನಾವು ಬೇರೆಯವರ ಜೊತೆ ಮಾತನಾಡಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಪ್ರತಿ ಮೊಬೈಲ್‌ಗೆ ಹತ್ತು ಸಂಖ್ಯೆಯನ್ನು ಕೊಡಲಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ನಾವು ಯಾರ ಜೊತೆಗೆ ಮಾತನಾಡಬೇಕೋ ಅವರ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ನಮಗೆ ತಿಳಿದಿರಬೇಕು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಮೊಬೈಲ್‌ನ್ನು ಕಂಡು ಹಿಡಿದವರು ಅಬ್ರಾಹಾಂ ಗ್ರಹಾಂ ಬೆಲ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ೨೧ನೇ ಶತಮಾನದಲ್ಲಿ ಸ್ಮಾರ್ಟ್ ಫೋನ್‌ನಲ್ಲಿ ಎಷ್ಟೊಂದು ಉಪಯೋಗಕರವಾದ ಸೌಲಭ್ಯಗಳು ಕಂಡು ಬರುತ್ತದೆ
+Poslist : [ಉಪಯೋಗಕರವಾದ, ಸೌಲಭ್ಯಗಳು]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 6 : ಇದರಲ್ಲಿ ವೀಡಿಯೋ ಕಾಲ್ ಎನ್ನುವ ಫೀಚರ್‍ಸ್ ಬಹಳ ಆಕರ್ಷಕವಾಗಿದೆ
+Poslist : [ಆಕರ್ಷಕವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 7 : ಜೊತೆಗೆ ಇದರ ಮೂಲಕ ಇಂಟರ್‌ನೆಟ್‌ನ್ನು ವೀಕ್ಷಿಸಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p161.txt
+Sentence : 0 : ಇದು ಒಂದು ಆಪ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ನಮ್ಮ ಸ್ನೇಹಿತರ ಜತೆ ಪರಸ್ಪರ ಮಾತನಾಡಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಅಲ್ಲಿ ನಾವು ಫೋಟೋ,ಹಾಡು,ಸಿನಿಮಾ ಮತ್ತು ಇತ್ಯಾದಿಗಳನ್ನು ಶೇರ್‌ಮಾಡಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ಮನರಂಜನೆಗೆ ಮಾತ್ರವಲ್ಲ ನಮ್ಮ ನಮ್ಮ ಅನಿಸಿಕೆಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದು ಎಷ್ಟು ಒಳ್ಳೆಯದೋ ಅಷ್ಟೇ ಕೆಟ್ಟದು
+Poslist : [ಒಳ್ಳೆಯದೋ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 5 : ನಾವು ಅದನ್ನು ಎಷ್ಟು ಇರಬೇಕೋ ಅಷ್ಟೇ ಉಪಯೋಗಿಸಬೇಕು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಫೇಸ್‌ಬುಕ್ ಕೆಟ್ಟದು ಎನ್ನಿಸಿಕೊಳ್ಳಲಾಗುವುದಿಲ್ಲ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 7 : ಅದರಲ್ಲಿಯೂ ಉಪಯೋಗಗಳಿವೆ
+Poslist : [ಉಪಯೋಗಗಳಿವೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 8 : ನಮ್ಮ ಸ್ನೇಹಿತರು ತಮ್ಮ ತಮ್ಮ ಅನಿಸಿಕೆಗಳನ್ನು ಬರೆಯಬಹುದು,ಕಳುಹಿಸಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p162.txt
+Sentence : 0 : ಕ್ರೀಡೆ ನಮ್ಮ ದೈಹಿಕ ಚಟುವಟಿಕೆಗಳನ್ನು ಜಾಸ್ತಿ ಮಾಡುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಅದರಲ್ಲಿ ಕ್ರಿಕೆಟ್ ಎರಡನೆಯ ಜನಪ್ರಿಯವಾದ ಆಟ
+Poslist : [ಜನಪ್ರಿಯವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಮೊದಲನೆಯ ಆಟ ಫುಟ್‌ಬಾಲ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಜಗತ್ತಿನ ಬಹು ಜನರು ಕ್ರಿಕೆಟನ್ನು ವೀಕ್ಷಿಸುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಕ್ರಿಕೆಟ್ ಮೂರು ವಿಭಾಗಗಳಿವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಟೆಸ್ಟ್,ಏಕದಿನ,ಟಿ-೨೦
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಇದರಲ್ಲಿ ಹಲವಾರು ಟೂರ್ನಿಯನ್ನು ಆಯೋಜಿಸುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 7 : ಇದು ಅಂತರರಾಷ್ಟ್ರೀಯ ಮಟ್ಟದಲ್ಲಿ ಬಹು ಜನಪ್ರಿಯತೆಯನ್ನು ಹೊಂದಿದೆ
+Poslist : [ಜನಪ್ರಿಯತೆಯನ್ನು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 8 : ಕ್ರಿಕೆಟ್ ಎಂದರೆ ಎಲ್ಲರಿಗೂ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 9 : ಚಿಕ್ಕ ಮಕ್ಕಳಿಂದ ಹಿಡಿದು ದೊಡ್ಡವರಿಗೂ ಕೂಡ ಕ್ರಿಕೆಟ್ ಎಂದರೆ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 10 : ಭಾರತ ಕ್ರಿಕೆಟ್ ಇತಿಹಾಸದಲ್ಲಿ ಬಹಳ ಹೆಸರು ಮಾಡಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 11 : ಈ ಅಂಗಳದಲ್ಲಿ ಭಾರತದ ಆಟಗಾರರು ಎಷ್ಟೊಂದು ದಾಖಲೆ ಮಾಡಿದ್ದಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 12 : ಇದರಲ್ಲಿ ಸಚಿನ್ ತೆಂಡುಲ್ಕರ್ ಕ್ರಿಕೆಟ್ ಜಗತ್ತಿನ ಒಬ್ಬ ಅಪ್ರತಿಮ ಆಟಗಾರ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 13 : ಜಗತ್ತಿನಲ್ಲಿ ಸಚಿನ್ ನಂತಹ ಆಟಗಾರ ಯಾರೂ ಇಲ್ಲ ಸಚಿನ್ ಎಲ್ಲಾ ವಿಭಾಗದಲ್ಲೂ ದಾಖಲೆ ಮಾಡಿದ್ದಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p163.txt
+Sentence : 0 : ಇದು ಎಲ್ಲಾ ಜನರ ಒಂದು ತುಂಬಾ ಇಷ್ಟವಾದ ವಸ್ತು 
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಈ ಕಾಲದಲ್ಲಿ ಎಲ್ಲರ ಹತ್ತಿರ ಕೂಡ ಮೊಬೈಲ್ ಇದ್ದೇ ಇರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದರಿಂದ ಹಲವಾರು ಉಪಯೋಗಗಳಿವೆ
+Poslist : [ಉಪಯೋಗಗಳಿವೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಫೋಟೋ,ಹಾಡು,ವಿಡಿಯೋ,ಸಿನಿಮಾ,ಎಲ್ಲವನ್ನೂ ಈ ಮೊಬೈಲ್‌ನಲ್ಲಿ ತುಂಬಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಮೊದಲು ಮೊಬೈಲ್ ಎಂಧರೆ ಬರೀ ಮಾತನಾಡುವುದಕ್ಕೆ ಮಾತ್ರ ಬಳಸಬಹುದಾಗಿತ್ತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಆದರೆ ಈಗ ಮೊಬೈಲ್‌ನಲ್ಲಿ ಇಂಟರ್‌ನೆಟ್,ಫೋಟೋ,ವಿಡಿಯೋ,ಹಾಡುಗಳನ್ನು ಕೇಳುವುದಕ್ಕೆ ಉಪಯೋಗಿಸುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಈಗ ಮೊಬೈಲ್‌ನಲ್ಲಿ ಟಚ್ ಸ್ಕ್ರೀನ್ಗಳು ಬಂದಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 7 : ಅವು ಬರೇ ಟಚ್ ಮಾಡುವುದರಿಂದ ಆಯ್ಕೆ ಮಾಡಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 8 : ಈ ಮೊಬೈಲ್‌ನಲ್ಲಿ ಹಲವಾರು ತರಹದ ತಯಾರಿಕಾ ಕಂಪನಿಗಳಿವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 9 : ಆಪಲ್,ಸ್ಯಾಮ್‌ಸಂಗ್,ನೋಕಿಯಾ,ಮೈಕ್ರೋಮ್ಯಾಕ್ಸ್,ಕಾರ್ಬನ್,ಸೋನಿ,ಜ಼ೋಲೋ,ಮೊಬೈಲ್‌ಗಳು ಒಂದು ಸಾವಿರದಿಂದ ಐವತ್ತು ಸಾವಿರದವರೆಗೂ ಮೊಬೈಲ್‌ಗಳು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಲಭ್ಯವಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p164.txt
+Sentence : 0 : ಇಂಟರ್‌ನೆಟ್ ಜಗತ್ತಿನಲ್ಲಿ ಅತಿ ಬಳಕೆಯಾಗುವ ವೆಬ್‌ಸೈಟ್ ಗೂಗಲ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಕಾಮ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದು ನಮಗೆ ಎಷ್ಟು ಉಪಯೋಗಕ್ಕೆ ಬರುತ್ತದೆಯೆಂದರೆ ನಾವು ಆಟವಾಡಬಹುದು,ಹಾಡು,ವಿಡಿಯೋ,ಸಿನಿಮಾ ನೋಡಬಹುದು ಮತ್ತು ಇತ್ಯಾದಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಈ ವೆಬ್‌ಸೈಟ್‌ನಿಂದ ನಾವು ಹಲವಾರು ವಿಷಯವನ್ನು ತಿಳಿದುಕೊಳ್ಳಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದು ಯಾವ ವಿಷಯವನ್ನು ಕೂಡ ತಿಳಿದುಕೊಳ್ಳ ಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಪುರಾತನ ಕಾಲದ ಬಗ್ಗೆ,ಆಧುನಿಕ ಕಾಲದ ಬಗ್ಗೆ,ಹಲವಾರು ದೇಶದ ಬಗ್ಗೆ,ಭೂಮಿಯ ಒಳಗಿನ ಮತ್ತೆ ಹೊರಗಿನ ಬಗ್ಗೆ,ತಿಳಿದುಕೊಳ್ಳಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಯಾವ ಭಾಷೆ,ಊರು ಎಲ್ಲದರ ಬಗ್ಗೆ ಈ ವೆಬ್‌ಸೈಟ್ನಲ್ಲಿ ತಿಳಿದುಕೊಳ್ಳಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 7 : ಈ ವೆಬ್‌ಸೈಟ್ ತುಂಬಾ ಉಪಯೋಗಕರ
+Poslist : [ಉಪಯೋಗಕರ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p165.txt
+Sentence : 0 : ದಿನಪತ್ರಿಕೆ ಎಲ್ಲರ ಮನೆಗೆ ತರಿಸುವ ಒಂದು ಉಪಯೋಗಕರ ವಸ್ತು
+Poslist : [ಉಪಯೋಗಕರ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದು ತುಂಬಾ ಕಡಿಮೆ ಬೆಲೆಯಲ್ಲಿ ಸಿಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದು ನಮಗೆ ತುಂಬಾ ಉಪಯೋಗಕರ; ಅಂತರ ರಾಷ್ಟ್ರೀಯ,ರಾಷ್ಟ್ರೀಯ,ರಾಜ್ಯದ,ಜಿಲ್ಲೆಯ,ನಮ್ಮ ಊರಿನ ವಿಷಯವನ್ನು ತಿಳಿದುಕೊಳ್ಳಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ವಿಜ್ಞಾನ ಸಂಬಂಧಿಕ,ಮನರಂಜನೆ ವಿಷಯವನ್ನು ತಿಳಿದುಕೊಳ್ಳಬಹುದು
+Poslist : [ಮನರಂಜನೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಇದು ಹಾನಿಕರವಲ್ಲ ಇದನ್ನು ರೀಸೈಕಲ್ ಮಾಡಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಆದರೆ ಒಂದು ಪೇಪರ್ ತಯಾರಿಕೆಗೆ ಮರಗಳನ್ನು ಕಡಿಯುತ್ತಿದ್ದಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಇದು ಒಂದು ಮಾತ್ರ ಹಾನಿಕರ
+Poslist : []
+Neglist : [ಹಾನಿಕರ]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+Sentence : 7 : ಪತ್ರಕರ್ತರು ವಿಷಯವನ್ನು ಪತ್ರಿಕೆಯಲ್ಲಿ ಸರಿಯಾದ ಭಾಷೆಯನ್ನು ಬಳಸಿ ಚಿತ್ರವನ್ನು ಬಳಸಿ ಪತ್ರಿಕೆಯಲ್ಲಿ ಹಾಕುತ್ತಾರೆ
+Poslist : [ಸರಿಯಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 0.5
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p166.txt
+Sentence : 0 : ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ ಚಿತ್ರದಲ್ಲಿ ಚಾಲೆಂಜಿಂಗ್ ಸ್ಟಾರ್ ದರ್ಶನ್ ಅವರ ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣನ ಪಾತ್ರ ಚೆನ್ನಾಗಿ ಮೂಡಿ ಬಂದಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಆ ಸಿನಿಮಾದಲ್ಲಿ ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣನ ಪಾತ್ರ ಬಂದಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ದರ್ಶನ್‌ ಅವರು ಹುಬ್ಬಳ್ಳಿ ಭಾಷೆಯನ್ನು ಮಾತನಾಡಲು ಕಷ್ಟವಾಗಿದ್ದರೂ ಅವರು ಮಾತನಾಡಿದರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p169.txt
+Sentence : 0 : ಕ್ರೀಡೆಯಲ್ಲಿ ಭಾಗವಹಿಸುವುದೆಂದರೆ ನನಗೆ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ನಾನು ೧೦೦ ಮೀ ಓಟದಲ್ಲಿ ನಮ್ಮ ಭಾರತ ದೇಶಕ್ಕಾಗಿ ಓಡಿ ಮೊದಲನೆ ಸ್ಥಾನ ಬರಬೇಕೆಂದು ನನ್ನ ಆಸೆ
+Poslist : [ಆಸೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಹಾಗೆ ನನ್ನ ನೆಚ್ಚಿನ ಓಟಗಾರ ಉಸೇನ್ ಬೋಲ್ಟ್
+Poslist : [ನೆಚ್ಚಿನ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ನಾನು ಅವರ ೯
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ೫೮ ಸೆಕಂಡುಗಳ ಸಾಧನೆಯನ್ನು ಮುರಿಯಬೇಕೆಂದು ನನ್ನ ಆಸೆ
+Poslist : [ಆಸೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p17.txt
+Sentence : 0 : ಇದು ಒಂದು ಪ್ರಕಾರದ ಚಾಕ್ಲೇಟ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಹಲವಾರು ಫಲಗಳನ್ನು ಹಾಕಿ ಮಾಡುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಯಾವುದಾದರು ಸಿಹಿ ಸುದ್ದಿ ಬಂದಾಗ ಈ ಚಾಕ್ಲೇಟ್‌ನ್ನು ತಿನ್ನುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಅದು ತುಂಬಾ ಮೃದುವಾಗಿ ಇರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದು ನನಗೆ ಬಹಳ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p170.txt
+Sentence : 0 : ನನಗೆ ಜೀನ್ಸ್ ಧರಿಸಲು ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಅದು ತುಂಬಾ ಚೆನ್ನಾಗಿ ಕಾಣಿಸುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಅದರಲ್ಲಿ ನನಗೆ ಆಲೆನ್ ಸೊಲಿ,ಪೀಪಲ್,ನೈಕ್,ರೀಬೊಕ್ ಮೊದಲಾದ ಬ್ರಾಂಡ್‌ಗಳು ನನಗೆ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಅದರಲ್ಲಿ ಆಲೆನ್ ಸೊಲಿ,ಬ್ರಾಂಡ್ ತುಂಬಾ ಚೆನ್ನಾಗಿರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p171.txt
+Sentence : 0 : ನನಗೆ ಬೈಕ್ ಗಳೆಂದರೆ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ನನಗೆ ಇಷ್ಟವಾದ ಬೈಕ್ ಡ್ಯೂಕ್ ೩೯೦,ಈ ಬೈಕ್ ನೋಡಲು ತುಂಬಾ ಆಕರ್ಷಕವಾಗಿದೆ
+Poslist : [ಇಷ್ಟವಾದ, ಆಕರ್ಷಕವಾಗಿದೆ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 2 : ಅದರ ಸಿಸಿ ೩೨೦,ನನಗೆ ಅದನ್ನು ಓಡಿಸಲು ತುಂಬಾ ಆಸೆ
+Poslist : [ಆಸೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p172.txt
+Sentence : 0 : ನನಗೆ ಬೆನ್ಜ್ ಇ ಕ್ಲಾಸ್ ಎಂಬ ಕಾರು ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಅದು ನೋಡಲು ‌ಆಕರ್ಷಕವಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಅದು ತುಂಬಾ ದುಬಾರಿ ಕಾರಾಗಿದೆ
+Poslist : []
+Neglist : [ದುಬಾರಿ]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+POLARITY= 0.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p173.txt
+Sentence : 0 : ವಿಪ್ರೋ ಒಂದು ಒಳ್ಳೆಯ ಸಾಫ್ಟ್‌ವೇರ್ ಕಂಪನಿ
+Poslist : [ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಅದು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಒಳ್ಳೆಯ ಅವಕಾಶವನ್ನು ನೀಡುತ್ತದೆ
+Poslist : [ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p174.txt
+Sentence : 0 : ಫೇಸ್ ಬುಕ್ ಒಂದು ಮನೋರಂಜನೆಯಷ್ಟೇ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಅದರಲ್ಲಿ ನಾವು ನಮ್ಮ ಸ್ನೇಹಿತರ ಜೊತೆ ಮಾತನಾಡಲು,ಸಂದೇಶಗಳನ್ನು ಓದಲು,ನಮ್ಮ ಭಾವಚಿತ್ರಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಸಾಧ್ಯ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದು ಒಂದು ಟೈಮ್ ಪಾಸ್ ಅಷ್ಟೇ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 0.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p177.txt
+Sentence : 0 : ಆಸ್ಪತ್ರೆ ಒಂದು ಎರಡನೇ ದೇವಸ್ಥಾನ ಮತ್ತು ಡಾಕ್ಟರ್ ಎರಡನೇ ದೇವರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಅವರು ನಮ್ಮ ಪ್ರಾಣವನ್ನು ಉಳಿಸುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಕೆಲವು ಆಸ್ಪತ್ರೆಗಳಲ್ಲಿ ಮೋಸದಿಂದ ದುಡ್ಡನ್ನು ವಸೂಲಿ ಮಾಡುತ್ತಾರೆ
+Poslist : []
+Neglist : [ಮೋಸದಿಂದ]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+POLARITY= -1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p178.txt
+Sentence : 0 : ನನಗೆ ಇಷ್ಟವಾದ ಕಾರು ಎಂದರೆ ಲ್ಯಾಂಬಂರ್ಗಿನಿ- ಅವೆಂಟೆಡರ್ ಅದು ಬಹಳ ಬೇಡಿಕೆಯ ಕಾರು ಮತ್ತು ದುಬಾರಿ ಕಾರು ಅದರಲ್ಲಿ ತುಂಬಾ ಲಕ್ಷುರಿ ಇರುತ್ತದೆ
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : [ದುಬಾರಿ]
+Polarwords: 2
+Poswords: 1
+Negwords: 1
+Sentence : 1 : ಅದರ ಸ್ಪೀಡ್ ಕೂಡ ತುಂಬಾ ಜಾಸ್ತಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಅದರಿಂದಾಗಿ ನನಗೆ ಆ ಕಾರು ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 0.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p18.txt
+Sentence : 0 : ಇದು ಒಂದು ಚಾಕ್ಲೇಟ್ ಬಿಸ್ಕೆಟ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ವಿವಿಧ ಪ್ರಕಾರದ ಫ್ಲೇವರ್‌ಗಳಲ್ಲಿ ಬರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದು ಚೌಕ ರೂಪದಲ್ಲಿ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ೨ ವಿಧ ಫಾಬ್ ಮತ್ತು ಹೈಡ್ ಅಂಡ್ ಸೀಕ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದರಲ್ಲಿಯೂ ಹಲವಾರು ಫ್ಲೇವರ್‌ಗಳಿವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ನನಗೆ ಇವೆರಡು ಬಹಳ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p180.txt
+Sentence : 0 : ಸಿನಿಮಾ ಎಂದರೆ ಒಂದು ಮನೋರಂಜನೆ ಅಷ್ಟೇ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದನ್ನು ನಾವು ಮನೋರಂಜನೆಗಾಗಿ ನೋಡುತ್ತೇವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಸಿನಿಮಾಗಳು ಎಷ್ಟೊಂದು ಭಾಷೆಯಲ್ಲಿ ಇರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಕನ್ನಡ - ಸ್ಯಾಂಡಲ್ ವುಡ್,ಹಿಂದಿ- ಬಾಲಿವುಡ್,ಇಂಗ್ಲೀಷ್ - ಹಾಲಿವುಡ್,ತೆಲುಗು- ಟಾಲಿವುಡ್ ಇತ್ಯಾದಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಧೂಮ್ -೩,ಬರೀ ೨೦ ದಿನಕ್ಕೆ ೩೦೦ ಕೋಟಿ ಬಂದಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಇದರಲ್ಲಿ ಅಮೀರ್ ಖಾನ್,ಆಕ್ಟಿಂಗ್ ತುಂಬಾ ಅದ್ಬುತವಾಗಿದೆ
+Poslist : [ಅದ್ಬುತವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p182.txt
+Sentence : 0 : ಕಾರ್ಟೂನ್ ನೆಟ್ ವರ್ಕ್ ಒಂದು ಅನಿಮೇಷನ್ ಚಾನೆಲ್ ಇದರಲ್ಲಿ ಒಂದು ಕಾಮಿಡಿ ಶೋ ಬರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಟಾಮ್ ಅಂಡ್ ಜೆರ್ರಿ ಇದರಲ್ಲಿ ಇಲಿ ಮತ್ತು ಬೆಕ್ಕು ಇವೆರಡು ಜಗಳವಾಡುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದನ್ನು ನೋಡಲು ಮನಸ್ಸಿಗೆ ಆನಂದ ಉಂಟಾಗುತ್ತದೆ
+Poslist : [ಆನಂದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p183.txt
+Sentence : 0 : ಉದಯ ಕಾಮಿಡಿ ಇದರಲ್ಲಿ ಒಳ್ಳೆಯ ಕಾಮಿಡಿ ದೃಶ್ಯವನ್ನು ಹಾಕುತ್ತಾರೆ
+Poslist : [ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದರಿಂದ ನಮಗೆ ಮನೋರಂಜನೆ ಸಿಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ನಾನು ಯಾವಾಗಲೂ ಇದನ್ನು ನೋಡುತ್ತೇನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p184.txt
+Sentence : 0 : ನನಗೆ ಇಷ್ಟವಾದ ಸೈಕಲ್ ಗೀಟ್
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಅದು ತುಂಬ ಬೇಡಿಕೆ ಬಂದಿರುವ ಸೈಕಲ್ ಹಾಗೂ ಅದು ದುಬಾರಿ ಕೂಡ
+Poslist : []
+Neglist : [ದುಬಾರಿ]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+Sentence : 2 : ಅದು ಮೌಂಟ್ ಬೈಕ್‌ಗಳು ಅದರ ಟೈರ್‌ಗಳು ಬಾರಿ ಗಾತ್ರ ಹೊಂದಿರುತ್ತದೆ ಮತ್ತು ಅದರ ಗೇರ್ ಸಿಸ್ಟಮ್ ತುಂಬ ಅದ್ಭುತ
+Poslist : [ಅದ್ಭುತ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 0.33333334
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p185.txt
+Sentence : 0 : ನನಗೆ ಸಾಮಾನ್ಯ ಕಾರುಗಳನ್ನು ಕಂಡರೆ ಇಷ್ಟ ಇಲ್ಲ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಲ್ಯಾಂಬೊರ್ಗಿನಿ ಕಾರು ನನಗೆ ತುಂಬ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಕಾರಿನ ಸ್ಟೈಲ್,ವೇಗ,ಬಣ್ಣ,ಕಾರಿನ ಬಾಡಿ ಬೇರೆ ಯಾವುದೇ ಕಾರಿನಲ್ಲಿ ಇಲ್ಲ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p186.txt
+Sentence : 0 : ಕೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಎಫ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಸಿ ಎಂದರೆ ಕೆನ್ನುಕೀ ಫ್ರೈಡ್ ಚಿಕನ್ ಅದು ನನಗೆ ಪಂಚಪ್ರಾಣ
+Poslist : [ಪಂಚಪ್ರಾಣ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಅದರ ಲೋಗೋ ಸೋ ಗುಡ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಅಂತೇ ಅದನ್ನು ತಿಂದ ಮೇಲೆ ಬರುವ ಮೊದಲ ಪದವೇ ಸೋ ಗುಡ್ ಹಾಗೂ ಇದೂ ಮುಗಿಸಿದ ಮೇಲೆ ಬರುವು ಪದ ಇಟ್ ಹಿಸ್ ಫುಡ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಅದನ್ನು ನೋಡುತ್ತಿದ್ದರೆ ಬಾಯಿಂದ ನೀರು ಬರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p187.txt
+Sentence : 0 :  ಬೆಸ್ಟ್ ಫಿಲಂ ಇನ್ ಇನನಗೆ ಇಷ್ಟವಾದ ಸಿನಿಮಾ
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಅದರಲ್ಲಿ ಅಮೀರ್ ಖಾನ್ ಅಭಿನಯ ಅತೀ ಅದ್ಭುತ ಮತ್ತು ಈ ಸಿನಿಮಾಂಡಿಯನ್ ಫಿಲಂ ಇನ್‌ಡಂಸ್ಟ್ರೀಸ್
+Poslist : [ಅದ್ಭುತ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಅದರಲ್ಲಿ ಬೈಕ್‌ನ ಸಾಹಸಗಳು ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p19.txt
+Sentence : 0 : ಇದು ಒಂದು ಐತಿಹಾಸಿಕ ಪುರಾಣ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ನಮ್ಮ ದೇಶದ ಮಹಾ ಪುಸ್ತಕಗಳಲ್ಲಿ ಒಂದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದನ್ನು ಹಿಂದಿ ಭಾಷೆಯಲ್ಲಿ ಧಾರವಾಹಿಯಾಗಿ ನಡೆಸುತ್ತಿದ್ದಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಿಂದ ನಮಗೆ ಇತಿಹಾಸದ ಬಗ್ಗೆ ತಿಳಿಸಿಕೊಡುತ್ತದೆ
+Poslist : [ತಿಳಿಸಿಕೊಡುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಇದರಲ್ಲಿ ಪಾಂಡವರು ಮತ್ತು ಕೌರವರ ಕಥೆಯನ್ನು ತೋರಿಸಕೊಡುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಆದ್ದರಿಂದ ಈ ಧಾರವಾಹಿ ನನಗೆ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p195.txt
+Sentence : 0 : ಇದರಲ್ಲಿ ವಿಜ್ನಾನದ ಇಂದಿನ ಆಗು ಹೋಗುಗಳನ್ನು ತೋರಿಸುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ನಮ್ಮಂತಹ ಯುವಕರಿಗೆ ತುಂಬ ಉಪಯೋಗಕರವಾಗಿದೆ
+Poslist : [ಉಪಯೋಗಕರವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ನಾವೇ ಅಪಾಯದಲ್ಲಿ ಸಿಲುಕಿಕೊಂಡಾಗ ಹೇಗೆ ಹೊರ ಬರಬೇಕೆಂದು ತೋರಿಸುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಉದಾ:ಮ್ಯಾನ್ ಮತ್ತು ವೈಲ್ಡ್ ಎನ್ನುವ ಶೊ ನಲ್ಲಿ ಬಿಯರ್ ಗಿಲ್ಸ್ ಎನ್ನುವವರು ನಮಗೆ ತೋರಿಸುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p196.txt
+Sentence : 0 : ಇದರಲ್ಲಿ ಎಲ್ಲತರದ ಆಟದ ಒಂದು ಝಲಕನ್ನು ತೋರಿಸುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಪ್ರಸಾರವಾಗುವ ಡಬ್ಲು ಡಬ್ಲು ಇ 
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಈ ನನ್ನ ನೆಚ್ಚಿನ ಪ್ರೊಗ್ರಾಮಾಗಿದೆ
+Poslist : [ನೆಚ್ಚಿನ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದು ಕೇವಲ ಮನರಂಜನೆಯಾಗಿದ್ದರೂ ನನಗೆ ಅದು ನಿಜ ಎನಿಸುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p197.txt
+Sentence : 0 : ಇದು ನಾಟಕದ ಮೂಲವಾಗಿದೆ ಇದರಲ್ಲಿ ನನಗೆ ಇಷ್ಟವಾದ ಸಿನಿಮಾಗಳೆಂದರೆ ಧೂಮ್ ೧,೨,೩,೩ಇಡಿಯಟ್ಸ್ ಹಾಗು ಕ್ರಿಶ್ ೩ ಧೂಮ್ ಸಿನಿಮಾವು ೧೯ದಿನಗಳಿಗೆ ೫೦೦ಕೋಟಿ ರೂಪಾಯಿಗಳನ್ನು ದುಡಿದಿದೆ ಕ್ರಿಶ್ ೩ ಸಿನಿಮ ೩೦ ದಿನಗಳಲ್ಲಿ ೩೦೦ ಕೋಟಿಯನ್ನು ದುಡಿದಿದೆ
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p198.txt
+Sentence : 0 : ಇದು ಒಂದು ನವೀನವಾದ ಸುಂದರವಾದ ಹಗುರ ಚಪ್ಪಲಿ
+Poslist : [ನವೀನವಾದ, ಸುಂದರವಾದ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 1 : ಯಾಕೆ? ಕಾಲುಗಳಿಗೆ ಕಂಫರ್ಟ್ ಬೇಡವಾ ನಡೆಯಿರಿ ಈ ಚಪ್ಪಲಿಯನ್ನು ಧರಿಸಿ,ಆರಾಮವಾಗಿ ಓಡಾಡೋಣ 
+Poslist : [ಕಂಫರ್ಟ್, ಆರಾಮವಾಗಿ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 2 : ಉಪಯೋಗಿಸಿ ಪ್ಯಾರಗಾನ್ ಪ್ಯಾರಲೈಟ್ ನೀವು ನಡೆಯುವಿರಿ ಸಂತೋಷವಾಗಿ
+Poslist : [ಸಂತೋಷವಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ವಾಕ್ ವಿತ್ ಕಂಫರ್ಟ್
+Poslist : [ಕಂಫರ್ಟ್]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p199.txt
+Sentence : 0 : ನಾನು ಈ ಕೈ ಗಡಿಯಾರವನ್ನು ಖರೀದಿಸಿ ತುಂಬಾ ವರ್ಷಗಳಾದರೂ ಇನ್ನೂ ಈ ಗಡಿಯಾರ ಸೆವೆದಿಲ್ಲ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಈ ಗಡಿಯಾರ ನನ್ನ ಲಕ್ಕಿ ಗಡಿಯಾರ ಎಂದು ಕರೆಯುತ್ತೇನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದು ಹಗುರವಾದ ಗಡಿಯಾರ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ನಾನು ಸ್ಟಾಪ್‌ವಾಚ್ ,ಅಲಾರಮ್ ,ಟೈಮ್ ಸೌಲಭ್ಯಗಳನ್ನು ಉಪಯೋಗಿಸಿ ಕೊಳ್ಳುತ್ತೇನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಆದ್ದರಿಂದ ನಾನು ಈ ಗಡಿಯಾರವನ್ನು ಪ್ರೀತಿಸುತ್ತೇನೆ
+Poslist : [ಪ್ರೀತಿಸುತ್ತೇನೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p2.txt
+Sentence : 0 : ನನ್ನ ನೆಚ್ಚಿನ ಸಿನಿಮಾ ವಿಷ್ಣುವರ್ಧನಾ,ಏಕೆಂದರೆ ಅದರಲ್ಲಿ ಸುದೀಪ್ ಮತ್ತು ಭಾವನಾಳ ಜೋಡಿ ಸೂಪರ್
+Poslist : [ನೆಚ್ಚಿನ, ಸೂಪರ್]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 1 : ನನಗೆ ಸುದೀಪ್ ಸ್ಟೈಲ್,ಹೇರ್ ಸ್ಟೈಲ್,ವಾಕ್‌ಚಾತುರ್ಯ ಇದು ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p20.txt
+Sentence : 0 : ಇದೊಂದು ತಲೆಗೆ ಹಾಕುವ ಎಣ್ಣೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ಡಾಬರ್ ಕಂಪನಿಯಿಂದ ಬಿಡುಗಡೆಯಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದು ಆಮ್ಲ ಎಣ್ಣೆಯನ್ನು ಒಳಗೂಡಿದುವುದರಿಂದ ಕೂದಲು ಕಪ್ಪಗಾಗಿ,ಉದ್ದವಾಗಿ ಹಾಗೂ ದಟ್ಟವಾಗಿ ಬೆಳೆಯುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ನಾನು ಮೊದಲು ಈ ಎಣ್ಣೆಯನ್ನು ಉಪಯೋಗಿಸುತ್ತಿರಲಿಲ್ಲ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಆನಂತರ ಇದನ್ನು ಉಪಯೋಗಿಸಲು ಶುರುಮಾಡಿದೆ ಇದನ್ನು ಉಪಯೋಗಿಸಿದ ನಂತರ ನನ್ನ ಕೂದಲು ಕಪ್ಪಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಉದ್ದವಾಗಿ ಬೆಳೆಯುತ್ತಿದೆ ಹಾಗೂ ಪೋಷಣೆಯನ್ನು ನೀಡುತ್ತಿದೆ
+Poslist : [ಪೋಷಣೆಯನ್ನು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 6 : ಇದನ್ನು ಒಂದು ದಿನ ಹಾಕಿ,ಮಾರನೇ ದಿನ ತೊಳೆದರೆ ಕೂದಲು ಪೋಷಣೆಯುಕ್ತಾವಾಗಿರುತ್ತದೆ
+Poslist : [ಪೋಷಣೆಯುಕ್ತಾವಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 7 : ಅದಲ್ಲದೆ ಇದು ಪರಿಮಳವನ್ನು ಉಂಟುಮಾಡಿದರಿಂದ ನನಗೆ ಇದು ಬಹಳ ಇಷ್ಟ
+Poslist : [ಪರಿಮಳವನ್ನು, ಇಷ್ಟ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p200.txt
+Sentence : 0 : ನಾನು ಈ ಚೀಲದಲ್ಲಿ ಸುಮಾರು ೨೦ ರಿಂದ ೨೫ ಪುಸ್ತಕಗಳನ್ನು ಹಾಕಿಕೊಂಡು ಹೋಗುತ್ತೇನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಆದ್ರೂ ಇನ್ನೂ ಈ ಚೀಲ ಹರಿದಿಲ್ಲ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ನಮ್ಮ ಜೀವನ ಸೆವೆದು ಹೋದರು ಈ ಚೀಲವು ಸೆವೆಯುವುದಿಲ್ಲ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಈ ಚೀಲವು ತರಾವರಿಯಾಗಿ ದೊರೆಯುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ನಮಗೆ ಯಾವತರಹ ಚೀಲ ಬೇಕು ಆ ತರಹ ಚೀಲ ಕೊಂಡುಕೊಂಡು ನಾವು ಉಪಯೋಗಿಸಿದರೆ ನಿಮಗೆ ಖಚಿತವಾಗಿ ಉಪಕಾರವಾಗುತ್ತದೆ
+Poslist : [ಉಪಕಾರವಾಗುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 5 : ಇದು ಸ್ವಲ್ಪ ಹೆಚ್ಚು ದರವಾಗಿದ್ದರೂ ತುಂಬಾ ವರ್ಷ ಬಾಳುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p201.txt
+Sentence : 0 : ನನ್ನ ಹತ್ತಿರ ಈ ಟಪ್ಪರ್ವೇರ್ ಡಬ್ಬ ನಾಲ್ಕು ಐದು ವರ್ಷಗಳಿಂದ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಆದರೂ ಈ ಡಬ್ಬ ಮುರಿದು ಹೋಗಿಲ್ಲ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಮೊದಲು ನನ್ನ ಹತ್ತಿರ ಒಂದೆರಡು ಪ್ಲಾಸ್ಟಿಕ್ ಡಬ್ಬ ಇದ್ದವು,ಆದರೆ ಅದು ನಾಲ್ಕು ತಿಂಗಳಿಗೆ ಓಡೆದು ಹೋದವು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಆದ್ದರಿಂದ ನಾನು ಈ ಟಪ್ಪರ್ವೇರ್ ಡಬ್ಬವನ್ನು ಖರೀದಿಸಿ ಪ್ರತಿದಿನ ಸಂತೋಷದಿಂದ ತಿನ್ನುತ್ತೇನೆ
+Poslist : [ಸಂತೋಷದಿಂದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p202.txt
+Sentence : 0 : ಚಾಕೊಲೇಟ್ ಬಹಳ ಚೆನ್ನಾಗಿ ಇರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಇರುವ ಸಿಹಿ ಮತ್ತು ಇದರ ಮೃದುತನ ನನ್ನನ್ನು ಮರುಳಾಗಿಸುತ್ತದೆ
+Poslist : []
+Neglist : [ಮರುಳಾಗಿಸುತ್ತದೆ]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+Sentence : 2 : ನಾನು ಇದನ್ನು ತಿಂದರೆ ತಿನ್ನುತ್ತಲೇ ಇರಬೇಕು ಎನಿಸುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಆದ್ದರಿಂದ ನನಗೆ ಈ ಚಾಕೊಲೇಟ್ ಎಂದರೆ ಪಂಚಪ್ರಾಣ
+Poslist : [ಪಂಚಪ್ರಾಣ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 0.33333334
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p203.txt
+Sentence : 0 : ಇದರ ಕ್ಯಾಮರ ೪೧ ಪಿಕ್ಸಲ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಈ ಫೋನ್ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದಕ್ಕೆ ಪ್ರೋಸೆಸರ್ ಡ್ಯೂಯಲ್ ಕೋರ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ದೊಡ್ಡ ಸ್ಕ್ರೀನ್ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಹೆಚ್ಡಿ ಪಿಕ್ಚರ್ ಇದೆ ಕ್ಯಾಮರ ತುಂಬ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 5 : ನೋಕಿಯ ಲುಮಿಯ ೧೦೨೦ ನೋಕಿಯ ಅವರದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p204.txt
+Sentence : 0 : ಇದು ತುಂಬಾ ಬೆಲೆ ಜಾಸ್ತಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ತುಂಬಾ ವೇಗವಾಗಿ ಹೋಗುತ್ತೆ ಇದರ ಬೆಲೆ ನಾಲ್ಕು ಕೋಟಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದು ನೋಡುವುದಕ್ಕೆ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದರ ಇಂಜಿನ್ ತುಂಬಾ ದೊಡ್ಡದು ಇದು ತುಂಬಾ ದೊಡ್ಡದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಈ ಕಾರ್ ನನಗೆ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p205.txt
+Sentence : 0 : ಈ ಚಾನಲ್ ನಲ್ಲಿ ತುಂಬಾ ಚೆನ್ನಾಗಿರುವ ಶೋಗಳು ತೋರಿಸುತ್ತಾರೆ 
+Poslist : [ಚೆನ್ನಾಗಿರುವ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಕಾರಿನ ಬಗ್ಗೆ ಮತ್ತು ಪ್ರಾಣಿ,ಪಕ್ಷಿ,ಮನುಷ್ಯನ ಬಗ್ಗೆ ಮತ್ತು ಪರಂಪರೆಯ ಬಗ್ಗೆ ಇನ್ನೂ ಎಷ್ಟೊಂದು ತೋರಿಸುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಮಕ್ಕಳು ಮತ್ತು ದೊಡ್ಡವರು ನೋಡಿ ಇಷ್ಟಪಡುತ್ತಾರೆ ನನಗೆ ಈ ಚಾನಲ್ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟಪಡುತ್ತಾರೆ, ಇಷ್ಟ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p206.txt
+Sentence : 0 : ಇದು ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ 
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ತುಂಬಾ ಜನ ಈ ಕಂಪನಿಯ ಸಿಮ್ ಮತ್ತು ಅಂತರ್ಜಾಲವನ್ನು ಎಷ್ಟೊಂದು ಜನ ಉಪಯೋಗಿಸುತ್ತಾರೆ! ಅಂತರ್ಜಾಲದ ಸ್ಪೀಡ್ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ ಏರ್‌ಟೆಲ್ ತುಂಬಾ ದೊಡ್ಡ ಕಂಪನಿ ಏರ್‌ಟೆಲ್ ಸಿಮ್ ಸಿಗುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ವೀಡಿಯೋಕಾಲಿಂಗ್ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ನಮ್ಮ ಮನೆಯಲ್ಲೂ ಎಲ್ಲರೂ ಏರ್‌ಟೆಲ್ ಸಿಮ್ ಮತ್ತು ಅಂತರ್ಜಾಲವನ್ನು ಉಪಯೋಗಿಸುತ್ತೇವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p207.txt
+Sentence : 0 : ಇದು ತುಂಬಾ ಒಳ್ಳೆಯದು 
+Poslist : [ಒಳ್ಳೆಯದು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ವಿದ್ಯುತ್ ತುಂಬಾ ಕಡಿಮೆ ಉಪಯೋಗಿಸುತ್ತದೆ ಬೆಳಕು ಜಾಸ್ತಿ ಕೊಡುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದನ್ನು ಉಪಯೋಗಿಸಿದರೆ ವಿದ್ಯುತ್ ಉಳಿತಾಯ ಮಾಡಬಹುದು 
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರ ಬೆಲೆ ಸ್ವಲ್ಪ ಜಾಸ್ತಿ ಇದಕ್ಕೆ ತುಂಬಾ ಲಾಂಗ್ ಲೈಫ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p208.txt
+Sentence : 0 : ಈ ಮೊಬೈಲ್‌ಗಳು ಭಾರತದಲ್ಲಿ ಅತೀ ಹೆಚ್ಚು ಮಂದಿ ಉಪಯೋಗಿಸುವ ದೂರವಾಣಿಯಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಈ ಮೊಬೈಲ್‌ಗಳು ಹಣದಲ್ಲಿ ದುಬಾರಿಯಾಗಿದ್ದರೂ ಒಳ್ಳೆಯ ಗುಣಮಟ್ಟದ್ದಾಗಿದೆ
+Poslist : [ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ಕ್ಯಾಮೆರಾ,ಬ್ಲೂಟೂತ್,ವೈ-ಫೈ,ಗೇಮ್ಸ್‌ಗಳು ಇವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಈ ದೂರವಾಣಿ ನಮ್ಮ ಮನೆಯಲ್ಲಿ ಎಲ್ಲರೂ ಉಪಯೋಗಿಸುತ್ತೇವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದು ಸಾರ್ವಜನಿಕರಿಗೆ ಅನುಕೂಲದ ದೂರವಾಣಿಯಾಗಿದೆ
+Poslist : [ಅನುಕೂಲದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p209.txt
+Sentence : 0 : ಇದು ಒಂದು ಸಾಮಾಜಿಕ ನೆಟ್‌ವರ್ಕಿಂಗ್ ಸೈಟ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಮಕ್ಕಳು,ಯುವಕರು ಎಲ್ಲರೂ ಇರುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ನಮಗೆ ಸ್ನೇಹಿತರ ಜೊತೆ ಸಂಪರ್ಕದಲ್ಲಿರುತ್ತೇವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ಬಹಳ ದುರ್ಬಳಕೆ ಜೊತೆಗೆ ಒಳ್ಳೆಯ ಬಳಕೆಗಳು ಸಹ ಇದ್ದಾವೆ
+Poslist : [ಒಳ್ಳೆಯ]
+Neglist : [ದುರ್ಬಳಕೆ]
+Polarwords: 2
+Poswords: 1
+Negwords: 1
+Sentence : 4 : ಇದಕ್ಕೆ ೧೪ರ ಮೇಲೆ ಇರುವ ಮಕ್ಕಳಿಗಷ್ಟೆ ಅನುಮತಿಯಿರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಇದರಿಂದ ನಾವು ನಮ್ಮ ಸ್ನೇಹಿತರ ಜೊತೆ ಮಾತಾಡುತ್ತೇವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ನಮ್ಮ ಅನಿಸಿಕೆಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುತ್ತೇವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 0.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p21.txt
+Sentence : 0 : ಇದು ನನಗೆ ಬಹಳ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ನನ್ನಲ್ಲಿರುವ ಪೆನ್ನು,ಪೆನ್‌ಸಿಲ್,ಪುಸ್ತಕ,ಸ್ಕೇಲ್,ರಬ್ಬರ್ ಮುಂತಾದವು ಇದೇ ಕಂಪನಿಯದೇ ಇರೋದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಏಕೆಂದರೆ ಇದು ಗುಣಾತ್ಮಕ ವಸ್ತುಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತಿದೆ
+Poslist : [ಗುಣಾತ್ಮಕ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದರ ಆಕ್‌ಟೆನ್ ಪೆನ್ನು,ಕಾರ್ಬನ್ ಬ್ಲಾಕ್ ಪೆನ್‌ಸಿಲ್,ಡಾ ವಿನ್ಸಿ ಪೆನ್‌ಪೆನ್‌ಸಿಲ್ ತುಂಬಾ ಗುಂಡಾಗಿ ಹಾಗೂ ಚೆನ್ನಾಗಿ ಬರೆಯುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಅಷ್ಟೇ ಅಲ್ಲದೇ ಇದನ್ನು ನಾನು ಆಕ್‌ಟೆನ್ ಪೆನ್ನಿಂದ ಬರೆದ್ದಿದ್ದೇನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಇದರಲ್ಲೇ ತಿಳಿದುಕೊಳ್ಳಿ ಎಷ್ಟು ಚೆನ್ನಾಗಿ ಹಾಗೂ ದುಂಡಾಗಿ ಬರೆಯುತ್ತದೆ ಎಂದು
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p210.txt
+Sentence : 0 : ಈ ಹೆಸರಿನಲ್ಲಿ ಹಲವು ಉತ್ಪಾದನೆಗಳಿದ್ದು ಅವುಗಳಲ್ಲಿ,ಕೈ ಗಡಿಯಾರ,ಬ್ಯಾಗ್ಸ್ ಹಾಗೂ ಇತರೆ ಉತ್ಪನ್ನಗಳಿದ್ದು ಅದರಲ್ಲಿ ಕೈ ಗಡಿಯಾರ ಹೆಚ್ಚು ಹೆಚ್ಚಾಗಿ ಚಾಲ್ತಿಯಲ್ಲಿರುವಂತಹದ್ದಾಗಿದ್ದು ಈಗಿನ ಯುವ ಪೀಳಿಗೆಯವರುಗಳಿಗಂತು ಇದನ್ನೇ ಉಪಯೋಗಿಸುತ್ತಿದ್ದು ಎಲ್ಲ ವರ್ಗದ ಜನರಿಗೂ ಕೈಗೆಟಕುವಂತಹ ಕೈ ಗಡಿಯಾರವಾಗಿದೆ
+Poslist : [ಕೈಗೆಟಕುವಂತಹ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಹಲವು ಬಗೆಯ ಹಲವು ಬಣ್ಣಗಳಲ್ಲಿ ದೊರೆಯುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p22.txt
+Sentence : 0 : ಬಿಗ್ ಬಾಸ್ ಕನ್ನಡ,ಹಿಂದಿ,ಬಂಗಾಲಿ,ಮಳಿಯಾಳಂ,ಇಂಗ್ಲೀಷ್ ಭಾಷೆಗಳಲ್ಲಿ ಬಂದಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ನಾನು ಕನ್ನಡ ಬಿಗ್‌ಬಾಸ್ ಬಗ್ಗೆ ಮಾತಾನಾಡುತ್ತಿದ್ದೇನೆ ಹಾಗು ಹಿಂದಿ ಕೂಡಾ ಕನ್ನಡದ ಬಿಗ್‌ಬಾಸ್‌ಗೆ ಸುದೀಪ್ ನಿರೂಪಕನಾಗಿದ್ದ ಹಾಗೂ ಹಿಂದಿಯಲ್ಲಿ ಸಲ್ಮಾನ್ ಖಾನ್ ನಿರೂಪಕನಾಗಿದ್ದ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದು ನನಗೆ ಬಹಳ ಪ್ರಿಯವಾಗಿರುವ ಶೋ ಏಕೆಂದರೆ ವಾರದ ೭ ದಿನವು ಬರುವುದು
+Poslist : [ಪ್ರಿಯವಾಗಿರುವ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ಸೆಲಿಬ್ರೆಟಿಗಳು ಹೆಂಗೆ ವರ್ತಿಸುತ್ತಾರೆ ಎಂಬುದು ಚೆನ್ನಾಗಿ ತಿಳಿದುಕೊಳ್ಳಬಹುದು
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಆದರೆ ಇದರಲ್ಲಿ ನನಗೆ ಒಂದು ಬೆಜಾರು ಏನು ಎಂದರೆ ಇವರು ಕೆಲವೊಂದು ವಿಷಯಗಳನ್ನು ಕಟ್ ಮಾಡಿ ತೋರಿಸುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಅದು ನನಗೆ ಇಷ್ಟವಿಲ್ಲ
+Poslist : []
+Neglist : [ಇಷ್ಟವಿಲ್ಲ]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+Sentence : 6 : ಅಲ್ಲದೇ ಅದನ್ನು ಇದುದ್ದನ್ನು ಇದ್ದ ಹಾಗೆ ತೋರಿಸೋ ಗೇಮ್ ಅಂತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 7 : ಅಂದ ಹಾಗೆ ಸಿಕ್ಕ ಸಮಯದಲ್ಲಿ ಅಂದರೆ ಮರುಪ್ರಸಾರದ ಸಂದರ್ಭದಲ್ಲಿ ರಾತ್ರಿವೇಳೆಯಲ್ಲಿ ಉಳಿದನ್ನು ತೋರಿಸಬಹುದಲ್ಲವೇ? 
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 0.33333334
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p23.txt
+Sentence : 0 : ಇದೊಂದು ಚ್ಯುಯಿಂಗಮ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ನನಗೆ ಇದು ಏಕೆ ಇಷ್ಟವೆಂದರೆ ಇದು ಬಾಯಲ್ಲಿ ತಾಜಾತನವನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ
+Poslist : [ತಾಜಾತನವನ್ನು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಬೇರೆ ಚ್ಯುಯಿಂಗಮ್ನಲ್ಲಿ ಈ ತಾಜಾತನವಿಲ್ಲ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ಬಾಯಿಯ ರ್ಧುಗಂಧವನ್ನು ಸಹಾ ಹೋಗಲಾಡಿಸುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ನಾನು ಆಟ ಆಡುವಾಗ ಇದನ್ನು ಗಂಟಲಿನಲ್ಲಿ ತಾಜಾತನದ ಉಸಿರು ಬಾರುವುದರಿಂದ ಬಾಯಾರಿಕೆ ಆಗುವುದಿಲ್ಲ
+Poslist : [ತಾಜಾತನದ]
+Neglist : [ಆಗುವುದಿಲ್ಲ]
+Polarwords: 2
+Poswords: 1
+Negwords: 1
+Sentence : 5 : ಇದು ಹಲ್ಲುಗಳಿಗೆ ಒಳ್ಳೆ ವ್ಯಾಯಾಮವನ್ನು ನೀಡುತ್ತದೆ
+Poslist : [ಒಳ್ಳೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 0.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p25.txt
+Sentence : 0 : ಇದು ಒಂದು ಬಿಸ್ಕೆಟ್ ತಯಾರಿಸುವ ಕಂಪನಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಈ ಕಂಪನಿಯ ಬಿಸ್ಕೆಟ್ ಹಲವಾರು ವಿಧ ವಿಧವಾದ ಪ್ಲೆವರ್‌ಗಳಲ್ಲಿ ಮೂಡಿ ಬಂದಿದೆ
+Poslist : [ವಿಧವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಅದು ತುಂಬಾ ರುಚಿಕರವಾಗಿ ಇರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಮಕ್ಕಳಿಗಂತೂ ತುಂಬಾ ಇಷ್ಟವಾಗುತ್ತದೆ
+Poslist : [ಇಷ್ಟವಾಗುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಎಲ್ಲರಿಗೂ ಆರೋಗ್ಯಕರವಾಗಿಯೂ ಇರುವಂತಾಗಿದೆ
+Poslist : [ಆರೋಗ್ಯಕರವಾಗಿಯೂ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p26.txt
+Sentence : 0 : ಇದು ಒಂದು ವೆಬ್‌ಸೈಟ್ ಆಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ನಾವು ಮನರಂಜನೆಯ ಚಿತ್ರಗಳು,ಸ್ಪೋರ್ಟ್ ಹಾಗೂ ಆನೇಕ ಕಂಪನಿಗಳ ಮಾಹಿತಿಯನ್ನು ಒಂದು ಸೆಕೆಂಡ್‌ನಲ್ಲಿ ತಿಳಿದುಕೊಳ್ಳಬುಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದು ಯಾಹೂ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಕಾಂ ಎಂಬ ವಿಳಾಸದಲ್ಲಿ ನಾವು ಪ್ರಯೋಜನ ಪಡೆಯಬಹುದು,ಇದು ಆನ್ಲೈನ್ ವೆಬ್‌ಸೈಟ್ ಆಗಿದೆ
+Poslist : [ಪ್ರಯೋಜನ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p27.txt
+Sentence : 0 : ಇದು ಒಂದು ಸೋಪ್ ಕಂಪನಿಯಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಹಲವಾರು ವಿಧದ ಸೋಪ್ ಹಾಗೂ ಬಾಡಿ ಕ್ರಿಮ್,ಸುಗಂಧಭರಿತ ಬಾಡಿ ಸ್ಪ್ರೇಗಳು ಹಾಗೂ ಶಾಂಪುಗಳು ಲಭ್ಯವಿದೆ
+Poslist : [ಸುಗಂಧಭರಿತ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದು ಚರ್ಮರೋಗ ಇರುವಂತರಿಗೆ ತುಂಬಾ ಪ್ರಯೋಜನಕಾರಿಯಾಗಿದೆ
+Poslist : [ಪ್ರಯೋಜನಕಾರಿಯಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದು ತುಂಬಾ ಮೈಲ್ಡ್ ಆಗಿರುವದುದರಿಂದ ಪುಟ್ಟ ಮಕ್ಕಳಿಗೂ ಯಾವುದೇ ಹಾನಿಕಾರವಾಗುವುದಿಲ್ಲ
+Poslist : [ಹಾನಿಕಾರವಾಗುವುದಿಲ್ಲ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p28.txt
+Sentence : 0 : ಇದು ಒಂದು ಪ್ರಖ್ಯಾತ ಮೊಬೈಲ್ ಕಂಪನಿ
+Poslist : [ಪ್ರಖ್ಯಾತ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಈ ಕಂಪನಿಯ ಮೊಬೈಲ್‌ಗಳು ಅನೇಕ ರೀತಿಯಲ್ಲಿ ಉಪಯೋಗಕರವಾಗಿದೆ
+Poslist : [ಉಪಯೋಗಕರವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ಸಣ್ಣ ಮೊಬೈಲ್‌ನಿಂದ ಬೆಲೆ ಬಾಳುವ ಮೊಬೈಲ್‌ಗಳು ಲಭ್ಯವಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ಒಂದು ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಸಾಧನವಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p29.txt
+Sentence : 0 : ಇದು ಒಂದು ವಿದ್ಯಾಭ್ಯಾಸದ ಮಕ್ಕಳಿಗೆ ಅನುಕೂಲವಾಗುವಂತ ನೋಟ್‌ಬುಕ್,ಪೆನ್ಸಿಲ್,ಪೆನ್ನು,ರಬ್ಬರ್,ನೋಟ್‌ಪ್ಯಾಡ್,ಮೆಂಡರ್ ಇನ್ನೂ ಅನೇಕ ವಿಧವಾದ ಸಾಮಾಗ್ರಿಗಳು ದೊರೆಯುವಂತ ಕಂಪನಿಯಾಗಿದೆ
+Poslist : [ಅನುಕೂಲವಾಗುವಂತ, ವಿಧವಾದ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 1 : ಇದು ವಿದ್ಯಾರ್ಥಿಗಳಲ್ಲದೆ ಆಫೀಸ್ ಕೆಲಸದವರಿಗೂ ಉಪಯೋಗವಾಗಿರುವ ಕಂಪನಿಯಾಗಿದೆ
+Poslist : [ಉಪಯೋಗವಾಗಿರುವ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p3.txt
+Sentence : 0 : ನನಗೆ ಬೈಟೇ - ಬೈಟೇ ವರದನಾಯಕ ಸುದೀಪ್ ಸಿನಿಮಾ ಬೈಟೇ ಬೈಟೇ ಹಾಡು ತುಂಬಾ ಇಷ್ಟ ಅದರಲ್ಲಿ ಕಾಮಿಡಿ ಇದೆ,ಟ್ಯೂನ್ ತುಂಬಾ ರಿದಮಿಕ್ ಆಗಿದೆ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಡ್ಯಾನ್ಸ್ ಸಕತ್ತಾಗಿ ಮಾಡಿದಾನೆ
+Poslist : [ಸಕತ್ತಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಅದಕ್ಕೆ ನನಗೆ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p30.txt
+Sentence : 0 : ಇದು ಈ-ಟೀವಿಯಲ್ಲಿ ಬರುವ ಧಾರವಾಹಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ನನಗೆ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದು ಈಗ ನಡೆಯುತ್ತಿರುವ ರಾಜಕೀಯ ವ್ಯಕ್ತಿಯ ಬಗ್ಗೆ ಹಾಗೂ ರಾಜಕಾರಣದ ಬಗ್ಗೆ ಈ ಧಾರವಾಹಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ರಾತ್ರಿ ೯
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ೩೦ಕ್ಕೆ ಪ್ರಾರಂಭವಾಗಿ ೧೦
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ೦೦ ಗಂಟೆಗೆಮುಗಿಯುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p31.txt
+Sentence : 0 : ಈ ಸಿನಿಮಾ ಮಿಲ್ಕಾ ಸಿಂಗ್ ಬಗ್ಗೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದು ನನಗೆ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಮಿಲ್ಕಾ ಸಿಂಗ್‌ರವರು ಕ್ರೀಡೆಯಲ್ಲಿ ಏನೇನು ಸಾಧನೆಯನ್ನು ಮಾಡಿದ್ದಾರೆ ಎಂದು ಈ ಸಿನಿಮಾದಲ್ಲಿ ತೋರಿಸಿದ್ದಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಮಿಲ್ಕಾ ಸಿಂಗ್ ಆಗಿ ನಟನೆ ಮಾಡಿದವರು ಫ್ಹರಾನ್ ಅಕ್ತರ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p32.txt
+Sentence : 0 : ಇದೊಂದು ಪುರಾಣಿಕ ಕಥೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಈ ಧಾರವಾಹಿ ಸ್ಟಾರ್‌ಪ್ಲಸ್‌ನಲ್ಲಿ ೮
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ೩೦ಕ್ಕೆ ಬರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ನನಗೆ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಇದು ಚೆನ್ನಾಗಿ ಬರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 5 : ಇದು ಪಾಂಡವರು ಮತ್ತು ಕೌರವರ ಕಥೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಇವರಿಬ್ಬರು ಶತ್ರುವಾಗಿ ಯುದ್ಧ ಆಡಿದ ಕಥೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p33.txt
+Sentence : 0 : ಇದೊಂದು ಮಕ್ಕಳ ಕಾರ್ಯಕ್ರಮ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ಫೋಗೋ ವಾಹಿನಿಯಲ್ಲಿ ಬರುತ್ತಿತ್ತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದು ನನಗೆ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಮುಂಚೆ ಇದು ಬರುತ್ತಿತ್ತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಈಗ ಇದು ಬರುತ್ತಿಲ್ಲ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಇದನ್ನು ನೋಡಿದ ಮಕ್ಕಳಿಗೆ ಬಹಳ ಸಂತೋಷವಾಗುತ್ತಿತ್ತು
+Poslist : [ಸಂತೋಷವಾಗುತ್ತಿತ್ತು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 6 : ನನಗೆ ಈಗಲೂ ನೋಡಲು ಆಸಕ್ತಿ ಇದೆ
+Poslist : [ಆಸಕ್ತಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p34.txt
+Sentence : 0 : ಇದು ಒಂದು ಒಳ್ಳೆಯ ಕಂಪನಿ
+Poslist : [ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇಲ್ಲಿ ಫಾಸ್ಟ್ರಾಕ್ ಎನ್ನುವುದು ಕಂಪನಿಯ ಹೆಸರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಈ ಕಂಪನಿಯ ಗಡಿಯಾರವನ್ನು ಬಹು ವರ್ಷಗಳಿಂದ ಉಪಯೋಗಿಸುತ್ತಿದ್ದೇನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ವಿವಿಧ ತರವಾದ ಬಣ್ಣ ಹಾಗೂ ಆಕಾರದಲ್ಲಿ ಸಿಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಈ ಕಂಪನಿಯಲ್ಲಿ ಬರೀ ಗಡಿಯಾರ ಅಲ್ಲದೇ ಬೇರೆ ಬೇರೆ ವಸ್ತುಗಳು ದೊರೆಯುತ್ತವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಫಾಸ್ಟ್ರಾಕ್ ಕಂಪನಿಯು ಬಹು ಜನಪ್ರಿಯವಾಗಿದೆ
+Poslist : [ಜನಪ್ರಿಯವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 6 : ಈ ಕಂಪನಿಯ ಎಲ್ಲಾ ವಸ್ತುಗಳು ಚೆನ್ನಾಗಿ ಬಾಳಿಕೆ ಬರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p35.txt
+Sentence : 0 : ಇವರು ಹಿಂದಿಯ ಯುವನಟ ನಟಿಯರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇವರ ಇತ್ತೀಚಿಗೆ ಬಂದ ಆಶಿಕೀ-೨ ಹೆಸರು ಪಡೆದಿರುವ ಚಿತ್ರ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಈ ಚಿತ್ರ ತುಂಬ ಚೆನ್ನಾಗಿ ಓಡಿತು
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಈ ಚಿತ್ರವನ್ನು ನೋಡಿದ ಎಲ್ಲರು ಒಳ್ಳೆಯ ಅಭಿಪ್ರಾಯ ಹೇಳಿದರು
+Poslist : [ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಇವರು ಅದ್ಭುತ ನಟರು
+Poslist : [ಅದ್ಭುತ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 5 : ಇವರಿಬ್ಬರು ಬಾಲಿವುಡ್ನಲ್ಲಿ ಒಳ್ಳೆಯ ಹೆಸರು ಪಡೆದಿದ್ದಾರೆ
+Poslist : [ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 6 : ಇವರಿಗೆ ಪ್ರಶಸ್ತಿ ಕೂಡ ದೊರೆಕಿತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 7 : ನನಗೆ ಇವರ ನಟನೆಯೆಂದರೆ ಬಹಳ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p36.txt
+Sentence : 0 : ಇದು ಒಂದು ಒಳ್ಳೆಯ ಕಾರ್ಯಕ್ರಮ
+Poslist : [ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದು ಈ-ಟಿವಿ ಕನ್ನಡ ವಾಹಿನಿಯಲ್ಲಿ ಪ್ರಸಾರವಾಗುತ್ತಿತ್ತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ೧೪ ಸ್ಪರ್ಧಿಗಳು ಭಾಗವಹಿಸಿದರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ೭ ರಾಜ್ಯದಲ್ಲಿ ಪಡುವ ಸುಖ,ದುಃಖ,ಕಷ್ಟಗಳು ಅನುಭವಿಸುವುದೇ ಈ ರಿಯಾಲಿಟಿ ಶೋನಲ್ಲಿ ದೇವರ ನಾಡಿನಿಂದ ಅಂದರೆ ಕೇರಳದಿಂದ ಹಿಡಿದು ಸುಮಾರು ರಾಜ್ಯಗಳ ಸಂಚಾರ ಮಾಡಿದರು
+Poslist : []
+Neglist : [ದುಃಖ]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+Sentence : 4 : ಬಹು ಜನಪ್ರಿಯವಾದ ಕಾರ್ಯಕ್ರಮ
+Poslist : [ಜನಪ್ರಿಯವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 5 : ಇದು ಪ್ರಪ್ರಥಮ ಬಾರಿಗೆ ಪ್ರಸಾರವಾಗಿ ಹೆಸರು ಪಡೆಯಿತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಇದರಲ್ಲಿ ಸುನಾಮಿ ಕಿಟ್ಟಿ ಎಂಬುವನು ೧೦ ಲಕ್ಷವನ್ನು ಗೆದ್ದಿದ್ದಾನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 0.33333334
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p37.txt
+Sentence : 0 : ನನಗೆ ಕ್ರೀಡಾಕೂಟದಲ್ಲಿ ಭಾಗವಹಿಸುವುದೆಂದರೆ ಬಹಳ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದು ಒಲಂಪಿಕ್ಸ್‌ನಲ್ಲೂ ಬಹು ಮುಖ್ಯವಾದ ಆಟ
+Poslist : [ಮುಖ್ಯವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದನ್ನು ಆಡುವುದರಿಂದ ನಮ್ಮ ಆರೋಗ್ಯ ಕೂಡ ಚೆನ್ನಾಗಿಡಬಹುದು
+Poslist : [ಚೆನ್ನಾಗಿಡಬಹುದು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದನ್ನು ದೇಶ-ವಿದೇಶದಲ್ಲಿ ಹವ್ಯಾಸ ಮಾಡುವ ಕಾರಣ ಅವರ ಆರೋಗ್ಯವು ಚೆನ್ನಾಗಿರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಇದರಲ್ಲಿ ವಿವಿಧ ಸ್ಪೋಟ್ಸ್‌ಗಳು ಇವೇ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p38.txt
+Sentence : 0 : ಜೋಕೋವಿಕ್ ನನ್ನ ಬಹು ಮೆಚ್ಚಿನ ಆಟಗಾರ
+Poslist : [ಮೆಚ್ಚಿನ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಟೆನಿಸ್ ಆಡುವ ಕಲೆ ಮುಖದಲ್ಲಿ ಕಾಣುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಅಪ್ಪಟ ಆಟಗಾರ ಎಂದು ಅವರನ್ನು ನೋಡಿದರೆ ಹೇಳಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಅವರು ಬಡತನದಿಂದ ಬಂದಿದ್ದರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಟೆನಿಸ್ ಆಟವನ್ನು ಚೆನ್ನಾಗಿ ಆಡುತ್ತಾರೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 5 : ಅವರು ಸರ್ಬಿಯದಿಂದ ಬಂದ ಆಟಗಾರ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p39.txt
+Sentence : 0 : ಫಾಸ್ಟ್ರಾಕ್ ಎನ್ನುವ ಕಂಪನಿ ಎಲ್ಲರಿಗೂ ಅತ್ಯಂತ ಪ್ರಿಯಕರವಾಗಿದೆ
+Poslist : [ಪ್ರಿಯಕರವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಫಾಸ್ಟ್ರಾಕ್ ಕಂಪನಿಯಲ್ಲಿ ಇಗೀಗ ಫಾಸ್ಟ್ರಾಕ್ ವಾಚ್,ಫಾಸ್ಟ್ರಾಕ್ ಬ್ಯಾಗ್ಸ್,ಫಾಸ್ಟ್ರಾಕ್ ಅವರು ಅತ್ಯಂತ ವಿಶೇಷವಾದ ವಸ್ತುಗಳನ್ನು ತಯಾರಿಸುತ್ತಿದ್ದಾರೆ
+Poslist : [ವಿಶೇಷವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಅದು ಜನರಿಗೆ ಆಕರ್ಷಕವಾಗಿದೆ
+Poslist : [ಆಕರ್ಷಕವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಆದರೂ ಕೂಡ ಈ ಕಂಪನಿಯು ಬಟ್ಟೆಗಳನ್ನು ಮತ್ತು ಚಪ್ಪಲಿಗಳನ್ನು ತಯಾರಿಸಬಹುದೇನೋ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p4.txt
+Sentence : 0 : ನನಗೆ ಡ್ಯಾನ್ಸ್ ಕಲಿಯಬೇಕು ಅಂತ ಆಸೆ
+Poslist : [ಆಸೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಅದು ಐಕಾನ್ ಡ್ಯಾನ್ಸ್ ಕ್ಲಾಸ್‌ನಲ್ಲೇ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಅಲ್ಲಿ ಟೀಚರ್ ತುಂಬಾ ಚೆನ್ನಾಗಿ ಹೇಳ್‌ಕೊಡ್ತಾರೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p40.txt
+Sentence : 0 : ಈ ಶ್ಯಾಂಪುವು ನನಗೆ ತುಂಬ ಇಷ್ಟವಾದ ಶ್ಯಾಂಪು
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಈ ಶ್ಯಾಂಪುವಿನ ಸುವಾಸನೆ ಬಹು ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಶ್ಯಾಂಪ್ಪುವನ್ನು ಹಲವಾರು ಕಡೆ ಉಪಯೋಗಿಸುತಿದ್ದಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಲೋರಿಯಲ್ ಶ್ಯಾಂಪು,ಸೋಪು ಇತ್ಯಾದಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದನ್ನು ಹಲವಾರು ಸಲೂನ್ಸ್‌ನಲ್ಲಿಯೂ ಕೂಡ ಉಪಯೋಗಿಸುತ್ತಿದ್ದಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p41.txt
+Sentence : 0 : ಭೀಮಾ ಗೋಲ್ಡ್ ಒಂದು ಚಿನ್ನದ ಅಂಗಡಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಈ ಅಂಗಡಿಯು ಮಂಗಳೂರು,ಬೆಂಗಳೂರು,ಉಡುಪಿ,ಚಿಕ್ಕಮಗಳೂರು ಇತ್ಯಾದಿ ಕಡೆ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಅತ್ಯಂತ ಜನರು ಇಲ್ಲಿ ಚಿನ್ನವನ್ನು ಪರ್‌ಚೇಸ್ ಮಾಡುತಿದ್ದಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಮದುವೆಗೆ ಇಲ್ಲಿ ಚಿನ್ನವನ್ನು ಪರ್‌ಚೇಸ್ ಮಾಡುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 0.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p42.txt
+Sentence : 0 : ಈ ಬಿಸ್ಕೆಟ್ ನನಗೆ ತುಂಬಾ ಇಷ್ಟವಾಗಿದೆ
+Poslist : [ಇಷ್ಟವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಏಕೆಂದರೆ ಅದರೊಳಗೆ ಚಾಕ್ಲೆಟ್ ಮೆಲ್ಟ್ ಮಾಡಿ ಹಾಕಿರುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಆದರಿಂದ ಅದು ನನಗೆ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p43.txt
+Sentence : 0 : ಈ ರಿಯಾಲಿಟಿ ಶೋ ಸುವರ್ಣದಲ್ಲಿ ಪ್ರಸಾರವಾಗುತ್ತಿತ್ತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಅಲ್ಲಿ ನಡೆಯುವ ಅಡ್ವೆಂಚರ್ಸ್ ನನಗೆ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ನನಗೂ ಕೂಡ ಅದರಲ್ಲಿ ಆಸಕ್ತಿ ಇತ್ತು ಅಲ್ಲಿಗೆ ಹೋಗಬೇಕೆಂದು
+Poslist : [ಆಸಕ್ತಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p44.txt
+Sentence : 0 : ಇದು ಸುವರ್ಣ ಚಾನೆಲ್‌ನಲ್ಲಿ ಪ್ರಸಾರವಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಅದು ಒಂಭತ್ತು ಗಂಟೆಯಿಂದ ಒಂಭತ್ತುವರೆಯವರೆಗೂ ಪ್ರಸಾರವಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಅದರಲ್ಲಿ ಖುಷಿ ಎನ್ನುವ ಕ್ಯಾರೆಕ್ಟರ್ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಖುಷಿ, ಇಷ್ಟ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 3 : ಅವಳು ಮಾತಾಡುವ ಬಿಜಾಪುರದ ಭಾಷೆ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಅದಕ್ಕೆ ನಾನು ಆ ಸೀರಿಯಲ್ ಅನ್ನು ನೋಡುತ್ತೀನಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p45.txt
+Sentence : 0 : ಇದು ಈ ಟಿವಿ ಯಲ್ಲಿ ಪ್ರಸಾರವಾಗುತ್ತಿತ್ತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇತ್ತೀಚೆಗಷ್ಟೆ ಮುಗಿಯಿತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದನ್ನು ನೋಡಿದವರು ಎಲ್ಲ ಸ್ಟೇಟ್‌ನ ಬಗ್ಗೆ ತಿಳಿದು ಕೊಂಡರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ನನಗೆ ರಾಜಸ್ಥಾನದಲ್ಲಿ ನಡೆದ ಎಲ್ಲ ಟಾಸ್ಕ್ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p46.txt
+Sentence : 0 : ನಾನು ಯಾವಾಗಲೂ ಆಟೈನ್ ಪೆನ್ ಯೂಸ್ ಮಾಡುತ್ತೀನಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಅದು ನನಗೆ ಇಷ್ಟವಾದ ಪೆನ್
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p47.txt
+Sentence : 0 : ಕ್ರೀಡೆ ಆಡುವುದರಿಂದ ನಮಗೆ ಯಾವುದೇ ರೋಗಗಳು ಬೇಗ ಬರುವುದಿಲ್ಲ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಕೋಕೋ ಆಡುವುದರಿಂದ ನಮ್ಮ ದೇಹವನ್ನು ಗಟ್ಟಿಮುಟ್ಟಾಗಿ ಇಟ್ಟುಕೊಳ್ಳಬಹುದು
+Poslist : [ಗಟ್ಟಿಮುಟ್ಟಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಅಲ್ಲದೆ ಅದರಿಂದ ಕಾಲಿಗೆ ಶಕ್ತಿ ಬರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಿಂದ ನಮ್ಮ ಬುದ್ಧಿ ಶಕ್ತಿ ಹೆಚ್ಚಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದೊಂದು ಅಂತರಾಷ್ಟ್ರೀಯ ಕ್ರೀಡೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p48.txt
+Sentence : 0 : ಇದರಲ್ಲಿ ಪ್ರಸಾರವಾಗುವ ಸುವರ್ಣ ಚಾನೆಲ್‌ನಲ್ಲಿ ಬರುವ ಪ್ಯಾಟೆ ಹುಡುಗೀರ್ ಹಳ್ಳಿ ಲೈಫ್ ಎಂಬ ಮನರಂಜನಾ ಕಾರ್ಯಕ್ರಮವು ನಮಗೆ ಸಾಕಷ್ಟು ವಿಷಯದ ಬಗ್ಗೆ ತಿಳಿಸಿಕೊಡುತ್ತದೆ
+Poslist : [ತಿಳಿಸಿಕೊಡುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಹಳ್ಳಿಯಲ್ಲಿನ ಜೀವನದ ಬಗ್ಗೆ ಅಲ್ಲಿನ ಕಷ್ಟಗಳ ಬಗ್ಗೆ ನೀರಿಗೆ ತೊಂದರೆಯಾಗುವ ಅಂದರೆ ನೀರಿನ ನಲ್ಲಿಗಳ ಕೊರತೆ ರಸ್ತೆಯ ಬಗ್ಗೆ ಮುಂತಾದ ಬಗ್ಗೆ ತಿಳಿಸಿಕೊಡುತ್ತದೆ
+Poslist : [ತಿಳಿಸಿಕೊಡುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p49.txt
+Sentence : 0 : ಈ ಬಿಸ್ಕೆಟನ್ನು ಮಾಡಲು ಬಳಸುವ (ಉದಾ:ಗೋಧಿ) ವಸ್ತುಗಳು ತುಂಬಾ ಪೌಷ್ಠಿಕ ಅಂಶಗಳಿಂದ ಕೂಡಿರುತ್ತದೆ
+Poslist : [ಪೌಷ್ಠಿಕ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ನಾವು ಆಯಾಸಗೊಂಡಾಗ ಈ ಬಿಸ್ಕೆಟನ್ನು ತಿನ್ನುವುದರಿಂದ ನಮ್ಮ ದಣಿವು ದೂರವಾಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದನ್ನು ಸಾಕಷ್ಟು ಜನರು ಉಪಯೋಗಿಸುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ಸಾಕಷ್ಟು ಬೇರೆ ಬೇರೆ ರುಚಿಯ ಬಿಸ್ಕೆಟ್‌ಗಳಿವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಉದಾ:ಮಾರಿಗೋಲ್ಡ್,ಮಾರಿ ಲೈಟ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p5.txt
+Sentence : 0 : ನನಗೆ ಜಾನ್ಸನ್ ಬೇಬಿ ಕ್ರೀಮ್ ತುಂಬಾ ಇಷ್ಟ ಯಾಕೆ ಅಂದ್ರೆ ಅದು ಎಣ್ಣೆ ಎಣ್ಣೆಯಾಗಿ ಮುಖಾನ ಮಾಯಿಶ್ಚರೈಸರಿಂದ ಕಾಪಾಡುತ್ತೆ
+Poslist : [ಇಷ್ಟ, ಕಾಪಾಡುತ್ತೆ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p50.txt
+Sentence : 0 : ಇವರು ತುಂಬಾ ಚೆನ್ನಾಗಿ ನಿರೂಪಣೆ ಮಾಡುತ್ತಾರೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇವರ ತಂದೆ ಲೋಕೇಶ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಅವರ ತಂದೆಯಂತೆ ಅವರು ಚೆನ್ನಾಗಿ ನಟಿಸುತ್ತಾರೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಅವರ ತಾಯಿ ಗಿರಿಜ ಲೋಕೇಶ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಸೃಜನ್ ಅವರು ಸಾಕಷ್ಟು ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ ನಿರೂಪಣೆ ಮಾಡಿದ್ದಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p53.txt
+Sentence : 0 : ಇದರಲ್ಲಿ ಹಲವಾರು ರೀತಿಯ ಚರ್ಮದ ಕಾಯಿಲೆಗೆ ಉಪಯುಕ್ತ ಹಾಗೂ ಶಮನಗೊಳ್ಳುವಂತಹ ವಸ್ತು ಕೂಡ ಇದೆ
+Poslist : [ಉಪಯುಕ್ತ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದರಿಂದ ಒಳ್ಳೆಯ ರಿಸಲ್ಟ್ ಸಿಗುತ್ತದೆ
+Poslist : [ಒಳ್ಳೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ಹಲವಾರು ಪ್ರಾಡೆಕ್ಟ್ ಕೂಡ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ಹಲವಾರು ಬಾಡಿ ಲೋಶನ್,ಸೋಪ್,ಕ್ರೀಮ್‌ಗಳು ಇವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p54.txt
+Sentence : 0 : ಇದು ಒಂದು ಕಂಪನಿ ಇದರಲ್ಲಿ ಹಲವಾರು ಬ್ಯಾಗ್,ಗ್ಲಾಸ್,ಕನ್ನಡಕ,ಶೂ,ಶರ್ಟ್ ಹಾಗೂ ಮುಂತಾದ ಹಲವಾರು ವಸ್ತುಗಳಿವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಕೆಲವರಿಗೆ ಬಹು ಇಷ್ಟವಾದ ಬ್ಯಾಗ್ಸ್
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇವರ ಕಂಪನಿಯ ಏನೋ ಒಂದು ಪ್ರಾಬ್ಲಂ ಬಂದರೂ ಅವರ ಕಂಪನಿಯ ಬ್ಯಾಗ್ ಅನ್ನು ಸರಿಮಾಡುತ್ತಾರೆ
+Poslist : [ಸರಿಮಾಡುತ್ತಾರೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಅದಕ್ಕೆ ಈ ಬ್ರಾಂಡ್ ನನಗೆ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p55.txt
+Sentence : 0 : ಇದು ಎಲ್ಲರಿಗೂ ಇಷ್ಟವಾದಂತಹ ಕಂಪನಿ
+Poslist : [ಇಷ್ಟವಾದಂತಹ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಪೆನ್,ಪುಸ್ತಕ,ಪೆನ್ಸಿಲ್ ಹಾಗೂ ಇತ್ಯಾದಿ ಆಕರ್ಷಕವಾದಂತಹ ವಸ್ತುಗಳು ಇವೆ
+Poslist : [ಆಕರ್ಷಕವಾದಂತಹ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಹಾಗೂ ಎಲ್ಲರಿಗೂ ಇಷ್ಟವಾಗುತ್ತದೆ
+Poslist : [ಇಷ್ಟವಾಗುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಅದಕ್ಕಾಗಿ ನನಗೆ ಕ್ಲಾಸ್‌ಮೇಟ್ ಕಂಪನಿಯ ಪುಸ್ತಕ,ಪೆನ್,ಹಾಗೂ ಇತ್ಯಾದಿ ವಸ್ತುಗಳೆಂದರೆ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p56.txt
+Sentence : 0 : ಈ ಚಾನೆಲ್ ನಮಗೆ ತುಂಬಾ ಉಪಯುಕ್ತವಾಗಿದೆ
+Poslist : [ಉಪಯುಕ್ತವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ನಾನು ವೀಕ್ಷಿಸುವ ಕಾರ್ಯಕ್ರಮವೆಂದರೆ ನ್ಯೂಸ್ ಎನ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಡಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಟಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ವಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಇಂಡಿಯಾ ಈ ಕಾರ್ಯಕ್ರಮದಿಂದ ನಮಗೆ ಹಲವಾರು ವಿಷಯಗಳು ತಿಳಿದು ಬರುತ್ತವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಇದರಲ್ಲಿ ದೇಶ-ವಿದೇಶಗಳಲ್ಲಿನ ವಿಷಯಗಳನ್ನು ಚರ್ಚಿಸಿ ಅದನ್ನು ವಿವರಿಸುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 7 : ಇದರಿಂದ ನನಗೆ ಆ ವಿಷಯಗಳನ್ನು ವಿಸ್ತಾರವಾಗಿ ತಿಳಿದುಕೊಳ್ಳಲು ಅನುಕೂಲವಾಗುತ್ತದೆ
+Poslist : [ಅನುಕೂಲವಾಗುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 8 : ಇದನ್ನು ಬಿಟ್ಟು ನಾನು ವೀಕ್ಷಿಸುವ ಕಾರ್ಯಕ್ರಮವೆಂದರೆ ಇಂಟರ್‌ನ್ಯಾಷನಲ್ ಅಜೆಂಡಾ,ಪ್ರೈಮ್ ಟೈಮ್,ನ್ಯಾಷನಲ್ ರಿಪೋರ್ಟರ್ ಇತ್ಯಾದಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 9 : ಇದು ನಮಗೆ ಹಲವಾರು ವಿಷಯಗಳನ್ನು ತಿಳಿಸುವ ಮೂಲಕ ನಮ್ಮ ಬುದ್ದಿಯನ್ನು ಹೆಚ್ಚಿಸಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತಿರುವುದರಿಂದ ಇದು ನನಗೆ ತುಂಬಾ ಇಷ್ಟ ಹಾಗೂ ಸಹಾಯಕವಾಗಿದೆ
+Poslist : [ಸಹಾಯ, ಇಷ್ಟ, ಸಹಾಯಕವಾಗಿದೆ]
+Neglist : []
+Polarwords: 3
+Poswords: 3
+Negwords: 0
+POLARITY= 3.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p57.txt
+Sentence : 0 : ಇದು ಒಂದು ರಸಪ್ರಶ್ನೆ ಕಾರ್ಯಕ್ರಮವೆಂದೇ ಹೇಳಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದನ್ನು ಖ್ಯಾತ ನಟ ಅಮಿತಾಬ್ ಬಚ್ಚನ್ ರವರು ನಡೆಸಿಕೊಡುತ್ತಿದ್ದರು
+Poslist : [ಖ್ಯಾತ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದನ್ನು ಮನರಂಜನೆಯ ಜೊತೆಗೆ ಅವರು ಕೇಳುತ್ತಿದ್ದ ಹಲವು ಪ್ರಶ್ನೆಗಳಿಂದ ಹಲವು ವಿಷಯಗಳು ತಿಳಿದಿ ಬರುತ್ತಿದ್ದವು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ನನಗೆ ಇಷ್ಟವಾದದೆಂದರೆ ಬರುವ ಸ್ಪರ್ಧಿಗಳೆಲ್ಲರೂ ಕೂಡ ನಾವು ಅಮಿತ್ ಫ್ಯಾನ್ಸ್ ಎಂದು ಹೇಳಿಕೊಳ್ಳುತ್ತಿದ್ದರು ಹಾಗೂ ಅವರನ್ನು ಹೊಗಳುವುದರಲ್ಲಿ ಮುಳುಗುತ್ತಿದ್ದರು
+Poslist : [ಇಷ್ಟವಾದದೆಂದರೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಅದನ್ನು ಬಿಟ್ಟರೆ ಕಾರ್ಯಕ್ರಮವು ನಮಗೆ ಉಪಯುಕ್ತವಾಗಿದೆ
+Poslist : [ಉಪಯುಕ್ತವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p58.txt
+Sentence : 0 : ಇದು ಒಂದು ಮಕ್ಕಳ ರಿಯಾಲಿಟಿ ಶೋ ಇದು ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಜ಼ೀ ವಾಹಿನಿಯಲ್ಲಿ ಮೂಡಿ ಬರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದನ್ನು ಸೃಜನ್‌ಲೋಕೇಶ್‌ರವರು ನಡೆಸಿಕೊಡುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ತುಂಬಾ ಮಜ ಸಿಗುತ್ತದೆ
+Poslist : [ಮಜ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ಎರಡು ಸುತ್ತುಗಳಿರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಒಂದು ಜಿಲೇಬಿ(ಜೆಂಟಲ್‌ಮೆನ್ ಲೇಡಿ ಅಂಡ್ ಬೇಬಿ),ಇನ್ನೊಂದು ಜಂತರ್ ಮಂತರ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಇದರಲ್ಲಿ ಮೂರು ವರ್ಷದ ಒಳಗಿನ ಮಕ್ಕಳು ಭಾಗವಹಿಸುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಅವರು ಆಡುತ್ತಾರೋ ಇಲ್ಲವೋ ಎಂಬುದನ್ನು ಅವರ ಪೋಷಕರು ಊಹಿಸಬೇಕು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 7 : ಇದರಲ್ಲಿ ೫ ರಿಂದ ೫೦,೦೦೦ದ ವರೆಗೂ ಗೆಲ್ಲಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 8 : ಇದು ಮಕ್ಕಳ ಭವಿಷ್ಯದ ಉದ್ದೇಶದಿಂದಾಗಿ ಡೆಪಾಸಿಟ್ ಆಗುವ ಹಣ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 9 : ಇದರಲ್ಲಿ ನನಗೆ ತುಂಬಾ ಇಷ್ಟವಾದ ಮಗುವೆಂದರೆ ಶಿಫಾಲಿ ಅದು ತುಂಬಾ ಮುದ್ದಾಗಿದೆ
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 10 : ಹಾಗೂ ಎಲ್ಲರಿಗಿಂತ ಅದೇ ಚಿಕ್ಕದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 11 : ಅದು ಚೆನೈ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ಹಾಡುಗಳಿಗೆ ಡ್ಯಾನ್ಸ್ ಮಾಡುತ್ತಿತ್ತು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 12 : ಇದು ತುಂಬಾ ಮನರಂಜನೆಯಾಗಿತ್ತು
+Poslist : [ಮನರಂಜನೆಯಾಗಿತ್ತು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p59.txt
+Sentence : 0 : ಇದು ಒಂದು ರಿಯಾಲಿಟಿ ಶೋ ಇದರಲ್ಲಿ ತುಂಬಾ ಕಷ್ಟಕರವಾದ ಚಾಲೆಂಜಸ್ ಇತ್ತು
+Poslist : []
+Neglist : [ಕಷ್ಟಕರವಾದ]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+Sentence : 1 : ಇದರಲ್ಲಿ ಇಂಪಾಸಿಬಲ್ ಜರ್ನಿಯನ್ನು ಪಾಸಿಬಲ್ ಮಾಡುವಂಥ ಒಂದು ಕಾರ್ಯಕ್ರಮ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದನ್ನು ಅಕುಲ್ ನಡೆಸಿಕೊಡುತ್ತಿದ್ದರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ಏಳು ರಾಜ್ಯಗಳಲ್ಲಿ ಚೆನ್ನಾಗಿ ಮಾಡಿ ಗೆದ್ದುದೆಂದರೆ ಕಿಟ್ಟಿ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಟಾಸ್ಕ್‌ಗಳ ಜೊತೆಗೆ ಅಲ್ಲಿನ ಎಂದರೆ ರಾಜ್ಯಗಳ ವಿಶೇಷಗಳನ್ನು ಹಾಗೂ ವೈಶಿಷ್ಟ್ಯತೆ ಕಲೆ ಮುಂತಾದವುಗಳನ್ನು ತಿಳಿಯಬಹುದಿತ್ತು
+Poslist : [ವೈಶಿಷ್ಟ್ಯತೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 5 : ಆದ್ದರಿಂದ ಇದು ಚೆನ್ನಾಗಿತ್ತು
+Poslist : [ಚೆನ್ನಾಗಿತ್ತು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 0.5
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p6.txt
+Sentence : 0 : ಸ್ಟಾರ್ ಪ್ಲಸ್ ನನಗೆ ಹಿಂದಿ ಭಾಷೆಯಲ್ಲಿ ಬರುವ ಸ್ಟಾರ್‌ಪ್ಲಸ್ ಚಾನಲ್ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಏಕೆಂದರೆ ಈ ಚಾನಲ್‌ನಲ್ಲಿ ಹಲವಾರು,ವಿವಿಧ ಕಾರ್ಯಕ್ರಮಗಳು ಬರುತ್ತವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಅದರಲ್ಲಿ ನನಗೆ ನಚ್‌ಬಲಿಯೆ ಮತ್ತು ವಿವಿಧಥೆಯನ್ನು ಹೊಂದಿರುವ ಹಲವಾರು ಧಾರವಾಹಿಗಳು,ಸಿನಿಮಾಗಳು ಎಲ್ಲವೂ ಬರುತ್ತವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p60.txt
+Sentence : 0 : ಇದು ಒಂದು ಪ್ರಸಿದ್ಧವಾದ ವಾರ್ತಾ ಪತ್ರಿಕೆಯಾಗಿದೆ
+Poslist : [ಪ್ರಸಿದ್ಧವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದನ್ನು ನಾನು ದಿನಾಗ್ಲು ಓದುತ್ತೇನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ಕರೆಂಟ್ ಅಫೇರ್‍ಸ್‌ಗಳ ಬಗ್ಗೆ ಚೆನ್ನಾಗಿ ತಿಳಿಸುತ್ತಾರೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ನಮಗೆ ದೇಶ- ವಿದೇಶಗಳಲ್ಲಿ ನಡೆದ ಘಟನೆಗಳ ಬಗ್ಗೆ ಸಂಕ್ಷಿಪ್ತವಾದ ವರದಿಯನ್ನು ನೀಡುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದರಲ್ಲಿ ಬರುವ ಸುಡೊಕು ನನಗೆ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 5 : ಆದರೆ ಅದನ್ನು ನಾನು ಸರಿಯಾಗಿ ಮಾಡಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಆದರೂ ನನಗೆ ಈ ವಾರ್ತಾ ಪತ್ರಿಕೆಯನ್ನು ಓದುವುದರಿಂದ ಅನುಕೂಲವಾಗಿದೆ
+Poslist : [ಅನುಕೂಲವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p61.txt
+Sentence : 0 : ಇದರಲ್ಲಿ ಪೌಡರ್,ಸಾಬೂನ್‌ಗಳಂತಹ ತ್ವಚೆಯ ರಕ್ಷಣೆಗಳಿಗೆಂದೆ ತಯಾರು ಮಾಡುತ್ತಾರೆ
+Poslist : [ರಕ್ಷಣೆಗಳಿಗೆಂದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಅವುಗಳಲ್ಲಿ ಮಕ್ಕಳಿಗೆಂದೆ ಹೆಚ್ಚಾಗಿ ಬಳಕೆಯಲ್ಲಿರುವಂತಹ ಜಾನ್ ಸನ್ ಬೇಬಿ ಪೌಡರ್,ಜಾನ್ ಸನ್ ಬೇಬಿ ಕ್ರೀಂ,ಜಾನ್ ಸನ್ ಬೇಬಿ ಆಯಿಲ್,ಈ ಉತ್ಪನ್ನಗಳನ್ನು ಕುಗ್ರಾಮಗಳಿಂದ ಅಂದರೆ ಹಾಡುಭಾಷೆಯಾದ ಹಳ್ಳಿಯಿಂದ ದಿಲ್ಲಿಯವರೆಗೂ ಈ ಉತ್ಪನ್ನಗಳೇ ಚಾಲ್ತಿಯಲ್ಲಿದ್ದು ಮಕ್ಕಳಿರುವ ಎಲ್ಲರ ಮನೆಯ ಉಪಯುಕ್ತ ಸಾಮಗ್ರಿಗಳಾಗಿವೆ
+Poslist : [ಉಪಯುಕ್ತ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p63.txt
+Sentence : 0 : ಇವರು ನಮ್ಮ ೧೧ನೇಯ ರಾಷ್ಟ್ರಪತಿಯಾಗಿದ್ದರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇವರು ಒಬ್ಬ ಮಹಾನ್ ವಿಜ್ಞಾನಿಯಾಗಿದ್ದರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇವರ ಪೂರ್ಣ ಹೆಸರು ಅವುಲ್ ಫಕೀರ್ ಜೈನಲುದ್ದೀನ್ ಅಬ್ದುಲ್ ಕಲಾಂ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇವರು ತಮ್ಮ ಜೀವನ ಚರಿತ್ರೆಗಳಲ್ಲಿ ಒಂದಾದ ನನ್ನ ಪಯಣ ಎಂಬ ಪುಸ್ತಕದಲ್ಲಿ ತಮ್ಮ ಜೀವನದಲ್ಲಿ ಅವರು ಅನುಭವಿಸಿದ ಸುಖ-ದುಃಖ,ಏರು-ಪೇರು,ನೋವಿ-ನಲಿವು ಎಲ್ಲವನ್ನು ಹಂಚಿಕೊಂಡಿದ್ದಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಅಂತಹ ಮಹಾನೀಯರು ನಮ್ಮ ದೇಶದ ರಾಷ್ಟ್ರಪತಿಯಾಗಿದ್ದು ಹೆಮ್ಮೆಯಾಗಿದೆ
+Poslist : [ಮಹಾನೀಯರು, ಹೆಮ್ಮೆಯಾಗಿದೆ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p64.txt
+Sentence : 0 : ಇದು ದಿನಪತ್ರಿಕೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಅನೇಕ ವಿಷಯಗಳು ಅಚ್ಚರಿಯಾದ ಸಂಗತಿಗಳು,ಸುಪ್ರಭಾತಗಳು ಮನುಷ್ಯನ ಜೀವನಕ್ಕೆ ಬೇಕಾದ ಹಿತೋಪಾನ್ಯಾಸಗಳು ಒಳಗೊಂಡಿರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದರ ಜೊತೆ ಬೈಟು ಕಾಫಿ ಎಂಬ ಪುರವಣಿ ಸಹ ಬರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಪ್ರತಿ ಭಾನುವಾರ ಖುಷಿ ಎಂಬ ವಾರಪತ್ರಿಕೆ ಬರುವುದರಿಂದ ನಮಗೆ ತುಂಬಾ ಸಂತಸವಾಗಿದೆ
+Poslist : [ಖುಷಿ, ಸಂತಸವಾಗಿದೆ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 4 : ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ,ಹಿರಿಯರಿಗೆ,ಕಿರಿಯರಿಗೆ,ಗೃಹಿಣಿಯರಿಗೆ ಎಲ್ಲರಿಗೂ ಸಹ ಸಂಬಂಧಪಟ್ಟ ವಿಷಯಗಳು ಇದರಲ್ಲಿ ಒಳಗೊಂಡಿರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p65.txt
+Sentence : 0 : ಈ ಕಂಪನಿಯ ಪುಸ್ತಕಗಳು ಅತ್ಯುತ್ತಮವಾಗಿರುತ್ತದೆ
+Poslist : [ಅತ್ಯುತ್ತಮವಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಈ ಕಂಪನಿಯ ಪುಸ್ತಕಗಳು ಮಾತ್ರವಲ್ಲ ಇದರಿಂದ ಬರುವ ಅಂದರೆ ಲೇಖನಿ,ಮುಂತಾದ ವಿದ್ಯಾರ್ಥಿಗಳು ಉಪಯೋಗಿಸುವ ವಸ್ತುಗಳು ಸಹ ತುಂಬಾ ಚೆನ್ನಾಗಿರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದರಿಂದ ಎಷ್ಟೋ ಜನ ವಿದ್ಯಾರ್ಥಿಗಳು ತಮ್ಮ ಕನಸನ್ನು ನನಸಾಗಿಸಲು ಸಾಧ್ಯವಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಂತೆಯೇ ಎಷ್ಟೋ ಕಂಪನಿಗಳು ಬರಬೇಕೆಂದು ಕೋರುತ್ತೇನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p66.txt
+Sentence : 0 : ಈ ಹೇರ್ ಆಯಿಲ್‌ನಲ್ಲಿ ಹೆನ್ನ,ಆಮ್ಲ,ನಿಂಬೆಹಣ್ಣು ಮೊದಲಾದ ವಸ್ತುಗಳನ್ನು ಇದರಲ್ಲಿ ಹಾಕಿದ್ದಾರೆ ಎಂದು ಹೇಳುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಿಂದ ಕೂದಲು ಮತ್ತಷ್ಟು ಬಲಿಷ್ಟವಾಗಿ ಮತ್ತಷ್ಟು ಕಪ್ಪಾಗಿ ಮತ್ತಷ್ಟು ಧೃಢವಾಗಿ ಬೆಳೆಯುತ್ತದೆ ಎಂದು ಹೇಳಿದ್ದಾರೆ
+Poslist : [ಬಲಿಷ್ಟವಾಗಿ, ಧೃಢವಾಗಿ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 2 : ಇದು ಡಾಬರ್ ಕಂಪನಿಯ ಒಂದು ಪ್ರಾಡೆಕ್ಟ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರಿಂದ ಎಷ್ಟೋ ಉಪಯೋಗ ಪಡೆದಿದ್ದಾರೆ
+Poslist : [ಉಪಯೋಗ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p67.txt
+Sentence : 0 : ಇದು ಒಂದು ಚಿನ್ನಾಭರಣದ ಅಂಗಡಿ ಇಲ್ಲಿ ನಾವು ಅನೇಕ ರೀತಿಯ ವಜ್ರಾಭರಣಗಳು ಚಿನ್ನಾಭರಣಗಳು,ಮೊದಲಾದ ಆಭರಣಗಳನ್ನು ಗಮನಿಸಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇಲ್ಲಿ ಅತ್ಯುತ್ತಮ ಮತ್ತು ವಿವಿಧ ರೀತಿಯ ಆಭರಣಗಳು ದೊರೆಯುತ್ತದೆ
+Poslist : [ಅತ್ಯುತ್ತಮ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಆ ಆಭರಣಗಳನ್ನು ನೋಡಲು ಒಂದು ದಿನ ಸಾಲದು,ತುಂಬಾ ಅದ್ಭುತವಾಗಿರುತ್ತದೆ
+Poslist : [ಅದ್ಭುತವಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p7.txt
+Sentence : 0 : ನನಗೆ ಹೈಡ್ ಅಂಡ್ ಸೀಕ್ ಬಿಸ್ಕೆಟ್ ಅಂದರೆ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಏಕೆಂದರೆ ಅದು ತುಂಬಾ ರುಚಿಕರ ಹಾಗೂ ಸಿಹಿಯಾಗಿರುತ್ತದೆ
+Poslist : [ರುಚಿಕರ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಮುಖ್ಯವಾಗಿ ಈ ಬಿಸ್ಕಟ್‌ನಲ್ಲಿ ಹಲವಾರು ಚಾಕ್ಲೇಟ್ ಪೀಸಸ್‌ಗಳನ್ನು ಹಾಕಿರುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ನೋಡಿದರೆ ನನಗೆ ಮತ್ತೆ ಮತ್ತೆ ತಿನ್ನಬೇಕೆಂಬ ಆಸೆ ಬರುತ್ತದೆ
+Poslist : [ಆಸೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p70.txt
+Sentence : 0 : ಆರ್ಯಭಟ ಎಂಬುದು ಭಾರತದ ಮೊದಲ ಪ್ರಾಯೋಗಿಕ ಉಪಗ್ರಹವಾಗಿದ್ದು ಇವರ ತೂಕ ಸರಿ ಸುಮಾರು ೩೬೦ ಕೆ
+Poslist : [ಸರಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಜಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದನ್ನು ದಿನಾಂಕ ಏಪ್ರಿಲ್ ೧೯,೧೯+೭೫ ರಂದು ಸೋವಿಯತ್ ಇನ್‌ಟರ್ ರೊಕೇಟ್‌ನ ಸಹಾಯದಿಂದ ಉಡಾಯಿಸಲಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರ ಕಕ್ಷೆ ಸರಿ ಸುಮಾರು ೬೧೯-೫೬೨ ಕಿ
+Poslist : [ಸರಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಮಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಗಳಿವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಇದರ ಉಷ್ಣಾಂಶ ಪರಿಣಾಮವು ೦ ಯಿಂದ ೪೦ ಸೆಲ್ಸಿಯಸ್ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 7 : ಆರ್ಯಭಟದ ಉಡಾವಣೆಯ ಭಾರತೀಯರಿಗೆ ಹೆಚ್ಚಿನ ಗೌರವವನ್ನು ತಂದು ಕೊಟ್ಟಿದೆ
+Poslist : [ಗೌರವವನ್ನು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 8 : ಎಂದು ಹೇಳಬಹುದು ಇದರಿಂದ ಭಾರತೀಯ ವಿಜ್ಞಾನಿಗಳ ಮತ್ತು ಅಭಿಯಂತರರ ಸಾಮರ್ಥ್ಯವು ಸಹ ನಾವು ಕಾಣಬಹುದು
+Poslist : [ಸಾಮರ್ಥ್ಯವು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p73.txt
+Sentence : 0 : ವ್ಯವಸಾಯ ಪ್ರಧಾನವಾಗಿರುವ ಭಾರತ ದೇಶಕ್ಕೆ ಇಂದು ಸಾವಯುವ ಗೊಬ್ಬರದ ಬಳಕೆ ತುಂಬಾ ಅನಿವಾರ್ಯವಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಏಕೆಂದರೆ ಯೂರಿಯ,ಡಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಎ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಪಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಮುಂತಾದ ರಾಸಾಯನಿಕ ಗೊಬ್ಬರಗಳ ಬಳಕೆಯಿಂದ ಉತ್ಪಾದನೆ ಹೆಚ್ಚಾಗುತ್ತದೆಯಾದರೂ ಅನೇಕ ಅಡ್ಡ ಪರಿಣಾಮಗಳು ಉಂಟಾಗುತ್ತಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಅದಲ್ಲದೆ ಹಲವು ಕಾಣದ ಕೇಳದ ಖಾಯಿಲೆಗಳು ಮನುಷ್ಯನ ದೇಹವನ್ನು ತಿನ್ನುತ್ತಿವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಆದ್ದರಿಂದ ಇನ್ನೂ ಮುಂದಾದರೂ ರೈತನ ರಾಸಾಯನಿಕ ಗೊಬ್ಬರಗಳನ್ನು ಬಳಸದೆ ಸಾವಯವ ಗೊಬ್ಬರವನ್ನು ಬಳಸಿ ನೆಲದ ಫಲವತ್ತತೆ ಮತ್ತು ಮನುಷ್ಯರ ಆರೋಗ್ಯವನ್ನು ಕಾಪಾಡಬೇಕು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 7 : ಒಣಗಿದ ಎಲೆಗಳು,ತರಕಾರಿ ಸಿಪ್ಪೆಗಳು,ಸಗಣಿ,ಗಂಜಲ ಮುಂತಾದ ಅನುಪಯುಕ್ತ ವಸ್ತುಗಳನ್ನು ಬಳಸಿ ಅತೀ ಕಡಿಮೆ ಬೆಲೆಯಲ್ಲಿ ಸಾವಯವ ಗೊಬ್ಬರವನ್ನು ತಯಾರಿಸಬಹುದು,ಆದ್ದರಿಂದ ಇದರ ಬಗ್ಗೆ ಜಾಹಿರಾತು ಸಂಸ್ಥೆಗಳು,ಮಾಧ್ಯಮಗಳ ಮೂಲಕ ಜಾಹಿರಾತುಗಳ ಮೂಲಕ ಜನರನ್ನು ಜಾಗೃತಗೊಳಿಸಬೇಕು
+Poslist : []
+Neglist : [ಅನುಪಯುಕ್ತ]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+POLARITY= -1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p74.txt
+Sentence : 0 : ಹೆಣ್ಣು ಮಕ್ಕಳಿಗೆ ಪ್ರಿಯವಾದ ಉಡುಪೆಂದರೆ ಸೀರೆ,ಇದು ನಮ್ಮ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆಯೂ ಹೌದು
+Poslist : [ಪ್ರಿಯವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಅದರಲ್ಲೂ ಸಮಾರಂಭಗಳಿಗೆ ಮೆರುಗನ್ನು ನೀಡಿ ಹೆಣ್ಣಿನ ಸೌಂದರ್ಯವನ್ನು ಹೆಚ್ಚಿಸುವುದರ ಜೊತೆ ದೇಹಕ್ಕೆ ಹಿತವಾದ ಅನುಭವವನ್ನು ನೀಡುವ ಸೀರೆಗಳೆಂದರೆ ಮೈಸೂರು ರೇಷ್ಮೆ ಸೀರೆಗಳು,ಉತ್ತಮ ರೇಷ್ಮೆ ಗೂಡುಗಳಿಂದ ತಯೂರಿಸಿದ ಮೈಸೂರು ರೇಷ್ಮೆ ಸೀರೆಗಳು ನಮ್ಮ ನಾಡಿನ ಹಿರಿಮೆಯನ್ನು ಎತ್ತಿ ಹಿಡಿದಿವೆಯಲ್ಲದೇ ಹಲವಾರು ಜನರಿಗೆ ಜೀವನೋಪಾಯದ ದಾರಿಯನ್ನು ತೋರಿಸಿಕೊಟ್ಟಿದೆ
+Poslist : [ಮೆರುಗನ್ನು, ಹಿತವಾದ, ಉತ್ತಮ]
+Neglist : []
+Polarwords: 3
+Poswords: 3
+Negwords: 0
+Sentence : 2 : ರೇಷ್ಮೆ ಹುಳುಗಳಿಂದ ತಯಾರಿಸಿದ ಈ ಸೀರೆಗಳು ವಿಶ್ವದಾದ್ಯಂತ ಪ್ರಸಿದ್ಧಿಯನ್ನು ಹೊಂದಿದ್ದು ಮೈಸೂರಿನ ಕೀರ್ತಿ ಹೆಚ್ಚಿಸಿದೆ
+Poslist : [ಪ್ರಸಿದ್ಧಿಯನ್ನು, ಕೀರ್ತಿ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+POLARITY= 3.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p75.txt
+Sentence : 0 : ಮನುಷ್ಯನ ದೇಹಕ್ಕೆ ಅಗತ್ಯವಾದ ವಸ್ತುಗಳಲ್ಲಿ ನೀರೂ ಕೂಡ ಒಂದು
+Poslist : [ಅಗತ್ಯವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಅದರಲ್ಲೂ ಶುದ್ಧ ನೀರು ದೇಹದ ದಾಹವನ್ನು ತಣಿಸುವುದಲ್ಲದೇ ಆರೋಗ್ಯವನ್ನು ಕಾಪಾಡುವಲ್ಲಿ ಔಷಧಿಯಂತೆ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇಂದು ಮನುಷ್ಯನ ದುರ್ನಡತೆಯಿಂದ ಎಲ್ಲೆಡೆಯಲ್ಲೂ ನೀರು ಮಲಿನಗೊಳ್ಳುತ್ತಿದೆ
+Poslist : []
+Neglist : [ದುರ್ನಡತೆಯಿಂದ, ಮಲಿನಗೊಳ್ಳುತ್ತಿದೆ]
+Polarwords: 2
+Poswords: 0
+Negwords: 2
+Sentence : 3 : ಹೀಗೆ ಮಲಿನಗೊಂಡ ನೀರನ್ನು ಶುದ್ಧಗೊಳಿಸುವ ಯಂತ್ರವನ್ನು ಹಲವು ಕಂಪನಿಗಳು ಉತ್ಪಾದಿಸುತ್ತಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದರಲ್ಲಿ ಮೊದಲ ಸ್ಥಾನದಲ್ಲಿ ನಿಲ್ಲುವುದು ಆಕ್ವಾಗಾರ್ಡ್ ವಾಟರ್ ಪ್ಯೂರಿಫಯರ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಇದನ್ನು ಎಲ್ಲರೂ ಬಳಸಿ ಆರೋಗ್ಯವನ್ನು ಸುಧಾರಿಸಿಕೊಳ್ಳಬಹುದು
+Poslist : [ಸುಧಾರಿಸಿಕೊಳ್ಳಬಹುದು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 6 : ಇದರಿಂದ ಆಗುವ ಅನಾನುಕೂಲವೆಂದರೆ ಯಂತ್ರಕ್ಕೆ ವಿದ್ಯುತ್ ಶಕ್ತಿಯ ಅನಿವಾರ್ಯತೆ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 7 : ಆದರೆ ಗ್ರಾಮೀಣ ಪ್ರದೇಶಗಳಲ್ಲಿ ವಿದ್ಯುತ್ ಸರಬರಾಜು ಸದಾ ಇಲ್ಲದಿರುವುದರಿಂದ ಈ ಯಂತ್ರವನ್ನು ಬಳಸುವುದು ಅಸಾಧ್ಯ
+Poslist : []
+Neglist : [ಅಸಾಧ್ಯ]
+Polarwords: 1
+Poswords: 0
+Negwords: 1
+Sentence : 8 : ಆದ್ದರಿಂದ ಈ ಕಂಪನಿಯು ವಿದ್ಯುತ್ ಶಕ್ತಿ ರಹಿತ ಪ್ಯೂರಿಫಯರ್‌ಗಳನ್ನು ಉತ್ಪಾದಿಸುವುದು ಸೂಕ್ತ
+Poslist : [ಸೂಕ್ತ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= -2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p76.txt
+Sentence : 0 : ಇಂದಿನ ಸಾರಿಗೆ ಸಂಪರ್ಕ ಸಾಧನೆಗಳಲ್ಲಿ ಅಗ್ಗ,ಆರೋಗ್ಯದಾಯಕ ಪರಿಸರ ಸ್ನೇಹಿ ಸಾಧನವೆಂದರೆ ಬೈಸಿಕಲ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಮುಗಿದು ಹೋಗುವ ಇಂಧನಗಳಲ್ಲಿ ಯಾವುದನ್ನೂ ಬಳಸದಂತೆ ಕೇವಲ ಕೈಕಾಲುಗಳ ಸಹಾಯದಿಂದ ಈ ಸೈಕಲ್‌ನ್ನು ಓಡಿಸಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಈ ಸೈಕಲ್‌ನಿಂದ ನಮಗೆ ಹಲವಾರು ಉಪಯೋಗಗಳಿವೆ
+Poslist : [ಉಪಯೋಗಗಳಿವೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದನ್ನು ಓಡಿಸುವುದರಿಂದ ಯಾವ ಮಾಲಿನ್ಯವೂ ಆಗದೆ,ಮಾನವರಿಗೆ ವ್ಯಾಯಾಮವೂ ಆಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಅದಲ್ಲದೆ ಈ ಸೈಕಲ್ ಬೆಲೆ ಬೇರೆ ವಾಹನಗಳಂತೆ ಜಾಸ್ತಿಯೂ ಇಲ್ಲ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಇದನ್ನು ನಾವು ತುಂಬಾ ಕಡಿಮೆ ಬೆಲೆಯನ್ನು ಕೊಟ್ಟು ಕೊಂಡುಕೊಳ್ಳಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಆದ್ದರಿಂದ ಈ ಜಗತ್ತಿನಲ್ಲಿ ಎಲ್ಲರೂ ಈ ಸೈಕಲ್‌ನ್ನು ಬಳಸಬೇಕು
+Poslist : [ಬಳಸಬೇಕು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 7 : ಈ ವಿಷಯದಲ್ಲಿ ಜನರನ್ನು ಜಾಗೃತಗೊಳಿಸಲು ಮಾಧ್ಯಮಗಳು ಹಾಗೂ ಜಾಹಿರಾತು ಕಂಪನಿಗಳು ಸಹಕರಿಸಬೇಕು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 8 : ಅಲ್ಲದೆ ಈ ಸೈಕಲ್‌ಗಳನ್ನು ಹಲವು ಕಂಪನಿಗಳು ಉತ್ಪಾದಿಸುತ್ತವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 9 : ಅದರಲ್ಲಿ ಈ ಹೀರೋ ಕಂಪನಿಯೂ ಒಂದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 10 : ಈ ಕಂಪನಿಯ ಹಲವು ವಿನ್ಯಾಸದ ಸೈಕಲ್‌ಗಳನ್ನು ಮಾರುಕಟ್ಟೆಗೆ ಪರಿಚಯಿಸಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 11 : ಈ ಸೈಕಲ್‌ಗಳು ಅಗತ್ಯವೂ ಕೂಡ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p77.txt
+Sentence : 0 : ಇದು ಒಂದು ಕಂಪನಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ನಮಗೆ ಬಾಕ್ಸ್,,ವಾಟರ್ ಬಾಟಲ್ ಇತ್ಯಾದಿ ವಸ್ತುಗಳು ಸಿಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಮೊದಲು ಸ್ಟೀಲ್ ಬಾಕ್ಸ್,ಸ್ಟೀಲ್ ತಟ್ಟೆಯನ್ನು ಉಪಯೋಗಿಸುತಿದ್ದರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಆದರೆ ಇವಾಗ ಈ ಟಪ್ಪರ್‌ವೇರ್ ಬಾಕ್ಸ್,ಬಾಟಲ್ ಇತ್ಯಾದಿ ವಸ್ತುಗಳನ್ನು ತುಂಬ ಉಪಯೋಗಿಸುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಟಪ್ಪರ್‌ವೇರ್‌ನ ಎಲ್ಲ ವಸ್ತುಗಳು ತುಂಬ ಚೆನ್ನಾಗಿ ಹಾಗೂ ಕ್ವಾಲಿಟಿಯಾಗಿ ಇರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p78.txt
+Sentence : 0 : ಈ ಪೆನ್ನಿನ ಆಕಾರ ತುಂಬ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ನಮ್ಮ ಶಾಲೆಯ ಶಿಕ್ಷಕರು ಈ ಪೆನಿನಲ್ಲೆ ಬರೆಯಲು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತಾರೆ
+Poslist : [ಪ್ರೋತ್ಸಾಹಿಸುತ್ತಾರೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಈ ಪೆನ್ನಿನ ವಿಶೇಷತೆ ಎಂದರೆ ಇದರ ಇಂಕ್‌ನ್ನು ಅವರು ಉಚಿತವಾಗಿ ಕೊಡುವ ಎರಡು ಕ್ಯಾಟ್ರಿಡ್ಜ್ ಟ್ಯೂಬ್‌ನಿಂದ ಹಾಕಿ ಬರೆಯುತ್ತಾರೆ
+Poslist : [ಉಚಿತವಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p79.txt
+Sentence : 0 : ನನಗೆ ಮೊದಲು ಇದನ್ನು ಕುಡಿಯಲ್ಲಿ ಇಷ್ಟ ಇರಲಿಲ್ಲ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಆದರೆ ಇದರ ಜಾಹಿರಾತನ್ನು ನೋಡಿದ ನಂತರ ನನಗೆ ಕುಡಿಯಲು ಆಸೆಯಾಯಿತು
+Poslist : [ಆಸೆಯಾಯಿತು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಆ ಜಾಹಿರಾತನ್ನು ನೋಡಿದ ನಂತರದಿಂದ ಮೆರಿಂಡ ಜ್ಯೂಸ್ ಕುಡಿಯಲು ಅಭ್ಯಾಸ ಮಾಡಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p8.txt
+Sentence : 0 : ನನಗೆ ಯೂ ಟ್ಯೂಬ್ ಅಂದರೆ ಇಷ್ಟ,ಏಕೆಂದರೆ ಯೂ ಟ್ಯೂಬ್‌ನಲ್ಲಿ ನಮಗೆ ಇಷ್ಟವಾದ ಹಲವಾರು ಸಿನಮಾಗಳು,ವಿವಿಧ ಭಾಷೆಯಲ್ಲಿ ಪ್ರಸಾರವಾಗುವ ಹಲವಾರು ಧಾರವಾಹಿಗಳು ಮತ್ತು ಅನೇಕ ವಿಷಯಕ್ಕೆ ಸಂಭಂದಪಟ್ಟ ವೀಡಿಯೊಗಳು,ಹಾಡುಗಳು ಎಲ್ಲವೂ ನಾವು ವೀಕ್ಷಿಸಬಹುದು
+Poslist : [ಇಷ್ಟ, ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p80.txt
+Sentence : 0 : ಇದು ನನಗೆ ತುಂಬ ತುಂಬ ಇಷ್ಟವಾದ ಬಿಸ್ಕೆಟ್
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದರ ಒಳಗೆ ಚಾಕ್ಲೇಟ್ ಇರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದನ್ನು ತಿನ್ನುತಿದ್ದರೆ ತಿನ್ನಲೇಬೇಕೆನಿಸುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ಒಂದು ಪೀಸ್ ಬಿಸ್ಕೆಟ್ ತಿಂದರೆ ಹೊಟ್ಟೆ ತುಂಬಿ ಬಿಡುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಹಾಗೆ ಇದರ ಫ್ಲೆವರ್ ನನಗೆ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p81.txt
+Sentence : 0 : ಈ ಚಾಕ್ಲೇಟ್ ನನಗೆ ಇಷ್ಟ ಇರಲಿಲ್ಲ ಆದರೆ ಒಂದು ದಿನ ನನ್ನ ಗೆಳೆಯರು ಇದನ್ನು ತಿನ್ನಲು ಪ್ರೋತ್ಸಾಹಿಸಿದ್ದರು
+Poslist : [ಇಷ್ಟ, ಪ್ರೋತ್ಸಾಹಿಸಿದ್ದರು]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+Sentence : 1 : ಈ ಚಾಕ್ಲೇಟ್ ತಿಂದ ನಂತರ ನಾನು ದಿನ ತಿನ್ನುತ್ತೇನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಐದು ರೂಪಾಯಿಯಿಂದ ೨೦೦ರೂ ರೂಪಾಯಿಯ ಡೈರಿಮಿಲ್ಕ್ ಚಾಕ್ಲೇಟ್‌ನ್ನು ನಾನು ತಿನ್ನುತ್ತೇನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p82.txt
+Sentence : 0 : ಅಂತರ್ಜಾಲ ಇಂದಿನ ದಿನಗಳ ಒಂದು ಆಧುನಿಕ ತಂತ್ರಜ್ಞಾನವಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ಯುವ ಜನತೆಗಲ್ಲದೆ ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಒಂದು ವರವೇ ಆಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದು ಒಂದು ವಿಶ್ವಕೋಶ ಎಂದರೆ ತಪ್ಪಾಗಲಾಗದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಯಾವುದೇ ವಿಷಯದ ಬಗ್ಗೆ ತಿಳುವಳಿಕೆ ಹಾಗೂ ಅದರ ಬಗ್ಗೆ ಜ್ಞಾನ ಬೇಕೆಂದರೆ ಅಂತರ್ಜಾಲದ ಮೊರೆ ಹೊಕ್ಕರೆ ಸಾಕು ಅದರ ಬಗ್ಗೆ ಸಾಕಷ್ಟು ತಿಳುವಳಿಕೆ ಸಿಗುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇನ್ನೂಂದು ವಿಷಾದವೆಂದರೆ ಅದರಲ್ಲಿ ಎಷ್ಟು ಉಪಯುಕ್ತತೆ ಇದೆಯೋ ಅದರಲ್ಲಿ ಅದಕ್ಕಿಂತಲೂ ಮಿಗಿಲಾದ ಕೆಟ್ಟದ್ದೂ ಇದೆ
+Poslist : [ಉಪಯುಕ್ತತೆ]
+Neglist : [ವಿಷಾದವೆಂದರೆ, ಕೆಟ್ಟದ್ದೂ]
+Polarwords: 3
+Poswords: 1
+Negwords: 2
+Sentence : 5 : ಅಂತರ್ಜಾಲವನ್ನು ಮಕ್ಕಳು ಹಾಗೂ ಯುವ ಜನತೆ ಬಳಸಿಕೊಳ್ಳುವ ರೀತಿಯಲ್ಲದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಒಳ್ಳೆಯದಕ್ಕೆ ಬಳಸಿಕೊಂಡರೆ ಒಳ್ಳೆಯದೇ
+Poslist : [ಒಳ್ಳೆಯದೇ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 7 : ಮಕ್ಕಳು ಹಾಗೂ ಯುವಜನತೆ ಕೆಲವು ಈ ಸ‌ಐಬರ್ ಕ್ರೈಂನಲ್ಲಿ ಸಿಕ್ಕಿಹಾಕಿಕೊಳ್ಳುವ ಸಂಭವ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 8 : ಆದ್ದರಿಂದ ಈ ಅಂತರ್ಜಾಲವನ್ನು ಇತಿ ಮಿತಿಯಲ್ಲಿ ಬಳಸಿಕೊಂಡು ಅದರ ಉಪಯುಕ್ತತೆಯನ್ನು ಸರಿಯಾದ ರೀತಿಯಲ್ಲಿ ಬಳಸಿಕೊಂಡು ಉಪಯೋಗ ಪಡೆದುಕೊಳ್ಳುವುದು ಒಳಿತು
+Poslist : [ಸರಿಯಾದ, ಉಪಯೋಗ, ಒಳಿತು]
+Neglist : []
+Polarwords: 3
+Poswords: 3
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p83.txt
+Sentence : 0 : ಇಂದುಲೇಖ ಭೃಂಗಾ ಎಣ್ಣೆಯು ಒಂದು ಆಯುರ್ವೇದದ ವರದಾನವಾಗಿದೆ
+Poslist : [ವರದಾನವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ವಿಪರೀತ ಕೂದಲು ಉದುರುವಿಕೆ ಮತ್ತು ಸಾಕಷ್ಟು ಹೊಸ ಕೂದಲಿನ ಬೆಳವಣಿಗೆಯ ಕೊರತೆಯಿಂದಾಗಿ ತಲೆ ಕೂದಲು ತೆಳುವಾಗುತ್ತದೆ
+Poslist : [ಹೊಸ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಆಯುರ್ವೇದದಲ್ಲಿ ಈ ಸಮಸ್ಯೆಗೆ ಕೇಶವರ್ಧನ ಮತ್ತು ಕೇಶಪಥಸಮನ ಎಂಬ ಹೆಸರಿನ ಎರಡು ವಿಧಾನಗಳನ್ನು ಸಂಯೋಹಿತಗೊಂಡ ಈ ಇಂದುಲೇಖ ಭೃಂಗಾ ತೈಲವನ್ನು ತಯಾರಿಸಲಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಈ ಉತ್ಪನ್ನವನ್ನು ಗ್ರಾಹಕರು ಬಹಳಷ್ಟು ಮೆಚ್ಚಿದ್ದಾರೆ
+Poslist : [ಮೆಚ್ಚಿದ್ದಾರೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಇದು ಬಹುಬೇಡಿಕೆಯ ತೈಲವಾಗಿದೆ
+Poslist : [ಬಹುಬೇಡಿಕೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p84.txt
+Sentence : 0 : ಪ್ಯಾಂಟೀನ್ ಶ್ಯಾಂಪೂ ಗ್ರಾಹಕರ ಬಹುಬೇಡಿಕೆಯ ಉತ್ಪನ್ನವಾಗಿದೆ
+Poslist : [ಬಹುಬೇಡಿಕೆಯ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಧೂಳು ಹಾಗೂ ಪ್ರದೂಷಣೆಯಿಂದಾಗಿ ಉಂಟಾಗುವ ಹಾನಿಯನ್ನು ತಡೆಗಟ್ಟುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಹೀಗೆ ಕೂದಲನ್ನು ಸಂರಕ್ಷಿಸುತ್ತದೆ
+Poslist : [ಸಂರಕ್ಷಿಸುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಕೂದಲನ್ನು ಮೃದು ಹಾಗೂ ಕಾಂತಿಯುತವಾಗಿಸುತ್ತದೆ
+Poslist : [ಮೃದು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಅಲ್ಲದೇ ತಲೆಹೊಟ್ಟನ್ನು ನಿವಾರಣೆ ಮಾಡುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p85.txt
+Sentence : 0 : ಈ ಚಿತ್ರವು ತುಂಬಾ ಚೆನ್ನಾಗಿ ಮೂಡಿಬಂದಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ದೀಪಿಕಾ ಪಡುಕೋಣೆ ಹಾಗೂ ರಣಬೀರ್ ಕಪೂರ್‌ರವರ ನಟನೆ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ದೀಪಿಕಾ ಒಬ್ಬ ಮೆಡಿಕಲ್ ಓದುವ ತುಂಬಾ ಗಾಂಭೀರ್ಯತೆಯ ಹುಡುಗಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಈ ರೀತಿ ಗಾಂಭೀರ್ಯದ ಹುಡುಗಿಯ ಜೀವನದಲ್ಲಿ ಏನೇನಾಗುತ್ತದೇ ಎನ್ನುವುದೇ ಈ ಕಥೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ನನಗೆ ಈ ಚಿತ್ರದಲ್ಲಿರುವ ಎಲ್ಲಾ ಪಾತ್ರಗಳು ತುಂಬಾ ಇಷ್ಟವಾದವು
+Poslist : [ಇಷ್ಟವಾದವು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 5 : ಕಲ್ಕಿ ಹಾಗೂ ಆದಿತ್ಯಾ ರಾಯ್ ಕಪೂರ್ ಪ್ರದರ್ಶನ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p86.txt
+Sentence : 0 : ಸೋನಿ ಟಿವಿಯಲ್ಲಿ ಮೂಡಿಬರುತ್ತಿರುವ ಈ ಧಾರಾವಾಹಿ ಜನರಿಗೆ ಪ್ರಿಯವಾಗಿದೆ
+Poslist : [ಪ್ರಿಯವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಈ ಧಾರಾವಾಹಿಯಲ್ಲಿರುವ ನೀತಿಯು ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ಪೂನಮ್ ದಿಲ್ಲೊನ್ ಹಾಗೂ ಕ್ರಿಸ್ಟಲ್ ಡಿಸೋಜಾ ಅವರ ಪಾತ್ರ ಹಾಗೂ ನಟನೆಯು ತುಂಬಾ ಚೆನ್ನಾಗಿ ಮೂಡಿಬಂದಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದು ಒಂದು ಹುಡುಗಿಯ ಹಾಗೂ ಅವಳ ಅತ್ತೆ ಯಾರಿಗೆ ಓದೋಕೆ,ಬರೆಯೋಕೆ ಬರದಿಲ್ಲವೋ ಅವರಿಗೆ ಬರಹ ಕಲಿಸುವ ಕಥೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಹಾಗೂ ಯಾವ ಹುಡುಗಿ ಮನೆಯ ಬಗ್ಗೆ ಏನೂ ತಿಳಿದಿಲ್ಲವೋ ಅವಳಿಗೆ ಮನೆಯ ಜವಾಬ್ದಾರಿಯನ್ನು ತಿಳಿಸುವ ಕಥೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಇದು ತುಂಬಾ ಚೆನ್ನಾಗಿ ಮೂಡಿ ಬಂದಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p87.txt
+Sentence : 0 : ಇದರಲ್ಲಿ ನಾವು ಲಾಗ್ ಇನ್ ಮಾಡಿದಾಗ ಅದರ ಪಕ್ಕದಲ್ಲಿ ಅನೇಕ ಗೆಳೆಯರ ಪಟ್ಟಿ ಬರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಿಂದ ನಮಗೆ ಆನೇಕ ಉಪಯೋಗಗಳಿವೆ
+Poslist : [ಉಪಯೋಗಗಳಿವೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದರಿಂದ ನಾವು ಬೇರೆಯರೋಡನೆ ಮಾತಾನಾಡಬಹುದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p88.txt
+Sentence : 0 : ಇದರಲ್ಲಿ ನಟಿಸಿರುವ ಅಮಿರ್‌ಖಾನ್ ಬಹಳ ಸುಂದರವಾಗಿ ನಟಿಸಿದ್ದಾರೆ
+Poslist : [ಸುಂದರವಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಅಮಿರ್ ಖಾನ್ ಡಬಲ್ ಆಕ್ಟಿಂಗ್ ಮಾಡಿದ್ದಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದು ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ನನಗೆ ತುಂಬಾ ಇಷ್ಟವಾಯಿತು
+Poslist : [ಇಷ್ಟವಾಯಿತು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p89.txt
+Sentence : 0 : ಇದು ಚೆನ್ನಾಗಿ ಬರೆಯುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದು ನನಗೆ ತುಂಬಾ ಇಷ್ಟವಾಗಿದೆ
+Poslist : [ಇಷ್ಟವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿಯೇ ನಾನು ಬರೆಯುತ್ತೇನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದರ ಬೆಲೆ ಮೂವತ್ತು ಐದು ರೂಪಾಯಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದರ ಕಂಪನಿ ರೆನಾಲ್ದ್ಸ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p9.txt
+Sentence : 0 : ನನಗೆ ಈ ಕ್ರೀಮ್ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಏಕೆಂದರೆ ಇದನ್ನು ಮುಖಕ್ಕೆ ಅಥವಾ ಕೈ,ಕಾಲುಗಳಿಗೆ ಹಚ್ಚಿದರೆ ನಮ್ಮ ಚರ್ಮ ತುಂಬಾ ಮೃದು ಆಗುತ್ತದೆ
+Poslist : [ಮೃದು]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಚಳಿಗಾಲದಲ್ಲಿ ನಮ್ಮ ಚರ್ಮ ಹಾಳಾದರೆ ಇದನ್ನು ಹಚ್ಚಿದರೆ ನಮ್ಮ ಚರ್ಮವನ್ನು ಮೃದು ಹಾಗೂ ನಮ್ಮ ಚರ್ಮವನ್ನು ರಕ್ಷಿಸುತ್ತದೆ
+Poslist : [ಮೃದು, ರಕ್ಷಿಸುತ್ತದೆ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p90.txt
+Sentence : 0 : ಇದರಲ್ಲಿ ವಿಜಯ್ ನಟಿಸಿರುತ್ತಾನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದು ತಮಿಳು ಚಲನಚಿತ್ರ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದನ್ನು ನಾನು ಮೊದಲ ದಿನವೇ ಥೀಯಟರ್‌ಗೆ ಹೋಗಿ ನೋಡಿದ್ದೇನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಇದು ಒಂದು ಸೂಪರ್ ಹಿಟ್ ಮೂವಿ
+Poslist : [ಸೂಪರ್]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ವಿಜಯ್ ನನಗೆ ಇಷ್ಟವಾದ ಹೀರೋ
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p91.txt
+Sentence : 0 : ಇದು ನನಗೆ ಇಷ್ಟವಾದ ಆಟ
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದನ್ನು ನಾನು ಪ್ರತಿವಾರ ಆಟವಾಡುತ್ತೇನೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ನನಗೆ ಧೋನಿ ಇಷ್ಟವಾದ ಆಟಗಾರ
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಅವನು ತುಂಬಾ ಚೆನ್ನಾಗಿ ಆಟವಾಡುತ್ತಾನೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p92.txt
+Sentence : 0 : ಇದೊಂದು ಅದ್ಭುತ ಸಿನಿಮಾ
+Poslist : [ಅದ್ಭುತ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದರ ನಟ ಮತ್ತು ನಟಿ ಬಾಲಿವುಡ್‌ನ ಹೆಸರಾಂತ ನಟ ಶಾರುಕ್ ಖಾನ್ ಮತ್ತು ದೀಪಿಕಾ ಪಡುಕೋಣೆ
+Poslist : [ಹೆಸರಾಂತ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಈ ಚಿತ್ರವನ್ನು ತಮಿಳು ಚಿತ್ರ ಶೈಲಿಯಲ್ಲಿ ತೆಗೆದಿದ್ದಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಈ ಚಿತ್ರ ಕಾಮಿಡಿ ಚಿತ್ರವಾಗಿದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಈ ಚಿತ್ರ ಅತ್ಯುತ್ತಮವಾಗಿ ಮೂಡಿಬಂದಿದೆ
+Poslist : [ಅತ್ಯುತ್ತಮವಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 5 : ಇದರಲ್ಲಿ ನಟಿಸಿರುವರೆಲ್ಲರೂ ಚೆನ್ನಾಗಿ ನಟಿಸಿದ್ದಾರೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 6 : ನನಗೆ ಈ ಚಿತ್ರ ತುಂಬ ಇಷ್ಟವಾಗಿದೆ
+Poslist : [ಇಷ್ಟವಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 7 : ಇದರಲ್ಲಿರುವ ಕಾಮಿಡಿ ನನಗೆ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p93.txt
+Sentence : 0 : ಈ ಆಟವನ್ನು ಯೂರೋಪ್ ದೇಶಗಳಲ್ಲಿ ತುಂಬಾ ಆಡುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ೧೧ ಜನ ಆಟಗಾರರಿರುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಅದರಲ್ಲಿ ಒಬ್ಬ ಗೋಲ್‌ಕೀಪರ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಪುಟ್‌ಬಾಲ್ ಗ್ರೊಂಡ್‌ನ ಅಳತೆ ೯೦ *೧೨೦ ಅಡಿ ಇರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇದರಲ್ಲಿ ಇಬ್ಬರು ರೆಫರಿಗಳಿರುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಈ ಆಟವೆಂದರೆ ನನಗೆ ಪಂಚಪ್ರಾಣ
+Poslist : [ಪಂಚಪ್ರಾಣ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 6 : ಇದನ್ನು ಕಾಲಿನಲ್ಲಿ ಒದೆಯಬೇಕು,ಕೈನಲ್ಲಿ ಮುಟ್ಟಬಾರದು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 7 : ನನಗೆ ಇಷ್ಟವಾದ ಪುಟ್‌ಬಾಲ್ ತಂಡ ಆರ್ಜೇಟೆನಿಯಾ ಮತ್ತು ಇಷ್ಟವಾದ ಆಟಗಾರ ಮೆಸ್ಸಿ
+Poslist : [ಇಷ್ಟವಾದ, ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p94.txt
+Sentence : 0 : ನನಗೆ ಇಷ್ಟವಾದ ಚಾನಲ್ ಎಂದರೆ ಸ್ಟಾರ್ ಮೂವೀಸ್
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಯಾವಾಗಲೂ ಚಿತ್ರಗಳನ್ನು ಹಾಕುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಈ ಚಾನಲ್ ಅಂದರೆ ನನಗೆ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಯಾವಾಗಲು ಹೊಸ ಚಲನಚಿತ್ರಗಳನ್ನು ಹಾಕುತ್ತಾರೆ
+Poslist : [ಹೊಸ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಇದರಲ್ಲಿ ಆಕ್ಷನ್ ಮೂವಿಗಳನ್ನು ಹಾಕುತ್ತಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಆದ್ದರಿಂದ ನನಗೆ ಈ ಚಾನಲ್ ಎಂದರೆ ತುಂಬಾ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p95.txt
+Sentence : 0 : ನನಗೆ ಇಷ್ಟವಾದ ಬಿಸ್ಕೆಟ್ ಎಂದರೆ ಸನ್‌ಫೀಸ್ಟ್ ಡಾರ್ಕ್‌ಫೇನ್‌ಟೆಸಿ
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದು ನನಗೆ ತುಂಬಾ ಇಷ್ಟವಾದ ಬಿಸ್ಕೆಟ್
+Poslist : [ಇಷ್ಟವಾದ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 2 : ಇದು ತುಂಬ ರುಚಿಕರವಾಗಿರುತ್ತದೆ
+Poslist : [ರುಚಿಕರವಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಚೋಕಲೇಟ್ ಇರುವ ಬಿಸ್ಕೆಟ್ ನನಗೆ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಇದು ಕ್ರಿಸ್ಪಿಯಾಗಿರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಈ ಬಿಸ್ಕೆಟ್ ತಿನ್ನುವಾದ ಆಗುವ ಅನುಭವವೇ ಬೇರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಇದರಲ್ಲಿ ವೆನಿಲಾ ಕ್ರೀಮ್ ಬರುತ್ತದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 7 : ಇದು ಚೆನ್ನಾಗಿ,ರುಚಿಕರವಾಗಿ ಇರುತ್ತದೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p96.txt
+Sentence : 0 : ಇವರು ಭಾರತ ಕಂಡ ಅತ್ಯುತ್ತಮ ವಿಜ್ಞಾನಿ
+Poslist : [ಅತ್ಯುತ್ತಮ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇವರು ಡಿವೆನ್ಸ್ ರಿಸರ್ಚ್ ಅಂಡ್ ಡೆವಲಂಪ್‌ಮೆಂಟ್ ಆರ್ಗನೈಸೇಶನ್‌ನಲ್ಲಿ ವಿಜ್ಞಾನಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿದರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇವರು ಅನೇಕ ಮಿಸೈಲ್‌ಗಳನ್ನು ಕಂಡುಹಿಡಿದರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಉದಾಹರಣೆಗೆ:ಅಗ್ನಿ,ಆಗ್ನಿ-೨,ನಾಣ್,ತ್ರಿಶೂಲ್ ಮುಂತಾದವುಗಳನ್ನು ಕಂಡು ಹಿಡಿದಿದ್ದಾರೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ಇವರ ಅಮೋಘ ಸಾಧನೆಗೆ ಭಾರತ ಸರ್ಕಾರ ಅತ್ಯುತ್ತಮ ಪ್ರಶಸ್ತಿಯಾದ ಭಾರತ ರತ್ನವನ್ನು ನೀಡಿ ಗೌರವಿಸಿದೆ
+Poslist : [ಅಮೋಘ, ಅತ್ಯುತ್ತಮ, ಗೌರವಿಸಿದೆ]
+Neglist : []
+Polarwords: 3
+Poswords: 3
+Negwords: 0
+Sentence : 5 : ಇವರು ನಮ್ಮ ದೇಶದ ರಾಷ್ಟ್ರಪತಿಗಳಾಗಿದ್ದರು
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 3.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p97.txt
+Sentence : 0 : ಧೂಮ್-೩ ಚಿತ್ರದಲ್ಲಿ ನಟಿಸಿರುವ ಅಮೀರ್ ಖಾನ್ ತುಂಬಾನೆ ಚೆನ್ನಾಗಿ ನಟಿಸಿದ್ದಾನೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಬಿ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಎಮ್
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 3 : ಡಬ್ಲೂ ಬೈಕ್ ತುಂಬಾನೆ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 4 : ಇದರಲ್ಲಿರುವ ಡಿಸ್ಕ್ ಬ್ರೇಕ್ ಸುಮಾರು ೨೦ ಲಕ್ಷ ಬೆಲೆ ಮತ್ತು ಅದರಲ್ಲಿ ಸುಮಾರು ಮೂರು ತರಹ ಬೈಕುಗಳಿವೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಇದರಲ್ಲಿ ವಾಟರ್ ಸ್ಕೂಟರ್ ಕೂಡಾ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 6 : ಇದರಲ್ಲಿ ಅವನು ವೆಸ್ತರ್ನ್ ಬ್ಯಾಂಕ್ ಆಫ್ ಚೀಕಾಗೊ ಅವನು ದರೋಡೆ ಮಾಡುವ ರೀತಿ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : [ದರೋಡೆ]
+Polarwords: 2
+Poswords: 1
+Negwords: 1
+Sentence : 7 : ಇದರಲ್ಲಿ ಅವನು ಮಾಡುವ ಬೈಕ್ ಸ್ಟಂಟ್ಸ್ ತುಂಬಾನೆ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+POLARITY= 0.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p98.txt
+Sentence : 0 : ಟೆನ್ನಿಸ್‌ನಲ್ಲಿ ಎರಡು ತರಹ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 1 : ಇದರಲ್ಲಿ ಟೇಬಲ್ ಟೆನ್ನಿಸ್ ಮತ್ತು ಲಾನ್ ಟೆನ್ನಿಸ್ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ನನಗೆ ಟೆನ್ನಿಸ್ ಇಷ್ಟ
+Poslist : [ಇಷ್ಟ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಲಾನ್ ಟೆನ್ನಿಸ್‌ನಲ್ಲಿ ವರ್ಲ್ಡ್ ನಂ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 4 : ೧ ಆಟಗಾರ ರಾಫೇಲ್ ನಡಾಲ್ ಇದರಲ್ಲಿ ಡಬಲ್ಸ್ ವಿಭಾಗ ಮತ್ತು ಸಿಂಗಲ್ಸ್ ವಿಭಾಗ ಎರಡು ತರ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 5 : ಡಬಲ್ಸ್‌ನಲ್ಲಿ ಮಿಕ್ಸ್‌ಡ್ ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+POLARITY= 1.0
+-----------------------------------------------------
+-----------------------------------------------------
+FILENAME      : p99.txt
+Sentence : 0 : ತಲೈವಾದಲ್ಲಿ ನಟಿಸಿರುವ ವಿಜಯ್ ತುಂಬಾ ಚೆನ್ನಾಗಿ ನಟಿಸಿದ್ದಾನೆ
+Poslist : [ಚೆನ್ನಾಗಿ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 1 : ತಲೈವಾ ಎಂದರೆ ಲೀಡರ್ ಇದರಲ್ಲಿ ತುಂಬಾನೆ ಪೈಟಿಂಗಳು ಇದೆ
+Poslist : []
+Neglist : []
+Polarwords: 0
+Poswords: 0
+Negwords: 0
+Sentence : 2 : ಇದರಲ್ಲಿ ವಿಜಯ್ ಡಾನ್ಸ್ ಮಾಡುವ ರೀತಿ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ
+Poslist : [ಚೆನ್ನಾಗಿದೆ]
+Neglist : []
+Polarwords: 1
+Poswords: 1
+Negwords: 0
+Sentence : 3 : ಇದರಲ್ಲಿ ಅವನು ಕೊಲ್ಲುವ ರೀತಿ ಮತ್ತು ಆವನ ಒಳ್ಳೆಯತನ ಅದನ್ನು ನೋಡಲು ತುಂಬಾ ಚೆನ್ನಾಗಿರುತ್ತದೆ
+Poslist : [ಒಳ್ಳೆಯತನ, ಚೆನ್ನಾಗಿರುತ್ತದೆ]
+Neglist : []
+Polarwords: 2
+Poswords: 2
+Negwords: 0
+POLARITY= 2.0
+-----------------------------------------------------
+FOLDER NAME           : Positive Separate Files
+TOTAL POSITIVE REVIEWS: 168
+TOTAL NEGATIVE REVIEWS: 3
+TOTAL NEUTRAL REVIEWS : 12
+BUILD SUCCESSFUL (total time: 5 seconds)
